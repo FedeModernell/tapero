@@ -1,0 +1,13 @@
+:root { --fondo: #f5c430; --tinta: #122040; --suave: #2c3b5e; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--fondo); color: var(--tinta); font: 17px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 640px; margin: 0 auto; padding: 48px 16px 64px; }
+h1 { font-size: 2.6rem; line-height: 1.05; margin: 16px 0 8px; letter-spacing: -0.02em; }
+h2 { font-size: 1.2rem; margin-top: 2em; }
+a { color: var(--tinta); font-weight: 600; }
+.logo { width: 96px; height: 96px; border-radius: 50%; }
+.redes { display: flex; flex-wrap: wrap; gap: 10px; margin: 24px 0; padding: 0; list-style: none; }
+.redes a { display: inline-block; padding: 10px 16px; border: 2px solid var(--tinta); border-radius: 999px; text-decoration: none; }
+.redes a:hover { background: var(--tinta); color: var(--fondo); }
+.chico { color: var(--suave); font-size: 0.9rem; }
+footer { margin-top: 48px; font-size: 0.9rem; }

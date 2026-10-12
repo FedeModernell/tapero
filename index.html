@@ -77,11 +77,11 @@ input::placeholder,textarea::placeholder{color:var(--suave)}
 
 /* player destacado */
 .player{background:var(--superficie);border-radius:22px;padding:18px;box-shadow:0 30px 60px -30px rgba(0,0,0,.6)}
-.player .portada{border-radius:var(--radio);aspect-ratio:1;object-fit:cover;width:100%;background:var(--fondo)}
+.player .portada{border-radius:var(--radio);aspect-ratio:16/9;object-fit:cover;width:100%;background:var(--fondo)}
 .player .info{padding:18px 6px 4px}
 .player .info small{color:var(--marca);font-weight:600;letter-spacing:.12em;text-transform:uppercase;font-size:.72rem}
 .player h3{font-size:1.9rem;margin:6px 0 14px}
-.barra{display:flex;align-items:center;gap:14px}
+.barra{display:flex;align-items:center;gap:14px}.barra[hidden]{display:none}
 .play{flex:none;width:54px;height:54px;border-radius:50%;border:0;background:var(--marca);color:var(--fondo);cursor:pointer;display:grid;place-items:center;transition:transform .15s}
 .play:hover{transform:scale(1.06)}
 .play svg{width:22px;height:22px;fill:currentColor}
@@ -172,11 +172,11 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
     </div>
 
     <div class="player" aria-label="Episodio destacado">
-      <img class="portada" src="tapero/portada.jpg" alt="Portada de Ta, pero…" onerror="this.src='icono.jpg'">
+      <video class="portada" id="trailer" controls playsinline preload="metadata" poster="trailer/poster.jpg" src="trailer/trailer_16x9.mp4" aria-label="Tráiler de Ta, pero…"></video>
       <div class="info">
-        <small id="dest-etq">Para arrancar</small>
+        <small id="dest-etq">Mirá cómo suena la mesa</small>
         <h3 id="dest-titulo">Ta, pero… — el tráiler</h3>
-        <div class="barra">
+        <div class="barra" hidden>
           <button class="play" id="dest-play" aria-label="Reproducir"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button>
           <div class="progreso">
             <div class="pista" id="pista"><i id="avance"></i></div>
@@ -309,6 +309,8 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
 
   var $ = function(s){return document.querySelector(s)};
   var audio = $("#audio");
+  var tvideo = $("#trailer");
+  tvideo.addEventListener("play",function(){audio.pause(); medir("play","tapero-trailer-video")});
   var ICON_PLAY = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>';
   var ICON_PAUSE = '<svg viewBox="0 0 24 24"><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>';
 
@@ -339,17 +341,14 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
     lista.innerHTML = html;
     window._reales = reales;
     if(reales[0]){
-      $("#dest-titulo").textContent = reales[0].titulo;
-      $("#t-total").textContent = fmt(reales[0].duracion_s);
-      $("#dest-etq").textContent = reales[0].tipo==="trailer" ? "Para arrancar" : "Último episodio";
     }
   }
   function reproducir(i){
     var e = window._reales && window._reales[i];
     if(!e) return;
     if(actual===i && !audio.paused){audio.pause();return}
-    if(actual!==i){audio.src = BASE+"audio/"+e.archivo; actual = i;
-      $("#dest-titulo").textContent = e.titulo; $("#t-total").textContent = fmt(e.duracion_s)}
+    if(actual!==i){audio.src = BASE+"audio/"+e.archivo; actual = i}
+    tvideo.pause();
     audio.play();
     medir("play", e.guid || e.titulo);
   }

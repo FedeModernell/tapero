@@ -1,0 +1,22 @@
+[
+ {
+  "podcast_id": "tapero",
+  "fecha": "2026-10-12",
+  "guid": "tapero-trailer",
+  "titulo": "Ta, pero… — el tráiler",
+  "descripcion": "Esto es Ta, pero…: personajes ficticios y figuras históricas recreadas, con guion y voces de inteligencia artificial. Los hechos, con fuente en la descripción.\n\nQué es Ta, pero…: cada día, la noticia de Uruguay discutida en una mesa con gente de hoy y figuras de nuestra historia recreadas con IA.\n\n—\nTa, pero… · Figuras de nuestra historia, recreadas con IA, discuten la noticia del día con gente de hoy.\nPersonajes de hoy ficticios · Guion y voces con IA.\nTa, pero… · Recreaciones con IA",
+  "titulo_youtube": "",
+  "comentario_fijado": "",
+  "audio": "trailer.mp3",
+  "duracion_s": 83.646689,
+  "bytes": 1339602,
+  "video": null,
+  "subtitulos": null,
+  "transcripcion": null,
+  "capitulos": [],
+  "clips": [],
+  "fuentes": [],
+  "tipo": "trailer",
+  "archivo": "2026-10-12.mp3"
+ }
+]

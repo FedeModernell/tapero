@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ta, pero…</title>
+    <link>https://fedemodernell.github.io/tapero/tapero</link>
+    <atom:link href="https://fedemodernell.github.io/tapero/tapero/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Figuras de nuestra historia discuten la noticia de hoy. Cada día, Batlle, Artigas, Paulina Luisi y otros, recreados con inteligencia artificial, se sientan en la misma mesa que gente de hoy (una jubilada, un productor rural, una docente) y discuten la noticia de Uruguay, siempre diciendo quién la informó. Los personajes y las voces son recreaciones hechas con IA; los hechos, con fuente.</description>
+    <language>es-UY</language>
+    <itunes:author>Ta, pero… Podcast</itunes:author>
+    <itunes:owner><itunes:name>Ta, pero… Podcast</itunes:name><itunes:email>taperopodcast@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://fedemodernell.github.io/tapero/tapero/portada.png"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ta, pero… — el tráiler</title>
+      <description>Esto es Ta, pero…: personajes ficticios y figuras históricas recreadas, con guion y voces de inteligencia artificial. Los hechos, con fuente en la descripción.
+
+Qué es Ta, pero…: cada día, la noticia de Uruguay discutida en una mesa con gente de hoy y figuras de nuestra historia recreadas con IA.
+
+—
+Ta, pero… · Figuras de nuestra historia, recreadas con IA, discuten la noticia del día con gente de hoy.
+Personajes de hoy ficticios · Guion y voces con IA.
+Ta, pero… · Recreaciones con IA</description>
+      <guid isPermaLink="false">tapero-trailer</guid>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 -0300</pubDate>
+      <enclosure url="https://fedemodernell.github.io/tapero/tapero/audio/2026-10-12.mp3" length="1339602" type="audio/mpeg"/>
+      <itunes:duration>00:01:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>trailer</itunes:episodeType>
+    </item>
+  </channel>
+</rss>

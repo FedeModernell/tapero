@@ -283,6 +283,30 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
     {nombre:"RSS", url:"tapero/feed.xml"}
   ];
 
+  // ---- medición sin cookies ni datos personales ----
+  // Un evento anónimo por visita/acción: tipo, de dónde vino y celular/escritorio. Sin IP ni identificadores.
+  // Solo cuenta en el dominio real (no en pruebas locales) y respeta "No rastrear".
+  var MIDE = SUPABASE_URL && /(^|\.)(tapero\.uy|github\.io)$/.test(location.hostname) && navigator.doNotTrack !== "1";
+  function fuente(){
+    try{
+      var u = new URLSearchParams(location.search).get("utm_source") || new URLSearchParams(location.search).get("s");
+      if(u) return u.toLowerCase().slice(0,80);
+      if(document.referrer){var h = new URL(document.referrer).hostname.replace(/^www\./,""); if(h && h!==location.hostname) return h.slice(0,80)}
+    }catch(e){}
+    return "directo";
+  }
+  var ORIGEN = fuente(), DISPOSITIVO = innerWidth < 768 ? "movil" : "escritorio";
+  function medir(tipo, detalle){
+    if(!MIDE) return;
+    try{
+      fetch(SUPABASE_URL+"/rest/v1/visitas",{method:"POST",keepalive:true,
+        headers:{"Content-Type":"application/json","apikey":SUPABASE_KEY,"Authorization":"Bearer "+SUPABASE_KEY,"Prefer":"return=minimal"},
+        body:JSON.stringify({tipo:tipo,fuente:ORIGEN,dispositivo:DISPOSITIVO,detalle:detalle?String(detalle).slice(0,80):null})
+      }).catch(function(){});
+    }catch(e){}
+  }
+  medir("vista");
+
   var $ = function(s){return document.querySelector(s)};
   var audio = $("#audio");
   var ICON_PLAY = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>';
@@ -327,6 +351,7 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
     if(actual!==i){audio.src = BASE+"audio/"+e.archivo; actual = i;
       $("#dest-titulo").textContent = e.titulo; $("#t-total").textContent = fmt(e.duracion_s)}
     audio.play();
+    medir("play", e.guid || e.titulo);
   }
   function estado(){
     var jugando = !audio.paused;
@@ -361,6 +386,7 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
       var a = document.createElement("a");
       a.className = "btn btn-borde"; a.href = p.url; a.textContent = p.nombre;
       if(/^https?:/.test(p.url)){a.target = "_blank"; a.rel = "noopener"}
+      a.addEventListener("click", function(){medir("plataforma", p.nombre)});
       caja.appendChild(a); n++;
     });
     if(n) caja.hidden = false;
@@ -398,7 +424,7 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
     var f = ev.target, msg = $("#msg-aviso"), email = f.email.value.trim();
     if(f.web.value) return;
     if(!emailOk(email)){msg.className="msg error";msg.textContent="Revisá el email: parece incompleto.";return}
-    enviar("avisos",{email:email,origen:"landing"},msg,"¡Listo! Te avisamos cuando salga un episodio.").then(function(ok){if(ok) f.reset()});
+    enviar("avisos",{email:email,origen:"landing"},msg,"¡Listo! Te avisamos cuando salga un episodio.").then(function(ok){if(ok){f.reset(); medir("aviso")}});
   });
   $("#form-contacto").addEventListener("submit",function(ev){
     ev.preventDefault();
@@ -406,7 +432,7 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
     if(f.web.value) return;
     var d = {nombre:f.nombre.value.trim(), email:f.email.value.trim(), mensaje:f.mensaje.value.trim()};
     if(!d.nombre || !emailOk(d.email) || d.mensaje.length<5){msg.className="msg error";msg.textContent="Completá nombre, un email válido y tu mensaje.";return}
-    enviar("contacto",d,msg,"Mensaje enviado. Gracias por escribir.").then(function(ok){if(ok) f.reset()});
+    enviar("contacto",d,msg,"Mensaje enviado. Gracias por escribir.").then(function(ok){if(ok){f.reset(); medir("contacto")}});
   });
 })();
 </script>

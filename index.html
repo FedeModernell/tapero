@@ -410,7 +410,7 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
     }).then(function(r){
       if(!r.ok && r.status!==409) throw 0;
       msg.className="msg ok";
-      msg.textContent = (r.status===409) ? "Ya estabas anotado/a. Te avisamos igual." : okTexto;
+      msg.textContent = (r.status===409) ? "Ya estabas anotado/a. Te escribimos igual." : okTexto;
       return true;
     }).catch(function(){
       msg.className="msg error"; msg.textContent = "No pudimos enviarlo. Probá de nuevo o escribinos a "+CORREO; return false;

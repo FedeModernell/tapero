@@ -3,13 +3,13 @@
      xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ta, pero…</title>
-    <link>https://fedemodernell.github.io/tapero</link>
-    <atom:link href="https://fedemodernell.github.io/tapero/tapero/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://tapero.uy</link>
+    <atom:link href="https://tapero.uy/tapero/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Figuras de nuestra historia discuten la noticia de hoy. Cada día, Batlle, Artigas, Paulina Luisi y otros, recreados con inteligencia artificial, se sientan en la misma mesa que gente de hoy (una jubilada, un productor rural, una docente) y discuten la noticia de Uruguay, siempre diciendo quién la informó. Los personajes y las voces son recreaciones hechas con IA; los hechos, con fuente.</description>
     <language>es-UY</language>
     <itunes:author>Ta, pero… Podcast</itunes:author>
     <itunes:owner><itunes:name>Ta, pero… Podcast</itunes:name><itunes:email>taperopodcast@gmail.com</itunes:email></itunes:owner>
-    <itunes:image href="https://fedemodernell.github.io/tapero/tapero/portada.jpg"/>
+    <itunes:image href="https://tapero.uy/tapero/portada.jpg"/>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -26,7 +26,7 @@ Más en tapero.uy
 Ta, pero… · Recreaciones con IA</description>
       <guid isPermaLink="false">tapero-trailer</guid>
       <pubDate>Tue, 13 Oct 2026 06:00:00 -0300</pubDate>
-      <enclosure url="https://fedemodernell.github.io/tapero/tapero/audio/trailer.mp3" length="1017773" type="audio/mpeg"/>
+      <enclosure url="https://tapero.uy/tapero/audio/trailer.mp3" length="1017773" type="audio/mpeg"/>
       <itunes:duration>00:01:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>trailer</itunes:episodeType>

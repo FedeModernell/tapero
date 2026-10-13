@@ -166,8 +166,8 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
         <input class="honey" type="text" name="web" tabindex="-1" autocomplete="off" aria-hidden="true">
         <button class="btn btn-marca" type="submit">Avisame</button>
       </form>
-      <p class="msg" id="msg-aviso" role="status">Te escribimos cuando salga un episodio nuevo. Nada más.</p>
-      <p class="consent">Al anotarte aceptás que guardemos tu email solo para avisarte de episodios. Podés pedir la baja cuando quieras. <a href="privacidad.html">Privacidad</a>.</p>
+      <p class="msg" id="msg-aviso" role="status">Dejanos tu email y te escribimos cuando haya novedades del programa. Nada más.</p>
+      <p class="consent">Al anotarte aceptás que guardemos tu email solo para escribirte novedades del programa. Podés pedir la baja cuando quieras. <a href="privacidad.html">Privacidad</a>.</p>
       <div class="escuchar" id="escuchar" hidden><span>Escuchalo en</span></div>
     </div>
 
@@ -337,7 +337,7 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
         '<span class="dur">'+fmt(e.duracion_s)+'</span>'+
         '<button class="play" data-i="'+i+'" aria-label="Reproducir '+esc(e.titulo)+'">'+ICON_PLAY+'</button></li>';
     });
-    html += '<li class="fila pronto"><span class="n">1</span><div class="mini"></div><div><h3>El primer episodio completo<span class="insignia">Pronto</span></h3><p>Dejá tu email arriba y te avisamos.</p></div><span class="dur">~8:00</span><button class="play" tabindex="-1" aria-hidden="true">'+ICON_PLAY+'</button></li>';
+    html += '<li class="fila pronto"><span class="n">1</span><div class="mini"></div><div><h3>El primer episodio completo<span class="insignia">Pronto</span></h3><p>Dejá tu email arriba y te escribimos.</p></div><span class="dur">~8:00</span><button class="play" tabindex="-1" aria-hidden="true">'+ICON_PLAY+'</button></li>';
     lista.innerHTML = html;
     window._reales = reales;
     if(reales[0]){
@@ -423,7 +423,7 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
     var f = ev.target, msg = $("#msg-aviso"), email = f.email.value.trim();
     if(f.web.value) return;
     if(!emailOk(email)){msg.className="msg error";msg.textContent="Revisá el email: parece incompleto.";return}
-    enviar("avisos",{email:email,origen:"landing"},msg,"¡Listo! Te avisamos cuando salga un episodio.").then(function(ok){if(ok){f.reset(); medir("aviso")}});
+    enviar("avisos",{email:email,origen:"landing"},msg,"¡Listo! Te escribimos cuando haya novedades.").then(function(ok){if(ok){f.reset(); medir("aviso")}});
   });
   $("#form-contacto").addEventListener("submit",function(ev){
     ev.preventDefault();

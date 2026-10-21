@@ -1,6 +1,205 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-15",
+  "guid": "tapero-2026-10-15",
+  "titulo": "Solaria: la inversión anunciada y los términos reservados",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nEl 14 de octubre Orsi anunció con Solaria una inversión de US$5.700 millones que calificó como «de las más grandes de la historia reciente, si no la más grande». El acuerdo es confidencial, según fuentes del Poder Ejecutivo citadas por El Observador. Y en la Asamblea General, los dos diputados de Cabildo Abierto se retiraron de sala y el Frente Amplio aprobó su moción sobre Cardama con 65 votos sobre 128 presentes. ¿Alcanza con la mayoría de presentes, o había que esperar a los ausentes?\n\n- Solaria: US$5.700 millones para centros de datos y energía solar en zona franca, con obras previstas desde marzo de 2027 y términos reservados\n- Cardama: Cabildo Abierto se retiró de la Asamblea, el FA aprobó su moción y el informe fue a Fiscalía\n\nEn la mesa: Inés, Sofía (economista), José Artigas y José Batlle y Ordóñez (recreaciones con IA).\n\nSi en marzo de 2027, cuando está previsto que arranquen las obras, el acuerdo sigue siendo confidencial, ¿el gobierno tendría que publicar los términos antes de empezar?\n\n—\nTa, pero… · Figuras de nuestra historia, recreadas con IA, discuten la noticia del día con gente de hoy.\nPersonajes de hoy ficticios · Guion y voces con IA.\nMás en tapero.uy\nFuente: la diaria · 15 de octubre de 2026",
+  "titulo_youtube": "15/10 · Solaria y los US$5.700 millones: lo que se anunció y lo que sigue reservado | Ta, pero…",
+  "comentario_fijado": "Si en marzo de 2027, cuando está previsto que arranquen las obras, el acuerdo con Solaria sigue siendo confidencial, ¿el gobierno tendría que publicar los términos antes de empezar? ¿Por qué sí o por qué no?",
+  "audio": "episodio.mp3",
+  "duracion_s": 393.612336,
+  "bytes": 9448010,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-15.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Solaria y los US$5.700 millones: qué se anunció y qué no se sabe",
+    "inicio": 135.3
+   },
+   {
+    "titulo": "Cardama en la Asamblea: Cabildo Abierto se retira y el FA aprueba su moción",
+    "inicio": 210.7
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 337.1
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "Cardama: ¿se puede aprobar con Cabildo fuera de sala?",
+    "texto_instagram": "Cabildo Abierto se retiró de la Asamblea General y el Frente Amplio aprobó su moción sobre las patrulleras Cardama con 65 votos sobre 128 presentes.\n\nEl FA sostiene que aplicó la mayoría de presentes (art. 86); desde la oposición, el senador Tabaré Viera habló de «atropello de las mayorías». Cabildo explicó que se fue para «romper el empate». En la mesa lo discuten Artigas y Batlle (recreaciones con IA) y Sofía.\n\n¿Cuánto pesa cómo se vota frente a lo que se vota?\n\n#PatrullerasCardama",
+    "texto_tiktok": "Cardama en la Asamblea: el FA aprobó su moción con 65 votos sobre 128 presentes tras la salida de Cabildo Abierto. #PatrullerasCardama",
+    "texto_shorts": "Cardama: ¿se puede aprobar con Cabildo fuera de sala? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "Solaria: ¿qué se sabe del acuerdo y qué no?",
+    "texto_instagram": "Orsi anunció el 14 de octubre una inversión de US$5.700 millones de Solaria en centros de datos y energía solar, en zona franca. Orsi y la ministra Cardona la calificaron de histórica.\n\nEl acuerdo es confidencial, según fuentes del Ejecutivo citadas por El Observador, y las obras están previstas desde marzo de 2027. Se proyectan 3.100 puestos en la construcción.\n\n¿Qué te parece más importante conocer antes de que arranquen las obras?\n\n#SolariaUruguay",
+    "texto_tiktok": "Solaria en Uruguay: US$5.700 millones anunciados y un acuerdo confidencial. ¿Qué querés saber de los términos? #SolariaUruguay",
+    "texto_shorts": "Solaria: ¿qué se sabe del acuerdo y qué no? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_3.mp4",
+    "titulo": "Olivera: ¿por qué Solaria no fue para el norte?",
+    "texto_instagram": "El intendente de Paysandú, Nicolás Olivera, dijo el mismo día del anuncio que el proyecto de Solaria no fue para el norte (Artigas, Tacuarembó, Paysandú). Lo atribuyó al costo de la energía en el litoral, a los fletes y a «la burocracia del gobierno», y pidió una definición sobre HIF Global, la planta de hidrógeno verde de Paysandú.\n\n¿Qué debería definir primero el gobierno para el norte?\n\n#SolariaUruguay",
+    "texto_tiktok": "Olivera, intendente de Paysandú: el anuncio de Solaria «no fue para el norte». Pidió una definición sobre HIF Global. #SolariaUruguay",
+    "texto_shorts": "Olivera: ¿por qué Solaria no fue para el norte? #Shorts",
+    "medio": "la diaria"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "Orsi anunció que empresa española invertirá 5.700 millones de dólares en un parque tecnológico que dará 1.500 puestos de trabajo",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/orsi-anuncio-que-empresa-espanola-invertira-5700-millones-de-dolares-en-un-parque-tecnologico-que-dara-1500-puestos-de-trabajo/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "La inversión “más grande de la historia reciente”",
+    "url": "https://ladiaria.com.uy/articulo/2026/10/la-inversion-mas-grande-de-la-historia-reciente/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "US$ 5.700 millones y 3.000 empleos: Orsi anunció la mayor inversión de la historia reciente de Uruguay",
+    "url": "https://www.carasycaretas.com.uy/politica/us-5700-millones-y-3000-empleos-orsi-anuncio-la-mayor-inversion-la-historia-reciente-uruguay-n100148"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "Qué hay detrás de la inversión \"récord\" anunciada por Orsi: las claves de una noticia que se manejó con hermetismo",
+    "url": "https://www.elpais.com.uy/informacion/politica/que-hay-detras-de-la-inversion-record-anunciada-por-orsi-las-claves-de-una-noticia-que-se-manejo-con-hermetismo"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Quién es Solaria, la firma española detrás del megaproyecto de centros de datos en Uruguay",
+    "url": "https://www.elobservador.com.uy/economia-y-empresas/quien-es-solaria-la-firma-espanola-detras-del-megaproyecto-centros-datos-uruguay-n6060467"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "El nuevo data center anunciado por el gobierno será \"cinco veces más grande\" que el de Google y dejará 1.500 empleos permanentes, dijo Cardona",
+    "url": "https://www.elobservador.com.uy/nacional/el-nuevo-data-center-anunciado-el-gobierno-sera-cinco-veces-mas-grande-que-el-google-y-dejara-1500-empleos-permanentes-dijo-cardona-n6060450"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Orsi anuncia la \"mayor inversión en la historia\" de Uruguay: compañía española Solaria desarrollará parque de centros de datos por US$ 5.700 millones",
+    "url": "https://www.elobservador.com.uy/nacional/orsi-anuncia-la-mayor-inversion-la-historia-uruguay-compania-espanola-solaria-desarrollara-parque-centros-datos-us-5700-millones-n6060433"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Orsi anunció inversión privada de 5.700 millones de dólares en un parque tecnológico de centros de datos y en energía solar",
+    "url": "https://www.subrayado.com.uy/orsi-anuncio-inversion-privada-5700-millones-dolares-un-parque-tecnologico-centros-datos-y-energia-solar-n1020761"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "\"Es un proyecto donde gana UTE, gana Uruguay\", dijo Cardona sobre inversión y destacó generación de 3.000 empleos",
+    "url": "https://www.subrayado.com.uy/es-un-proyecto-donde-gana-ute-gana-uruguay-dijo-cardona-inversion-y-destaco-generacion-3000-empleos-n1020763"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Solaria, la empresa española que hace 10 años opera en Uruguay y acordó con el gobierno instalación de parque tecnológico",
+    "url": "https://www.subrayado.com.uy/solaria-la-empresa-espanola-que-hace-10-anos-opera-uruguay-y-acordo-el-gobierno-instalacion-parque-tecnologico-n1020814"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Tras anuncio de inversión millonaria, Nicolás Olivera reclamó definición del gobierno por HIF Global",
+    "url": "https://www.subrayado.com.uy/tras-anuncio-inversion-millonaria-nicolas-olivera-reclamo-definicion-del-gobierno-hif-global-n1020804"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Orsi anunció la inversión “más grande”: la compañía española que llegará a Uruguay",
+    "url": "https://www.montevideo.com.uy/auc.aspx?978551"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Qué es Solaria, la empresa que ya tiene negocios con UTE y hace inversión “histórica”",
+    "url": "https://www.montevideo.com.uy/auc.aspx?978558"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Orsi anunció la mayor inversión en la historia del país: US$5.700 millones en centros de datos solares",
+    "url": "https://www.lr21.com.uy/economia/1499700-orsi-anuncio-la-mayor-inversion-en-la-historia-del-pais-us5-700-millones-en-centros-de-datos-solares"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Olivera reclamó al gobierno por HIF Global: “Hace dos años que estamos en esta vuelta”",
+    "url": "https://www.montevideo.com.uy/auc.aspx?978608"
+   },
+   {
+    "fuente": "En Perspectiva",
+    "titulo": "El gobierno de Yamandú Orsi celebró dos novedades para exhibir en los últimos días",
+    "url": "https://enperspectiva.uy/en-perspectiva-programa/la-mesa/el-gobierno-de-yamandu-orsi-celebro-dos-novedades-para-exhibir-en-los-ultimos-dias/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Asamblea General por Cardama: sin Cabildo Abierto en sala, FA consiguió la mayoría para aprobar su moción",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/asamblea-general-por-cardama-sin-cabildo-abierto-en-sala-fa-consiguio-la-mayoria-para-aprobar-su-mocion/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Cardama: Asamblea General votó informe del FA y lo envío a la Fiscalía por hechos de apariencia delictiva",
+    "url": "https://www.carasycaretas.com.uy/politica/cardama-asamblea-general-voto-informe-del-fa-y-lo-envio-la-fiscalia-hechos-apariencia-delictiva-n100168"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Cabildo Abierto se retiró de sala y permitió que el Frente Amplio tuviera quórum para aprobar moción sobre el caso Cardama",
+    "url": "https://www.elobservador.com.uy/nacional/cabildo-abierto-se-retiro-sala-y-permitio-que-el-frente-amplio-tuviera-quorum-aprobar-mocion-el-caso-cardama-n6060491"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Asamblea aprobó informe del FA y cerró sesión; oposición criticó que no se votara el suyo",
+    "url": "https://www.montevideo.com.uy/auc.aspx?978618"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Cabildo Abierto salió de sala y permitió al FA aprobar su moción por el caso Cardama",
+    "url": "https://www.montevideo.com.uy/auc.aspx?978620"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Caso Cardama: FA aprobó enviar a Fiscalía su informe por “actos con apariencia delictiva”",
+    "url": "https://www.montevideo.com.uy/auc.aspx?978609"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Asamblea General aprobó el proyecto de resolución del FA, que obtuvo mayoría luego de que Cabildo Abierto se retirara de sala",
+    "url": "https://www.subrayado.com.uy/asamblea-general-aprobo-el-proyecto-resolucion-del-fa-que-obtuvo-mayoria-luego-que-cabildo-abierto-se-retirara-sala-n1020821"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Ayuda de Cabildo Abierto: El Parlamento aprobó remitir a Fiscalía el informe del FA por Cardama",
+    "url": "https://www.lr21.com.uy/politica/1499711-ayuda-de-cabildo-abierto-el-parlamento-aprobo-remitir-a-fiscalia-el-informe-del-fa-por-cardama"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Asamblea General analizó informes de investigadora por Cardama: se aprobó el del FA",
+    "url": "https://www.montevideo.com.uy/auc.aspx?978577"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Senador Viera apuntó contra Lacalle Pou como \"responsable político\" del \"fraude\" de Cardama y García le respondió que le tienen \"miedo\"",
+    "url": "https://www.elobservador.com.uy/nacional/senador-viera-apunto-contra-lacalle-pou-como-responsable-politico-del-fraude-cardama-y-garcia-le-respondio-que-le-tienen-miedo-n6060494"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Otra embestida contra la Jutep",
+    "url": "https://ladiaria.com.uy/opinion/articulo/2026/10/otra-embestida-contra-la-jutep/"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-15.mp3",
+  "capitulos_json": "2026-10-15.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-14",
   "guid": "tapero-2026-10-14",
   "titulo": "Bordaberry y la Jutep, y la pesca ilegal en el mar uruguayo",

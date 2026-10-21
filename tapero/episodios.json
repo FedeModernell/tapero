@@ -1,6 +1,94 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-16",
+  "guid": "tapero-2026-10-16",
+  "titulo": "Homicidios en alza y Orsi al 24%: ¿qué dicen los números?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nSegún el ministro del Interior, Carlos Negro, los demás delitos siguen bajando, pero los homicidios subieron en el tercer trimestre. ¿Cómo se pesa ese balance?\n\n- El 15 de octubre, Negro confirmó que el tercer trimestre (julio a setiembre) cerró con un aumento de homicidios. Diego Sanjurjo, gerente del Área de Estadística del Ministerio, dijo que 2026 «seguramente» cerrará con más homicidios que 2025, cuando hubo 369. El Ministerio anunció que publicaría las cifras del trimestre el lunes 19 de octubre.\n- La consultora Cifra presentó el jueves 15 de octubre su encuesta: 24 % aprueba la gestión del presidente Orsi y 57 % la desaprueba. La directora Mariana Pomiés habló de «cierta estabilidad» respecto a agosto, pero dijo que el 57 % es «un número alto». La encuesta se hizo antes de conocerse la baja de la pobreza y el anuncio de Solaria.\n\nEn la mesa: Inés, Gonzalo (docente de secundaria en Montevideo), Carlos (comisario retirado) y Aparicio Saravia (recreación con IA).\n\n¿Cómo pesás ese balance entre homicidios y los demás delitos?\n\n—\nTa, pero… · Figuras de nuestra historia, recreadas con IA, discuten la noticia del día con gente de hoy.\nPersonajes de hoy ficticios · Guion y voces con IA.\nMás en tapero.uy\nFuente: la diaria · 16 de octubre de 2026",
+  "titulo_youtube": "16/10 · Homicidios suben en el tercer trimestre + Orsi, 24% de aprobación según Cifra | Ta, pero…",
+  "comentario_fijado": "El 15 de octubre el ministro Negro confirmó más homicidios en el tercer trimestre y dijo que los demás delitos siguen bajando. ¿Cómo pesás ese balance? Contanos acá.",
+  "audio": "episodio.mp3",
+  "duracion_s": 367.179977,
+  "bytes": 8814175,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-16.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Homicidios en el tercer trimestre y los demás delitos: ¿cómo se pesa el balance?",
+    "inicio": 107.5
+   },
+   {
+    "titulo": "Orsi al 24 % de aprobación: ¿cómo se lee la encuesta de Cifra?",
+    "inicio": 216.6
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 321.8
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "Homicidios: ¿cuándo informar los datos?",
+    "texto_instagram": "El 29 de setiembre, después de que el ministro pasó por la Comisión de Seguridad del Senado, el senador frenteamplista Eduardo Brenta adelantó que los homicidios iban a crecer. El 15 de octubre el ministro Negro lo confirmó.\n\nEn la mesa, Saravia (recreación con IA) pregunta por qué había que esperar, y Carlos, comisario retirado y personaje ficticio, dice que el silencio genera desconfianza.\n\n¿Cuándo corresponde informar un dato así?\n\n#HomicidiosUruguay",
+    "texto_tiktok": "Homicidios en Uruguay: el senador Brenta lo adelantó el 29/9 y el ministro Negro lo confirmó el 15/10. ¿Cuándo corresponde informar? #HomicidiosUruguay",
+    "texto_shorts": "Homicidios: ¿cuándo informar los datos? #Shorts",
+    "medio": "El Observador"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "24% aprueba la gestión de Orsi y 57% la desaprueba, según Cifra",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/24-aprueba-la-gestion-de-orsi-y-57-la-desaprueba-segun-cifra/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Desaprobación a gestión de Orsi se mantiene por encima del 50%",
+    "url": "https://www.carasycaretas.com.uy/politica/desaprobacion-gestion-orsi-se-mantiene-encima-del-50-n100200"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "\"Si fuera el gobierno, estaría preocupado\": nueva encuesta de Cifra muestra \"estabilidad\" en evaluación de Orsi, a quien 57% desaprueba y 24% aprueba",
+    "url": "https://www.elobservador.com.uy/nacional/si-fuera-el-gobierno-estaria-preocupado-nueva-encuesta-cifra-muestra-estabilidad-evaluacion-orsi-quien-57-desaprueba-y-24-aprueba-n6060619"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Encuesta Cifra: aprobación de Orsi es de 24% y desaprobación de 57%",
+    "url": "https://www.montevideo.com.uy/auc.aspx?978759"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Carlos Negro confirmó que el tercer trimestre del año cerró con un aumento en los homicidios, pero se sostiene \"la baja\" en los demás delitos",
+    "url": "https://www.elobservador.com.uy/nacional/carlos-negro-confirmo-que-el-tercer-trimestre-del-ano-cerro-un-aumento-los-homicidios-pero-una-baja-los-demas-delitos-n6060617"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Negro adelantó que “va a haber un incremento de homicidios” y baja de los demás delitos",
+    "url": "https://www.montevideo.com.uy/auc.aspx?978758"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Cifras de delitos: Negro dijo que \"va a haber un incremento de los homicidios\" en el tercer trimestre",
+    "url": "https://www.subrayado.com.uy/cifras-delitos-negro-dijo-que-va-haber-un-incremento-los-homicidios-el-tercer-trimestre-n1020935"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Negro destacó la lucha contra el crimen organizado y Correa remarcó los grandes operativos antidroga",
+    "url": "https://www.carasycaretas.com.uy/politica/negro-destaco-la-lucha-contra-el-crimen-organizado-y-correa-remarco-los-grandes-operativos-antidroga-n100196"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-16.mp3",
+  "capitulos_json": "2026-10-16.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-15",
   "guid": "tapero-2026-10-15",
   "titulo": "Solaria: la inversión anunciada y los términos reservados",

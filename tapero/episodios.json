@@ -21,6 +21,115 @@
  },
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-12",
+  "guid": "tapero-2026-10-12",
+  "titulo": "Caso Leiva y la pasta a $400: ¿quién controla a quién?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nUn asesor de un edil cobró unos 52.000 pesos por mes, estuvo meses sin tareas asignadas y fue condenado por lavado de activos. Y un diputado puso un ejemplo: una pasta de dientes a 400 pesos en la góndola y a 140 o 150 en la frontera. ¿Quién controla a quién?\n\n- Caso Leiva: Pablo Leiva, asesor del edil Gonzalo Gómez, fue condenado por lavado de activos y tráfico interno de municiones. El Partido Nacional suspendió por dos años los derechos partidarios de Gómez. En Artigas, el intendente designó en cargos jerárquicos a personas con condenas. ¿La vara ética es la misma para todos los partidos?\n- Ley de competitividad: el ministro Oddone impulsó un artículo para que no sea una sola empresa la que importe un producto y lo venda a precio elevado. Las gremiales dicen que espanta la inversión; el PIT-CNT lo apoya. ¿Baja los precios de verdad?\n\nEn la mesa: Inés, Sofía (economista), José Artigas y José Batlle y Ordóñez (recreaciones con IA). 🎙\n\n¿Tiene que haber un filtro de antecedentes antes de que un asesor cobre? Contanos en los comentarios.\n\n—\nTa, pero… · Figuras de nuestra historia, recreadas con IA, discuten la noticia del día con gente de hoy.\nPersonajes de hoy ficticios · Guion y voces con IA.\nMás en tapero.uy\nFuente: la diaria · 12 de octubre de 2026",
+  "titulo_youtube": "12/10 · Caso Leiva y la pasta a $400: ¿quién controla a quién? | Ta, pero…",
+  "comentario_fijado": "En Montevideo cada edil dispone de unos 262.000 pesos por mes para secretarios o asesores. ¿Tiene que haber un filtro de antecedentes antes de que cobren? Contanos.",
+  "audio": "episodio.mp3",
+  "duracion_s": 494.910113,
+  "bytes": 11879279,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-12.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Botana, el edil Gómez y el caso Leiva: ¿la vara ética es la misma para todos los partidos?",
+    "inicio": 119.9
+   },
+   {
+    "titulo": "Ley de competitividad y el segundo importador: ¿qué cambia en los precios y en la inversión?",
+    "inicio": 294.9
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 430.8
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "¿La ley baja precios o espanta inversión?",
+    "texto_instagram": "Una pasta de dientes a $400 en la góndola y a $140 o $150 en la frontera: el ejemplo lo puso el diputado José Luis Satdjian.\nEl proyecto de ley de competitividad busca promover la competencia entre importadores. La mesa discute si más competencia entre importadores bajaría esa diferencia; Sofía pregunta qué estudio respalda que baje los precios de verdad.\n¿Con qué argumento te quedás?\n#LeyDeCompetitividad",
+    "texto_tiktok": "Ley de competitividad: un diputado comparó una pasta de dientes a $400 en la góndola con $140 o $150 en la frontera. ¿Baja precios o espanta inversión? #LeyDeCompetitividad",
+    "texto_shorts": "¿La ley baja precios o espanta inversión? El choque en la mesa #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "¿Condenados en cargos del Estado: doble vara?",
+    "texto_instagram": "El intendente de Artigas, Emiliano Soravilla, designó en cargos jerárquicos a Valentina Dos Santos y a Pablo Caram, pese a sus condenas judiciales.\nArtigas dice que exigir rendición al de enfrente mientras mirás para el costado en casa no es ética. Sofía responde que son dos problemas distintos y que uno no resuelve el otro.\n¿Dónde ponés el límite?\n#ÉticaPolítica",
+    "texto_tiktok": "El intendente de Artigas designó en cargos a dos personas con condenas: ¿es lo mismo que el caso Leiva? #ÉticaPolítica",
+    "texto_shorts": "¿Condenados en cargos del Estado: hay doble vara? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_3.mp4",
+    "titulo": "Leiva cobró sin tareas: ¿qué controles faltaron?",
+    "texto_instagram": "Gómez reconoció que su asesor Pablo Leiva cobró durante meses sin tareas asignadas. Leiva fue condenado por lavado de activos y tráfico interno de municiones.\nBatlle dice que eso no tiene color partidario. Sofía pregunta quién mira los antecedentes antes de que entren y cobren.\n¿Alcanzan la suspensión partidaria de Gómez y su compromiso de devolver el dinero?\n#CasoLeiva",
+    "texto_tiktok": "Caso Leiva: el asesor cobró meses sin tareas asignadas. ¿Quién tenía que controlarlo? #CasoLeiva",
+    "texto_shorts": "Leiva cobró sin tareas: ¿qué controles faltaron? #Shorts",
+    "medio": "la diaria"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "PIT-CNT respalda el artículo del proyecto de competitividad sobre el segundo importador: “No queremos renta monopólica”",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/pit-cnt-respalda-el-articulo-del-proyecto-de-competitividad-sobre-el-segundo-importador-no-queremos-renta-monopolica/"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "La pasta dental y las vacas atadas: ¿qué quiere proteger la CIU?",
+    "url": "https://www.elpais.com.uy/economia-y-mercado/la-pasta-dental-y-las-vacas-atadas-que-quiere-proteger-la-ciu"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "Señal económica clave: más puerto, más competencia (*)",
+    "url": "https://www.elpais.com.uy/economia-y-mercado/senal-economica-clave-mas-puerto-mas-competencia"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Bancada del FA en el Congreso de Ediles pidió “investigar hasta las últimas consecuencias” del caso Pablo Leiva",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/bancada-del-fa-en-el-congreso-de-ediles-pidio-investigar-hasta-las-ultimas-consecuencias-del-caso-pablo-leiva/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Ediles del FA reclaman investigar \"hasta el hueso\" el caso Pablo Leiva",
+    "url": "https://www.carasycaretas.com.uy/politica/ediles-del-fa-reclaman-investigar-hasta-el-hueso-el-caso-pablo-leiva-n100068"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Sincericidio blanco: integrante del Directorio fulminó manejo del Partido Nacional en el caso del edil Gómez",
+    "url": "https://www.carasycaretas.com.uy/politica/sincericidio-blanco-integrante-del-directorio-fulmino-manejo-del-partido-nacional-el-caso-del-edil-gomez-n100057"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Las penurias de Botana, el curro de los ediles y el previsible desencanto de los uruguayos",
+    "url": "https://www.elobservador.com.uy/las-penurias-botana-el-curro-los-ediles-y-el-previsible-desencanto-los-uruguayos-n6059976"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Dime qué chequeaste y te diré quién eres: pensar más allá de la ética partidaria y sus apesadumbradas comisiones",
+    "url": "https://ladiaria.com.uy/opinion/articulo/2026/10/dime-que-chequeaste-y-te-dire-quien-eres-pensar-mas-alla-de-la-etica-partidaria-y-sus-apesadumbradas-comisiones/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "El precio de mirar para otro lado",
+    "url": "https://www.carasycaretas.com.uy/columna-destacada/el-precio-mirar-otro-lado-n100054"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-12.mp3",
+  "capitulos_json": "2026-10-12.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-11",
   "guid": "tapero-2026-10-11",
   "titulo": "Papa en el Parlamento, firmas para allanamientos y petróleo offshore",

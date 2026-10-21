@@ -21,6 +21,117 @@
  },
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-13",
+  "guid": "tapero-2026-10-13",
+  "titulo": "Jubilación a los 60: ¿qué propone el proyecto y qué dice la oposición?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nEl gobierno manda al Parlamento una opción de retiro a los 60 y la oposición dice que las urnas ya hablaron. Y 861 denuncias de grooming en ocho años, con siete de cada diez archivadas.\n\n- Jubilación a los 60: proyecto opcional con 30 años de aportes, con la edad general en 65. ¿En qué se diferencia de lo que se plebiscitó en 2024?\n- Grooming en Uruguay: 861 denuncias desde que se tipificó el delito en 2018; según Fiscalía, el 71 % sigue archivado. El fiscal Ricardo Lackner explicó que se archivan cuando las chances de esclarecer son bajas, y aclaró que no son definitivos. ¿Qué traba que lleguen a juicio?\n\nEn la mesa: Inés, Carlos (comisario retirado), Gonzalo (docente de secundaria) y Aparicio Saravia (recreación con IA).\n\nSi tenés hijos o sobrinos usando redes, ¿alguien les explicó qué es el grooming y cómo reconocerlo? 👇\n\n—\nTa, pero… · Figuras de nuestra historia, recreadas con IA, discuten la noticia del día con gente de hoy.\nPersonajes de hoy ficticios · Guion y voces con IA.\nMás en tapero.uy\nFuente: la diaria · 13 de octubre de 2026",
+  "titulo_youtube": "13/10 · Jubilación a los 60 y grooming: 7 de cada 10 denuncias archivadas | Ta, pero…",
+  "comentario_fijado": "861 denuncias de grooming en ocho años y 7 de cada 10 archivadas. Si tenés hijos o sobrinos en redes, ¿alguien les explicó qué es y cómo reconocerlo? Contanos acá.",
+  "audio": "episodio.mp3",
+  "duracion_s": 392.121474,
+  "bytes": 9412274,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-13.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Jubilación a los 60: el proyecto y el debate sobre el plebiscito",
+    "inicio": 129.7
+   },
+   {
+    "titulo": "Grooming en Uruguay: 7 de cada 10 denuncias archivadas, ¿qué traba que lleguen a juicio?",
+    "inicio": 233.5
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 342.8
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "¿El plebiscito ya habló sobre jubilación?",
+    "texto_instagram": "Tres miradas y ninguna se pone de acuerdo en una cosa básica: ¿qué dijeron los uruguayos en las urnas?\nEl gobierno anunció que enviará al Parlamento un proyecto para crear una causal opcional de retiro a los 60 años con 30 años de aportes; la edad general sigue en 65. Dirigentes de la oposición dicen que el plebiscito de 2024 ya respondió eso.\n¿Con qué argumento te quedás?\n#JubilaciónUruguay #PlebiscitoUruguay",
+    "texto_tiktok": "Jubilación a los 60: ¿el plebiscito ya cerró el debate? Carlos y Aparicio Saravia dicen que sí. Gonzalo les devuelve la pregunta. #JubilaciónUruguay",
+    "texto_shorts": "¿El plebiscito ya habló sobre jubilación a los 60? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "Grooming: ¿por qué se archivan tantas denuncias?",
+    "texto_instagram": "861 denuncias de grooming en Uruguay desde 2018 y siete de cada diez archivadas. Gonzalo y Carlos, personajes ficticios, discuten la prevención y la investigación; Saravia, recreado con IA, hace la pregunta que nadie responde del todo.\nSegún los datos de Fiscalía del informe, el 71 % de las denuncias estaba archivado, y esos archivos son provisorios. ¿Qué traba que lleguen a juicio?\n¿Alguien les explicó a tus gurises qué es el grooming y cómo reconocerlo?\n#GroomingUruguay",
+    "texto_tiktok": "Grooming en Uruguay: 861 denuncias desde 2018 y 7 de cada 10 archivadas, de forma provisoria. ¿Qué traba que lleguen a juicio? #GroomingUruguay",
+    "texto_shorts": "Grooming: ¿por qué se archivan tantas denuncias? #Shorts",
+    "medio": "la diaria"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "Consejo de Ministros: Poder Ejecutivo enviará al Parlamento un proyecto para crear una causal de retiro anticipada a los 60 años",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/consejo-de-ministros-poder-ejecutivo-enviara-al-parlamento-un-proyecto-para-crear-una-causal-de-retiro-anticipada-a-los-60-anos/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Poder Ejecutivo enviará proyecto de ley para habilitar jubilación anticipada desde 60 años",
+    "url": "https://www.carasycaretas.com.uy/politica/poder-ejecutivo-enviara-proyecto-ley-habilitar-jubilacion-anticipada-60-anos-n100086"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "“Una mentira” y “muy tribunero”: desde la oposición cuestionaron el proyecto del gobierno para jubilarse a los 60 años",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/una-mentira-y-muy-tribunero-desde-la-oposicion-cuestionaron-el-proyecto-del-gobierno-para-jubilarse-a-los-60-anos/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Álvaro Delgado se pronunció en contra de habilitar jubilación a partir de los 60 años",
+    "url": "https://www.carasycaretas.com.uy/politica/alvaro-delgado-se-pronuncio-contra-habilitar-jubilacion-partir-los-60-anos-n100098"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "Gobierno ajusta detalles de proyecto para bajar edad de retiro a 60 años, mientras celebra \"resultados\" de gestión",
+    "url": "https://www.elpais.com.uy/informacion/politica/gobierno-ajusta-detalles-de-proyecto-para-bajar-edad-de-retiro-a-60-anos-mientras-celebra-resultados-de-gestion"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Ante baja semestral de la pobreza, Orsi respaldó trabajo de sus ministros y realzó su importancia como gobierno \"progresista\" y de \"izquierda\"",
+    "url": "https://www.elobservador.com.uy/nacional/ante-baja-semestral-la-pobreza-orsi-respaldo-trabajo-sus-ministros-y-realzo-su-importancia-como-gobierno-progresista-y-izquierda-n6060251"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "“Ahora nos estamos haciendo cargo”: FA salió en respuesta al PN por jubilación a los 60",
+    "url": "https://www.montevideo.com.uy/auc.aspx?978345"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Delgado crítico con proyecto de ley para jubilación a los 60 años: sostiene que es no respetar \"la voluntad popular\"",
+    "url": "https://www.subrayado.com.uy/delgado-critico-proyecto-ley-jubilacion-los-60-anos-sostiene-que-es-no-respetar-la-voluntad-popular-n1020606"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Gobierno envía proyecto de ley para habilitar la jubilación anticipada desde los 60 años de edad",
+    "url": "https://www.subrayado.com.uy/gobierno-envia-proyecto-ley-habilitar-la-jubilacion-anticipada-los-60-anos-edad-n1020563"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "\"Cincuentones\" se manifestaron frente a Suárez y Reyes reclamando cambios en jubilaciones: \"Fuimos perjudicados sin nada tener que ver\"",
+    "url": "https://www.subrayado.com.uy/cincuentones-se-manifestaron-frente-suarez-y-reyes-reclamando-cambios-jubilaciones-fuimos-perjudicados-nada-tener-que-ver-n1020603"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Grooming en Uruguay: 861 denuncias desde 2018, y siete de cada diez archivadas",
+    "url": "https://ladiaria.com.uy/feminismos/articulo/2026/10/grooming-en-uruguay-861-denuncias-desde-2018-y-siete-de-cada-diez-archivadas/"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-13.mp3",
+  "capitulos_json": "2026-10-13.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-12",
   "guid": "tapero-2026-10-12",
   "titulo": "Caso Leiva y la pasta a $400: ¿quién controla a quién?",

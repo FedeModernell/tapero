@@ -21,6 +21,96 @@
  },
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-11",
+  "guid": "tapero-2026-10-11",
+  "titulo": "Papa en el Parlamento, firmas para allanamientos y petróleo offshore",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nLeón XIV llega en noviembre, los blancos no bajan el tema de los allanamientos y APA tiene comprometido un pozo offshore a partir de setiembre de 2027. Tres temas, tres desacuerdos reales.\n\n- Papa en Uruguay: la visita costaría unos US$ 2,7 millones, que se prevé cubrir con donaciones, una rifa, sponsors y colectas, con auditoría de Grant Thornton; el costo de seguridad queda sin cuantificar. ¿Puede la Asamblea General recibirlo institucionalmente en un Estado laico?\n- Allanamientos nocturnos: el Partido Nacional apoya la comisión bicameral y busca un acuerdo para plebiscitar la reforma; la alternativa es juntar firmas para votar en 2029.\n- Petróleo offshore: por primera vez están adjudicados los siete bloques y Ancap estima un 25 % de chances de éxito geológico. ¿Hay que prepararse para administrar la riqueza o frenar la búsqueda?\n\nEn la mesa: Inés, Washington (productor de Tacuarembó), Emilio Frugoni y José Pedro Varela (recreaciones con IA).\n\n¿Qué criterios debería seguir la Asamblea General para decidir si recibe al Papa en un Estado laico? 🎙\n\n—\nTa, pero… · Figuras de nuestra historia, recreadas con IA, discuten la noticia del día con gente de hoy.\nPersonajes de hoy ficticios · Guion y voces con IA.\nMás en tapero.uy\nFuente: El País · 11 de octubre de 2026",
+  "titulo_youtube": "11/10 · Papa en el Parlamento, firmas para allanamientos y petróleo offshore | Ta, pero…",
+  "comentario_fijado": "¿Qué criterios debería seguir la Asamblea General para decidir si recibe institucionalmente al Papa en un Estado laico? Contanos.",
+  "audio": "episodio.mp3",
+  "duracion_s": 589.17102,
+  "bytes": 14141901,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-11.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Fe, laicidad y plata: ¿quién paga la visita del Papa y quién define los límites del Estado laico?",
+    "inicio": 134.4
+   },
+   {
+    "titulo": "Allanamientos nocturnos: acuerdo en el Parlamento o firmas para llegar al plebiscito",
+    "inicio": 265.9
+   },
+   {
+    "titulo": "El sueño petrolero llega al Parlamento: ¿Uruguay debe prepararse para administrar la riqueza o para frenar la búsqueda?",
+    "inicio": 388.1
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 527.7
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "Allanamientos: ¿acuerdo en el Parlamento o firmas?",
+    "texto_instagram": "Vuelve el debate sobre cómo impulsar una reforma de los allanamientos nocturnos.\n\nEl Partido Nacional busca un acuerdo parlamentario para plebiscitar los allanamientos nocturnos y, si no lo logra, evalúa juntar firmas para votar en 2029. Acá, tres miradas que no se ponen de acuerdo en el camino.\n\n¿Qué ventajas y dificultades tiene cada vía?\n\n#AllanamientosNocturnos",
+    "texto_tiktok": "Allanamientos nocturnos: ¿acuerdo en el Parlamento o firmas para llegar al plebiscito? #AllanamientosNocturnos",
+    "texto_shorts": "Allanamientos: ¿acuerdo en el Parlamento o firmas? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "Allanamientos: ¿qué pasa si no hay acuerdo?",
+    "texto_instagram": "Varela defiende el debate parlamentario. Washington plantea qué pasaría si el Frente Amplio no acompaña.\n\nLa comisión bicameral tuvo el visto bueno de blancos, colorados e independientes y una respuesta fría del oficialismo. El Partido Nacional mantiene sobre la mesa la alternativa de juntar firmas.\n\n¿Si no hay acuerdo en el Parlamento, conviene ir a las firmas o seguir buscando el debate?\n\n#AllanamientosNocturnos",
+    "texto_tiktok": "Allanamientos nocturnos: ¿qué pasa si no hay acuerdo para la comisión bicameral? #AllanamientosNocturnos",
+    "texto_shorts": "Allanamientos: ¿qué pasa si no hay acuerdo? #Shorts",
+    "medio": "la diaria"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "El País",
+    "titulo": "La visita del papa León costará US$ 2,7 millones; más de la mitad surgirá de una rifa y el resto de donaciones",
+    "url": "https://www.elpais.com.uy/informacion/politica/la-visita-del-papa-leon-costara-us-2-7-millones-mas-de-la-mitad-surgira-de-una-rifa-y-el-resto-de-donaciones"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "La cruz del papa: el símbolo que dividió al país y sigue en pie 39 años después",
+    "url": "https://www.montevideo.com.uy/auc.aspx?977830"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Tres miembros de la coalición chocan en redes por la laicidad, espiritualidad y fe",
+    "url": "https://www.carasycaretas.com.uy/politica/tres-miembros-la-coalicion-chocan-redes-la-laicidad-espiritualidad-y-fe-n100050"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Volvió el debate sobre allanamientos nocturnos: qué pasa en otros países y qué discusiones provocó",
+    "url": "https://ladiaria.com.uy/verifica/articulo/2026/10/volvio-el-debate-sobre-allanamientos-nocturnos-que-pasa-en-otros-paises-y-que-discusiones-provoco/"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Blancos priorizan acuerdo para plebiscitar los allanamientos nocturnos pero mantienen \"arriba de la mesa\" opción de salir a juntar firmas si el FA se opone",
+    "url": "https://www.elobservador.com.uy/nacional/blancos-priorizan-acuerdo-plebiscitar-los-allanamientos-nocturnos-pero-mantienen-arriba-la-mesa-opcion-salir-juntar-firmas-si-el-fa-se-opone-n6060024"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "¿Y si aparece, qué? El “sueño petrolero” de Uruguay llega al Parlamento a la espera de fallo clave de la Justicia",
+    "url": "https://www.elpais.com.uy/que-pasa/y-si-aparece-que-el-sueno-petrolero-de-uruguay-llega-al-parlamento-a-la-espera-de-fallo-clave-de-la-justicia"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-11.mp3",
+  "capitulos_json": "2026-10-11.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-10",
   "guid": "tapero-2026-10-10",
   "titulo": "Bolsonaro adelante, allanamientos y el BCU que nadie esperaba",

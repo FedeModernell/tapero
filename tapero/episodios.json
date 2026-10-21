@@ -21,6 +21,114 @@
  },
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-10",
+  "guid": "tapero-2026-10-10",
+  "titulo": "Bolsonaro adelante, allanamientos y el BCU que nadie esperaba",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nBrasil gira, un diputado propone volver a estudiar los allanamientos nocturnos y el Banco Central sorprende al mercado. Tres temas, tres posturas que no cierran fácil.\n\n- Brasil: Flávio Bolsonaro sacó el 47 % en primera vuelta y una encuesta de Datafolha lo ubica adelante en el balotaje. ¿Qué postura le conviene a Uruguay?\n- Allanamientos nocturnos: el diputado Álvaro Perrone propone una comisión bicameral para estudiarlos, dos años después del plebiscito que los rechazó.\n- BCU sube la tasa: la inflación llegó al 4,7 % en setiembre y el mercado no lo veía venir. ¿Qué puede lograr la suba frente a riesgos como los fletes y el clima?\n\nEn la mesa: Inés, Carlos (comisario retirado), Gonzalo (docente) y Aparicio Saravia (recreación con IA).\n\nSegún el BCU, por primera vez en 20 años de metas de inflación las expectativas siguen ancladas en la meta durante más de un año. ¿Alcanza eso para justificar la suba?\n\n—\nTa, pero… · Figuras de nuestra historia, recreadas con IA, discuten la noticia del día con gente de hoy.\nPersonajes de hoy ficticios · Guion y voces con IA.\nMás en tapero.uy\nFuente: El Observador · 10 de octubre de 2026",
+  "titulo_youtube": "10/10 · Bolsonaro adelante, allanamientos y el BCU que nadie esperaba | Ta, pero…",
+  "comentario_fijado": "Según el BCU, por primera vez en 20 años de metas de inflación las expectativas siguen ancladas en la meta durante más de un año. ¿Alcanza eso para justificar la suba de la tasa?",
+  "audio": "episodio.mp3",
+  "duracion_s": 637.594785,
+  "bytes": 15303618,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-10.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Brasil vira a la derecha: ¿qué señal le manda eso a Uruguay?",
+    "inicio": 137.6
+   },
+   {
+    "titulo": "Allanamientos nocturnos: la propuesta de volver a estudiarlos",
+    "inicio": 268.8
+   },
+   {
+    "titulo": "BCU sube la tasa: ¿qué gana Uruguay y qué arriesga?",
+    "inicio": 417.2
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 580.3
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "¿Qué busca el BCU al subir la tasa?",
+    "texto_instagram": "El Banco Central subió la tasa con la inflación en 4,7 %. ¿Qué puede lograr la suba frente a riesgos como los fletes y el clima?\n\nEl BCU señaló presiones en la carne y riesgos por energía, fletes y clima. La mesa discute quién termina pagando el ajuste y qué efecto puede tener sobre los precios y la actividad.\n\n¿Vos qué pensás: la suba sirve o frena la economía? Contanos.\n\n#TasaBCU #InflaciónUruguay",
+    "texto_tiktok": "El BCU subió la tasa con la inflación en 4,7 %: ¿qué puede lograr frente a los fletes y el clima? #TasaBCU",
+    "texto_shorts": "¿Qué busca el BCU al subir la tasa? #Shorts",
+    "medio": "El Observador"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "¿Qué hace Uruguay ante el giro de Brasil?",
+    "texto_instagram": "Flávio Bolsonaro llegó adelante al balotaje en Brasil. ¿Uruguay tenía que moverse o esperar?\n\nFlávio Bolsonaro sacó el 47 % en la primera vuelta del 4 de octubre y una encuesta de Datafolha lo ubica adelante en el balotaje. La mesa discute qué postura debería tomar Uruguay antes de la segunda vuelta y qué argumentos hay para actuar o para esperar.\n\n¿Uruguay debería esperar el resultado del balotaje antes de hacer cualquier gesto? Contanos.\n\n#BrasilElecciones #UruguayPolíticaExterior",
+    "texto_tiktok": "Giro político en Brasil: ¿Uruguay tiene que recalibrar su postura exterior? #BrasilElecciones",
+    "texto_shorts": "¿Uruguay tiene que recalibrar algo ante el giro de Brasil? #Shorts",
+    "medio": "El Observador"
+   },
+   {
+    "archivo": "clips/clip_3.mp4",
+    "titulo": "¿Volvemos a debatir allanamientos nocturnos?",
+    "texto_instagram": "En 2024 el plebiscito rechazó los allanamientos nocturnos. En octubre, un diputado propuso estudiarlos.\n\nEl diputado de Cabildo Abierto Álvaro Perrone propone una comisión bicameral para reunir información sobre los allanamientos nocturnos. La mesa está dividida: ¿qué aportaría esa comisión después del rechazo de 2024?\n\n¿Con qué argumento te quedás?\n\n#AllanamientosNocturnos #Uruguay",
+    "texto_tiktok": "Allanamientos nocturnos: un diputado propone estudiarlos después del plebiscito de 2024. ¿Qué aportaría? #AllanamientosNocturnos",
+    "texto_shorts": "¿Volver a estudiar los allanamientos nocturnos? #Shorts",
+    "medio": "la diaria"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "“Tiempos de derechas”",
+    "url": "https://ladiaria.com.uy/articulo/2026/10/tiempos-de-derechas/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "David Magalhães: “Cumplimos una década de avance de la derecha en todos los ámbitos”",
+    "url": "https://ladiaria.com.uy/mundo/articulo/2026/10/david-magalhaes-cumplimos-una-decada-de-avance-de-la-derecha-en-todos-los-ambitos/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Caetano: “La derrota de Lula sería un golpe muy fuerte” para la defensa de una “visión soberanista” frente a la “obsecuencia”",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/caetano-la-derrota-de-lula-seria-un-golpe-muy-fuerte-para-la-defensa-de-una-vision-soberanista-frente-a-la-obsecuencia/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Elecciones en Brasil: no alcanza con tener buenas respuestas, hacen falta nuevas preguntas",
+    "url": "https://ladiaria.com.uy/opinion/articulo/2026/10/elecciones-en-brasil-no-alcanza-con-tener-buenas-respuestas-hacen-falta-nuevas-preguntas/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "El futuro de Brasil y el nuestro",
+    "url": "https://ladiaria.com.uy/opinion/articulo/2026/10/el-futuro-de-brasil-y-el-nuestro/"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Las razones detrás del récord de abstención en Brasil y por qué Lula apuesta por convencer a millones para el balotaje",
+    "url": "https://www.elobservador.com.uy/estados-unidos/america-latina/las-razones-detras-del-record-abstencion-brasil-y-que-lula-apuesta-convencer-millones-el-balotaje-n6060070"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Volvió el debate sobre allanamientos nocturnos: qué pasa en otros países y qué discusiones provocó",
+    "url": "https://ladiaria.com.uy/verifica/articulo/2026/10/volvio-el-debate-sobre-allanamientos-nocturnos-que-pasa-en-otros-paises-y-que-discusiones-provoco/"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "BCU subió la tasa de interés ante mayores riesgos inflacionarios: \"Mejor actuar a tiempo que a destiempo\", dijo Tolosa",
+    "url": "https://www.elobservador.com.uy/economia-y-empresas/bcu-subio-la-tasa-interes-mayores-riesgos-inflacionarios-mejor-actuar-tiempo-que-destiempo-dijo-tolosa-n6060002"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-10.mp3",
+  "capitulos_json": "2026-10-10.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-09",
   "guid": "tapero-2026-10-09",
   "titulo": "Campo de Colonización, nacionalidad en el pasaporte y Nobel de la Paz",

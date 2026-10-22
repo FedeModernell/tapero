@@ -1,6 +1,102 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-20",
+  "guid": "tapero-2026-10-20",
+  "titulo": "312 homicidios en 9 meses: ¿qué explica el salto en Montevideo?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nLa seccional 18 de Montevideo pasó de 21 a 34 homicidios. Y en Francia, una protesta estudiantil terminó con el Louvre saqueado y toques de queda.\n\n- Uruguay: 312 homicidios entre enero y setiembre de 2026, el tercer trimestre más letal en casi 15 años de la serie del Ministerio del Interior, con Montevideo pasando de 155 a 193 en el período\n- Francia: unas 550.000 personas en la calle, más de 2.500 detenidos, cerca de 1.000 policías heridos según El Observador, el ayuntamiento de Limoges incendiado y el Louvre saqueado; Macron reconoció las demandas como legítimas pero advirtió que quienes destruyeron van a pagar\n\nEn la mesa: Inés, Gonzalo (docente de secundaria, personaje ficticio), Carlos (comisario retirado, personaje ficticio) y Aparicio Saravia (recreación con IA). Guion y voces generados con IA · Hechos con fuente en la descripción.\n\n¿El salto en la seccional 18 se resuelve con más presencia policial, con inversión en el barrio, o con las dos cosas? Contanos abajo.\n\n—\nTa, pero… · Figuras de nuestra historia, recreadas con IA, discuten la noticia del día con gente de hoy.\nPersonajes de hoy ficticios · Guion y voces con IA.\nMás en tapero.uy\nFuente: la diaria · 20 de octubre de 2026",
+  "titulo_youtube": "20/10 · Homicidios en Uruguay: 312 en 9 meses y el Louvre saqueado en Francia | Ta, pero…",
+  "comentario_fijado": "La seccional 18 pasó de 21 a 34 homicidios en nueve meses. ¿Eso se resuelve con más presencia policial, con inversión en el barrio, o con las dos cosas al mismo tiempo?",
+  "audio": "episodio.mp3",
+  "duracion_s": 435.373333,
+  "bytes": 10450485,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-20.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "312 homicidios y el peor trimestre en 15 años: ¿la seguridad empeoró o el problema es estructural?",
+    "inicio": 123.9
+   },
+   {
+    "titulo": "Francia en llamas: ¿fracaso del multiculturalismo o protesta legítima aplastada?",
+    "inicio": 225.3
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 374.9
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "Homicidios en alza: ¿policía o inversión?",
+    "texto_instagram": "De 21 a 34 homicidios en una sola seccional. ¿Es un problema de seguridad o de abandono histórico?\nCarlos y Gonzalo (personajes ficticios) manejan los mismos números pero llegan a diagnósticos opuestos.\nMandáselo a quien sigue de cerca el debate de seguridad.\n¿Con qué argumento te quedás?\n#HomicidiosUruguay #Seguridad",
+    "texto_tiktok": "312 homicidios en Uruguay en 9 meses: ¿más patrulleros o más inversión en el barrio? ¿Con quién te quedás? #SeguridadUruguay",
+    "texto_shorts": "Homicidios en Montevideo: ¿más policía o inversión en el barrio? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "¿Macron separó protesta de saqueo?",
+    "texto_instagram": "Macron reconoció las demandas el domingo. Según la diaria, ese fin de semana un grupo robó una colección de joyas del Louvre, y los primeros toques de queda se anunciaron para la noche del lunes.\nLo que arrancó como reclamo estudiantil por los liceos, según la nota, terminó así. Carlos y Gonzalo (personajes ficticios) ven el mismo hecho distinto.\nMandáselo a quien discute dónde termina la protesta y empieza el delito.\n¿Para vos hay diferencia entre manifestarse y robar?\n#FranciaProtestas #Louvre",
+    "texto_tiktok": "Protestas en Francia y el Louvre saqueado: ¿robar joyas es un delito o también es protesta? #FranciaProtestas",
+    "texto_shorts": "Francia: ¿protestar es lo mismo que saquear el Louvre? #Shorts",
+    "medio": "la diaria"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "Se registraron 312 homicidios en lo que va del año, 111 de ellos en los últimos tres meses",
+    "url": "https://ladiaria.com.uy/justicia/articulo/2026/10/se-registraron-312-homicidios-en-lo-que-va-del-ano-111-de-ellos-en-los-ultimos-tres-meses/"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Uruguay tuvo el tercer trimestre con más homicidios en al menos 15 años y en lo que va del año suman 312",
+    "url": "https://www.elobservador.com.uy/nacional/uruguay-tuvo-el-tercer-trimestre-mas-homicidios-al-menos-15-anos-y-lo-que-va-del-ano-suman-312-n6060999"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Hubo 312 homicidios registrados entre enero y setiembre de 2026; en el mismo período de 2025 hubo 275, según datos preliminares",
+    "url": "https://www.subrayado.com.uy/hubo-312-homicidios-registrados-enero-y-setiembre-2026-el-mismo-periodo-2025-hubo-275-segun-datos-preliminares-n1021256"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Se decretaron toques de queda nocturnos en varias ciudades de Francia tras la violencia desatada durante el fin de semana",
+    "url": "https://ladiaria.com.uy/mundo/articulo/2026/10/se-decretaron-toques-de-queda-nocturnos-en-varias-ciudades-de-francia-tras-la-violencia-desatada-durante-el-fin-de-semana/"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "La crisis en Europa",
+    "url": "https://www.elpais.com.uy/opinion/la-clave/la-crisis-en-europa"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "El primer ministro de Francia autoriza toques de queda parciales en todo el país y condena a los \"ladrones\" y \"delincuentes\" detrás de los violentos disturbios del fin de semana",
+    "url": "https://www.elobservador.com.uy/bbc-news-mundo/el-primer-ministro-francia-autoriza-toques-queda-parciales-todo-el-pais-y-condena-los-ladrones-y-delincuentes-detras-los-violentos-disturbios-del-fin-semana-n6060959"
+   },
+   {
+    "fuente": "En Perspectiva",
+    "titulo": "Una ola de protestas sacude a varios países de Europa",
+    "url": "https://enperspectiva.uy/en-perspectiva-programa/la-mesa/una-ola-de-protestas-sacude-a-varios-paises-de-europa/"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "“Dije: ‘Mejor caminar tranquilo’”: joven cruzó protesta en París con camiseta de Peñarol",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979132"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-20.mp3",
+  "capitulos_json": "2026-10-20.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-19",
   "guid": "tapero-2026-10-19",
   "titulo": "Impuesto al 1%: ¿compromiso o debate sin fecha?",

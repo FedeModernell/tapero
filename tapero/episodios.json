@@ -1,6 +1,92 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-17",
+  "guid": "tapero-2026-10-17",
+  "titulo": "Jubilarse a los 60 y 16.570 presos: ¿qué dicen los números?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nEl proyecto de jubilación a los 60 llegó al Parlamento y Uruguay más que duplicó sus presos en veintidós años. ¿Qué dicen los números?\n\n- Jubilación a los 60: el Ejecutivo envió el proyecto al Parlamento. Permite retirarse a los 60 con 30 años de servicios; la edad normal sigue en 65. El gobierno estima un costo máximo anual de 0,15 % del PIB, proyectado entre 2040 y 2045, y que el uso de la causal se concentraría en la mitad de menores ingresos.\n- Censo carcelario: Uruguay pasó de 6.757 a 16.570 personas privadas de libertad entre 2003 y diciembre de 2025. Más de la mitad abandonó la educación antes de los 15 años. El 75% cree que el Estado puede mejorar sus condiciones de reinserción.\n\nEn la mesa: Inés, Gonzalo (docente de secundaria), Don Aparicio Saravia (recreado con IA) y Carlos (comisario retirado).\n\n¿Qué datos harían falta para saber si más presos trae más seguridad? 🎙\n\n—\nTa, pero… · Figuras de nuestra historia, recreadas con IA, discuten la noticia del día con gente de hoy.\nPersonajes de hoy ficticios · Guion y voces con IA.\nMás en tapero.uy\nFuente: Montevideo Portal · 17 de octubre de 2026",
+  "titulo_youtube": "17/10 · Jubilación a los 60 y presos más que duplicados: ¿qué dicen los números? | Ta, pero…",
+  "comentario_fijado": "Uruguay pasó de 6.757 personas presas en 2003 a 16.570 en diciembre de 2025. ¿Qué datos harían falta para saber si más presos trae más seguridad? Contanos.",
+  "audio": "episodio.mp3",
+  "duracion_s": 382.689683,
+  "bytes": 9185950,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-17.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Jubilación a los 60: qué cambia en el acceso al retiro y qué costo se proyecta",
+    "inicio": 112.4
+   },
+   {
+    "titulo": "Población carcelaria más que duplicada en 22 años: ¿qué se sabe de su relación con la seguridad?",
+    "inicio": 204.3
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 341.5
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "Jubilación a los 60: ¿y si fallan los números?",
+    "texto_instagram": "Jubilación a los 60: el Ejecutivo proyectó el costo máximo en 0,15% del PIB.\nCarlos pide un actuario independiente; Gonzalo pregunta qué hacés con quien ya no aguanta. Saravia, recreado con IA, anota quién termina pagando si los números fallan.\n¿Cómo pesarías el costo de la propuesta y las necesidades de quien llega con más desgaste?\nMandáselo a quien está calculando cuándo jubilarse.\n#JubilaciónUruguay",
+    "texto_tiktok": "Jubilación a los 60 en Uruguay: ¿los números del gobierno cierran? El comisario, el profe y el caudillo no coinciden. ¿Con qué argumento te quedás? #JubilaciónUruguay",
+    "texto_shorts": "Jubilación a los 60: ¿y si fallan los números del gobierno? #Shorts",
+    "medio": "Montevideo Portal"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "Cárceles: ¿duplicar presos en 22 años sirvió?",
+    "texto_instagram": "Uruguay más que duplicó sus presos en 22 años. La mesa debate si eso cambió algo.\nSaravia, recreado con IA, pregunta si los datos distinguen Montevideo del interior. Gonzalo y Carlos discuten qué pasa cuando el Estado no responde a lo que quienes están adentro piden.\n¿Qué datos faltan para saber si más presos trae más seguridad?\nMandáselo a quien sigue el debate sobre seguridad.\n#CensoCarcelario",
+    "texto_tiktok": "Cárceles en Uruguay: la población carcelaria pasó de 6.757 personas en 2003 a 16.570 en diciembre de 2025. ¿Qué datos faltan para evaluar su relación con la seguridad? #CárcelesUruguay",
+    "texto_shorts": "Cárceles Uruguay: ¿duplicar presos en 22 años cambió algo? #Shorts",
+    "medio": "la diaria"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "Proyecto que crea causal jubilatoria a los 60 años prevé “gasto previsional” sin “desvío relevante” a reforma de Lacalle Pou",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/proyecto-que-crea-causal-jubilatoria-a-los-60-anos-preve-gasto-previsional-sin-desvio-relevante-a-reforma-de-lacalle-pou/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Retiro anticipado a los 60 años: qué dice el proyecto de ley que se envió al Parlamento",
+    "url": "https://www.carasycaretas.com.uy/politica/retiro-anticipado-los-60-anos-que-dice-el-proyecto-ley-que-se-envio-al-parlamento-n100249"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "“Desgaste físico” y “empleabilidad”: por qué Ejecutivo busca permitir jubilación a los 60",
+    "url": "https://www.montevideo.com.uy/auc.aspx?978877"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Más de la mitad de la población carcelaria dejó de asistir a la educación formal a los 14 años o antes",
+    "url": "https://ladiaria.com.uy/justicia/articulo/2026/10/mas-de-la-mitad-de-la-poblacion-carcelaria-dejo-de-asistir-a-la-educacion-formal-a-los-14-anos-o-antes/"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Cárceles en Uruguay: en 22 años la tasa de prisionalización se duplicó, según encuesta del Ministerio del Interior",
+    "url": "https://www.subrayado.com.uy/carceles-uruguay-22-anos-la-tasa-prisionalizacion-se-duplico-segun-encuesta-del-ministerio-del-interior-n1020971"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Para Radío, nuevo comisionado penitenciario, los discursos de políticos uruguayos en favor de Bukele “forman parte del acting”",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/para-radio-nuevo-comisionado-penitenciario-los-discursos-de-politicos-uruguayos-en-favor-de-bukele-forman-parte-del-acting/"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-17.mp3",
+  "capitulos_json": "2026-10-17.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-16",
   "guid": "tapero-2026-10-16",
   "titulo": "Homicidios en alza y Orsi al 24%: ¿qué dicen los números?",

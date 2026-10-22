@@ -1,6 +1,87 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-18",
+  "guid": "tapero-2026-10-18",
+  "titulo": "Solaria: ¿memorando o inversión? El Niño alerta al campo",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nEl gobierno firmó el memorando con Solaria, pero el contrato se firmaría recién en abril de 2027 y, según ese memorando, UTE deberá crear una planta térmica de respaldo y plantas eólicas. Mientras tanto, el MGAP activó la alerta por El Niño y los pagos por el temporal de julio empezaron esta semana.\n\n- Solaria: US$ 5.700 millones anunciados, contrato previsto en abril de 2027, y lo que prevé el memorando: UTE deberá crear una planta térmica de respaldo y plantas eólicas\n- El Niño: alerta institucional del MGAP firmada por el ministro Fratti, pagos por el temporal del 18 de julio, sobre todo en Salto, que empezaron esta semana, con una primera etapa prevista de US$ 12.000 por granjero, y un grupo que trabaja en el plan de contingencia\n\nEn la mesa: Inés, Washington (productor rural de Tacuarembó), Sofía (economista del sector privado) y Batlle y Ordóñez (recreación con IA). Guion y voces generados con IA · hechos con fuente.\n\nSi el contrato de Solaria se firma en abril de 2027, ¿te alcanza para llamarle inversión, o necesitás ver obras en el terreno?\n\n—\nTa, pero… · Figuras de nuestra historia, recreadas con IA, discuten la noticia del día con gente de hoy.\nPersonajes de hoy ficticios · Guion y voces con IA.\nMás en tapero.uy\nFuente: El País · 18 de octubre de 2026",
+  "titulo_youtube": "18/10 · Solaria: ¿memorando o inversión? El Niño alerta al campo | Ta, pero…",
+  "comentario_fijado": "Si el contrato de Solaria se firma en abril de 2027, ¿ya es una inversión para vos, o necesitás ver obras reales en el terreno? Contanos abajo.",
+  "audio": "episodio.mp3",
+  "duracion_s": 412.410476,
+  "bytes": 9899406,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-18.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Solaria: el contrato se firmaría en abril de 2027, ¿promesa que madura o reloj que corre?",
+    "inicio": 122.1
+   },
+   {
+    "titulo": "Alerta por El Niño: qué prepara el Estado y qué necesita el campo",
+    "inicio": 222.4
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 359.0
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "El Niño: ¿qué prepara el Estado?",
+    "texto_instagram": "¿Tener el mecanismo alcanza, o importa cuándo llega?\n\nEl MGAP declaró alerta institucional por El Niño. Los pagos por el temporal de julio empezaron esta semana. En la mesa, Batlle (recreación con IA) plantea que el productor pequeño no puede enfrentar solo un fenómeno de escala nacional. Washington y Sofía cuestionan si el timing es anticipación real.\n\n¿Con qué argumento te quedás?\n\n#ElNiñoUruguay #AgroUruguayo",
+    "texto_tiktok": "El Niño y el campo uruguayo: ¿qué prepara el Estado ante los impactos previstos? Batlle (recreación con IA) defiende el mecanismo; Washington y Sofía cuestionan el timing. ¿Con quién estás? #ElNiñoUruguay",
+    "texto_shorts": "El Niño y el campo: ¿qué medidas prepara el Estado? | Ta, pero… #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "Solaria: ¿anuncio o inversión real?",
+    "texto_instagram": "Un anuncio no es una inversión. ¿O sí?\nEl presidente Orsi firmó un memorando con la empresa española Solaria por cinco mil setecientos millones de dólares. El contrato se firmaría recién en abril de 2027. En la mesa, Batlle recreado con IA, Sofía y Washington debaten qué significa eso para UTE y para el interior del país.\n¿Con qué argumento te quedás?\n#Solaria #InversiónUruguay",
+    "texto_tiktok": "Solaria Uruguay: ¿inversión o anuncio? El contrato se prevé para abril de 2027; UTE deberá sumar infraestructura. El debate acá. #Solaria",
+    "texto_shorts": "Solaria: ¿anuncio o inversión real? #Shorts",
+    "medio": "El País"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "“Megainversión” desde España",
+    "url": "https://ladiaria.com.uy/articulo/2026/10/megainversion-desde-espana/"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "Gobierno espera firmar contrato con Solaria en abril del 2027, mientras profundiza apuesta a los centros de datos",
+    "url": "https://www.elpais.com.uy/informacion/politica/gobierno-espera-firmar-contrato-con-solaria-en-abril-del-2027-mientras-profundiza-apuesta-a-los-centros-de-datos"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Ministerio de Ganadería declaró el “estado de alerta institucional” en el sector agropecuario por El Niño",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/ministerio-de-ganaderia-declaro-el-estado-de-alerta-institucional-en-el-sector-agropecuario-por-el-nino/"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "MGAP declaró un \"estado de alerta institucional\" por impactos esperados del fenómeno El Niño",
+    "url": "https://www.elobservador.com.uy/agro/mgap-declaro-un-estado-alerta-institucional-impactos-esperados-del-fenomeno-el-nino-n6060783"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Intendencia de Montevideo ayuda a productores a \"cosechar\" agua ante amenaza de El Niño",
+    "url": "https://www.carasycaretas.com.uy/sociedad/intendencia-montevideo-ayuda-productores-cosechar-agua-amenaza-el-nino-n100258"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-18.mp3",
+  "capitulos_json": "2026-10-18.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-17",
   "guid": "tapero-2026-10-17",
   "titulo": "Jubilarse a los 60 y 16.570 presos: ¿qué dicen los números?",

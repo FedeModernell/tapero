@@ -1166,8 +1166,8 @@
   "titulo_youtube": "12/10 · Caso Leiva y la pasta a $400: ¿quién controla a quién? | Ta, pero…",
   "comentario_fijado": "En Montevideo cada edil dispone de unos 262.000 pesos por mes para secretarios o asesores. ¿Tiene que haber un filtro de antecedentes antes de que cobren? Contanos.",
   "audio": "episodio.mp3",
-  "duracion_s": 494.910113,
-  "bytes": 11879279,
+  "duracion_s": 475.401497,
+  "bytes": 11410955,
   "video": "episodio.mp4",
   "subtitulos": "subtitulos.srt",
   "transcripcion": "2026-10-12.vtt",
@@ -1177,16 +1177,16 @@
     "inicio": 0.0
    },
    {
-    "titulo": "Botana, el edil Gómez y el caso Leiva: ¿la vara ética es la misma para todos los partidos?",
+    "titulo": "Botana, el edil Gómez y el caso Leiva: ¿la vara de la ética política cambia según la camiseta?",
     "inicio": 119.9
    },
    {
-    "titulo": "Ley de competitividad y el segundo importador: ¿qué cambia en los precios y en la inversión?",
-    "inicio": 294.9
+    "titulo": "Ley de competitividad y el artículo del segundo importador: ¿apertura real o trampa para los negocios?",
+    "inicio": 281.4
    },
    {
     "titulo": "Cierre",
-    "inicio": 430.8
+    "inicio": 411.3
    }
   ],
   "clips": [
@@ -1201,7 +1201,7 @@
    {
     "archivo": "clips/clip_2.mp4",
     "titulo": "¿Condenados en cargos del Estado: doble vara?",
-    "texto_instagram": "El intendente de Artigas, Emiliano Soravilla, designó en cargos jerárquicos a Valentina Dos Santos y a Pablo Caram, pese a sus condenas judiciales.\nArtigas dice que exigir rendición al de enfrente mientras mirás para el costado en casa no es ética. Sofía responde que son dos problemas distintos y que uno no resuelve el otro.\n¿Dónde ponés el límite?\n#ÉticaPolítica",
+    "texto_instagram": "El intendente de Artigas, Emiliano Soravilla, designó en cargos jerárquicos a Valentina Dos Santos y a Pablo Caram, pese a sus condenas judiciales.\nArtigas dice que el control vale si es la misma vara para todos. Sofía responde que son dos problemas distintos y que uno no resuelve el otro.\n¿Dónde ponés el límite?\n#ÉticaPolítica",
     "texto_tiktok": "El intendente de Artigas designó en cargos a dos personas con condenas: ¿es lo mismo que el caso Leiva? #ÉticaPolítica",
     "texto_shorts": "¿Condenados en cargos del Estado: hay doble vara? #Shorts",
     "medio": "la diaria"

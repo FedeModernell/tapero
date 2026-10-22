@@ -1,6 +1,125 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-22",
+  "guid": "tapero-2026-10-22",
+  "titulo": "Pereira pide que Ferrero se vaya: ¿postura política o interferencia?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nEl cargo de fiscal de Corte lleva cinco años sin titular. El presidente del Frente Amplio dijo en televisión que la subrogante debería irse porque no hay consenso. ¿Fijar postura o meter el cargo en la negociación?\n\n- Fiscalía de Corte: Fernando Pereira dijo que Ferrero debería dar un paso al costado por falta de respaldo del oficialismo. Para nombrar un titular se necesitan tres quintos del Senado, mayoría que no existe desde que Jorge Díaz renunció en 2021.\n- Deuda y salario: según el Banco Central, más de 860.000 personas tienen dificultades para pagar sus deudas, un 22% más que hace tres años. Uno de cada siete trabajadores cobra por debajo de la línea de pobreza del INE.\n\nEn la mesa: Inés, Sofía (economista, sector privado), y Artigas y Varela, recreaciones con IA.\n\n¿Alcanza con el crecimiento para bajar ese endeudamiento, o el Estado tiene que intervenir ya? Contanos en los comentarios.\n\nPersonajes ficticios · Figuras históricas recreadas con IA · Hechos con fuente.\n\n—\nTa, pero… · Figuras de nuestra historia, recreadas con IA, discuten la noticia del día con gente de hoy.\nPersonajes de hoy ficticios · Guion y voces con IA.\nMás en tapero.uy\nFuente: Caras y Caretas · 22 de octubre de 2026",
+  "titulo_youtube": "22/10 · Fiscalía de Corte: Pereira pide el alejamiento de Ferrero | Ta, pero…",
+  "comentario_fijado": "Más de 860.000 personas con dificultades para pagar deudas y uno de cada siete trabajadores bajo la línea de pobreza: ¿alcanza crecer o hay que redistribuir ya?",
+  "audio": "episodio.mp3",
+  "duracion_s": 383.430907,
+  "bytes": 9204131,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-22.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Pereira pidió públicamente que Ferrero se vaya: ¿presión legítima del partido de gobierno o interferencia que corroe la independencia de la Fiscalía?",
+    "inicio": 124.1
+   },
+   {
+    "titulo": "Uno de cada siete trabajadores cobra por debajo del salario sumergido y el endeudamiento creció 22%: ¿alcanza con crecer o hay que redistribuir?",
+    "inicio": 236.2
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 335.8
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "¿Fiscalía de Corte: cargo o negociación?",
+    "texto_instagram": "En la mesa, Artigas (recreación con IA) y Sofía se preguntan: ¿pedir el alejamiento de una jerarca independiente es legítimo, o convierte el cargo en moneda de canje?\n\nEl tema: la fiscal de Corte subrogante, Ferrero, terminó mencionada en las mismas conversaciones que el TCA y la Corte Electoral.\n\n¿Fijar postura política y trabajar mayorías es lo mismo que negociar un cargo independiente junto con los demás?\n\n#FiscalíaDeCorte",
+    "texto_tiktok": "Fiscal de Corte: ¿postura legítima o moneda de canje? El reemplazo de Ferrero, en las mismas conversaciones que el TCA y la Corte Electoral. ¿Cuál es el límite? #FiscalíaDeCorte",
+    "texto_shorts": "¿La Fiscalía de Corte como moneda de canje? #Shorts",
+    "medio": "Caras y Caretas"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "860 mil endeudados: ¿esperar o redistribuir?",
+    "texto_instagram": "Ochocientas sesenta mil personas con dificultades para pagar deudas y uno de cada siete trabajadores por debajo de la línea de pobreza. ¿Alcanza esperar que el crecimiento llegue solo?\n\nArtigas (recreación con IA) recuerda que en mil ochocientos quince el Reglamento repartió tierras igual: «los más infelices serán los más privilegiados». Sofía responde que el contexto global pesa, y pregunta quién lo paga.\n\n¿El crecimiento solo alcanza, o el Estado tiene que intervenir ya?\n\n#DeudaUruguay",
+    "texto_tiktok": "860 mil uruguayos con problemas de deuda: ¿el crecimiento alcanza o hay que redistribuir? Artigas recreado con IA vs Sofía. #DeudaUruguay",
+    "texto_shorts": "860 mil en deuda: ¿crecer alcanza o hay que redistribuir? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_3.mp4",
+    "titulo": "¿Cómo elegir al fiscal de Corte?",
+    "texto_instagram": "La Fiscalía de Corte lleva sin titular desde 2021, y para nombrar uno se necesitan tres quintos del Senado que ningún bloque tiene solo.\n\nArtigas, recreado con IA, plantea que las instituciones de control no pueden depender de una negociación de cargos. Sofía suma: Pereira declaró su postura mientras se negociaba el nombre, y esa señal importa.\n\n¿Con qué argumento te quedás?\n\nMandáselo a quien le importa cómo se eligen los contralores del Estado.\n\n#FiscalíaDeCorte",
+    "texto_tiktok": "Fiscal de Corte sin titular hace cinco años: Pereira pide que Ferrero se vaya mientras se negocia el cargo. ¿Eso rompe las reglas? #FiscalíaDeCorte",
+    "texto_shorts": "¿Quién elige al fiscal de Corte sin que el cargo entre en la negociación? #Shorts",
+    "medio": "Caras y Caretas"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "El FA quiere cambiar a Mónica Ferrero: debería \"dar un paso al costado\", dijo Pereira",
+    "url": "https://www.carasycaretas.com.uy/politica/el-fa-quiere-cambiar-monica-ferrero-deberia-dar-un-paso-al-costado-dijo-pereira-n100383"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "Fiscalía: pese a mensaje de Orsi, en el gobierno y el FA recrudece la oposición a Ferrero y pujan por su cambio",
+    "url": "https://www.elpais.com.uy/informacion/politica/fiscalia-pese-a-mensaje-de-orsi-en-el-gobierno-y-el-fa-recrudece-la-oposicion-a-ferrero-y-pujan-por-su-cambio"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Fernando Pereira dijo que Mónica Ferrero debería \"dar un paso al costado\" y reafirmó que el Frente Amplio quiere cambiarla",
+    "url": "https://www.elobservador.com.uy/nacional/fernando-pereira-dijo-que-monica-ferrero-deberia-dar-un-paso-al-costado-y-reafirmo-que-el-frente-amplio-quiere-cambiarla-n6061217"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "El Frente Amplio quiere cambiar a Mónica Ferrero: Pereira reclamó un acuerdo político",
+    "url": "https://www.lr21.com.uy/politica/1499951-el-frente-amplio-quiere-cambiar-a-monica-ferrero-pereira-reclamo-un-acuerdo-politico"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "La negociación de cargos de contralor se tranca por la Fiscalía",
+    "url": "https://www.lr21.com.uy/politica/1499935-la-negociacion-de-cargos-de-contralor-se-tranca-por-la-fiscalia"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Congreso del FA le da aire al gobierno y le transmite a Orsi una valoración positiva",
+    "url": "https://www.carasycaretas.com.uy/politica/congreso-del-fa-le-da-aire-al-gobierno-y-le-transmite-orsi-una-valoracion-positiva-n100384"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Ana Olivera advierte una estrategia opositora para \"minar la confianza\" del Gobierno",
+    "url": "https://www.carasycaretas.com.uy/politica/ana-olivera-advierte-una-estrategia-opositora-minar-la-confianza-del-gobierno-n100367"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Cuando el sueldo no alcanza: crece la cantidad de uruguayos con dificultades para pagar sus deudas",
+    "url": "https://ladiaria.com.uy/economia/articulo/2026/10/cuando-el-sueldo-no-alcanza-crece-la-cantidad-de-uruguayos-con-dificultades-para-pagar-sus-deudas/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Gráfico de la semana | Los salarios sumergidos en perspectiva histórica",
+    "url": "https://ladiaria.com.uy/economia/articulo/2026/10/grafico-de-la-semana-los-salarios-sumergidos-en-perspectiva-historica/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Perspectivas globales: las dos fuerzas contrapuestas que marcan el ritmo de la economía mundial",
+    "url": "https://ladiaria.com.uy/economia/articulo/2026/10/perspectivas-globales-las-dos-fuerzas-contrapuestas-que-marcan-el-ritmo-de-la-economia-mundial/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "¿Cuánto crecería la economía uruguaya si la IA se difundiera en el trabajo de aquí a 2030?",
+    "url": "https://ladiaria.com.uy/economia/articulo/2026/10/cuanto-creceria-la-economia-uruguaya-si-la-ia-se-difundiera-en-el-trabajo-de-aqui-a-2030/"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-22.mp3",
+  "capitulos_json": "2026-10-22.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-21",
   "guid": "tapero-2026-10-21",
   "titulo": "Aristas 2025: ¿qué explica la caída en matemática y lectura?",

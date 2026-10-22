@@ -1,6 +1,160 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-19",
+  "guid": "tapero-2026-10-19",
+  "titulo": "Impuesto al 1%: ¿compromiso o debate sin fecha?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nEl FA aprobó valorar un impuesto al patrimonio, pero sin ley ni plazo. Y una adolescente de Paysandú fue hallada con vida en Argentina sin dejar registro migratorio de cruce.\n\n- El VIII Congreso del FA aprobó una moción que valora la propuesta del PIT-CNT: una sobretasa anual del 1% a los patrimonios que superen el millón de dólares. Sin ley ni fecha de votación; la resolución propone estudio y diálogo en instancias orgánicas del FA en 2027. El ministro Oddone lo descartó para este período.\n- Una adolescente de 15 años de Paysandú desapareció el viernes 16 de octubre y fue encontrada con vida el domingo 18 en Campana, Argentina. Un hombre con ciudadanía uruguaya y argentina quedó detenido. No quedó registro migratorio de ella pese a aparecer del otro lado; la hipótesis es que cruzó a pie.\n\nEn la mesa: Inés, Sofía (economista, personaje ficticio), Artigas y Saravia (recreaciones con IA). Guion y voces generados con IA · Hechos con fuente.\n\n¿Si en 2027 el FA termina ese estudio, debería presentar un proyecto de ley o alcanza con el debate interno?\n\n—\nTa, pero… · Figuras de nuestra historia, recreadas con IA, discuten la noticia del día con gente de hoy.\nPersonajes de hoy ficticios · Guion y voces con IA.\nMás en tapero.uy\nFuente: El Observador · 19 de octubre de 2026",
+  "titulo_youtube": "19/10 · Impuesto al 1% y adolescente hallada en Argentina: ¿qué pasó? | Ta, pero…",
+  "comentario_fijado": "Si en 2027 el FA termina el estudio sobre la sobretasa al 1%, ¿debería presentar un proyecto de ley o alcanza con el debate interno? Contanos acá abajo. 👇",
+  "audio": "episodio.mp3",
+  "duracion_s": 364.398957,
+  "bytes": 8747092,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-19.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Impuesto al 1% más rico: ¿compromiso del FA o debate abierto hasta 2027?",
+    "inicio": 117.9
+   },
+   {
+    "titulo": "Una adolescente encontrada en Argentina: qué se sabe del cruce de frontera",
+    "inicio": 194.8
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 309.4
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "Menor en Paysandú: ¿qué pasó en el cruce?",
+    "texto_instagram": "Una menor de Paysandú cruzó la frontera sin dejar registro migratorio. La encontraron con vida en Argentina dos días después.\nEn la mesa, Saravia (recreado con IA) dice que el resultado no cierra la pregunta de cómo salió sin rastro. Sofía (economista ficticia) señala que la cooperación regional funcionó, pero deja abierto si el control de menores en el puente necesita revisión.\n¿Para vos, el resultado alcanza, o hay que revisar cómo ocurrió el cruce igual?\nMandáselo a quien tenga un hijo adolescente.\n#AlertaAmber #FronteraUruguay",
+    "texto_tiktok": "Menor de Paysandú en Argentina sin registro migratorio: ¿resultado o falla de frontera? #AlertaAmber",
+    "texto_shorts": "Menor en Paysandú: ¿qué pasó en el cruce del puente? #Shorts",
+    "medio": "Montevideo Portal"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "Sobretasa al 1%: ¿estudio primero o decisión ahora?",
+    "texto_instagram": "El FA aplaudió una propuesta del PIT-CNT de sobretasa al patrimonio sobre el millón de dólares, sin ley ni fecha todavía.\nSofía (economista ficticia) pregunta cuánto recaudaría y cuánto capital podría irse antes de celebrar. Artigas (recreado con IA) explica que la resolución deja ese estudio para 2027.\n¿Para vos, aplaudir la idea antes del estudio es avanzar o es apuro?\nMandáselo a quien le importe de dónde sale el financiamiento para las políticas sociales.\n#SobretasaFA",
+    "texto_tiktok": "Sobretasa al 1% Uruguay: el FA aprobó una moción y el estudio queda para 2027, pero Oddone la descarta para este período. ¿Con qué argumento te quedás? #sobretasa",
+    "texto_shorts": "Sobretasa al 1%: ¿alcanza con estudiarla en 2027? #Shorts",
+    "medio": "El Observador"
+   },
+   {
+    "archivo": "clips/clip_3.mp4",
+    "titulo": "¿Sobretasa: el FA aprobó un compromiso o un estudio?",
+    "texto_instagram": "«Aplaudieron antes de hacer las cuentas», dice Sofía (economista ficticia).\nEl Congreso del FA valoró una propuesta de sobretasa al patrimonio, pero sin ley ni fecha. En la mesa, Artigas (recreación con IA) y Sofía cruzan argumentos sobre si aprobar un estudio es un paso o no es nada.\n¿Vos qué pensás: tiene sentido aplaudir sin números, o hay que esperar a tenerlos?\n#SobretasaPatrimonio #ImpuestoAlPatrimonio",
+    "texto_tiktok": "Sobretasa al patrimonio en Uruguay: ¿el FA aprobó un compromiso o un estudio? ¿Con qué argumento te quedás? #SobretasaFA",
+    "texto_shorts": "¿Sobretasa al patrimonio: el FA aprobó un compromiso o un estudio? #Shorts",
+    "medio": "El Observador"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "Impuesto al 1%, Diálogo Social y el rechazo a las colectoras: los aportes de las bases que se aprobaron en el Congreso del FA",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/impuesto-al-1-dialogo-social-y-el-rechazo-a-las-colectoras-los-aportes-de-las-bases-que-se-aprobaron-en-el-congreso-del-fa/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Congreso del Frente Amplio respalda el impuesto al 1% más rico y ordena su casa electoral",
+    "url": "https://www.carasycaretas.com.uy/politica/congreso-del-frente-amplio-respalda-el-impuesto-al-1-mas-rico-y-ordena-su-casa-electoral-n100263"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Frente Amplio prioriza erradicación de la pobreza infantil y el crecimiento redistributivo",
+    "url": "https://www.carasycaretas.com.uy/politica/frente-amplio-prioriza-erradicacion-la-pobreza-infantil-y-el-crecimiento-redistributivo-n100274"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "El FA respaldó la propuesta sobre el 1% más rico aunque Pereira aclaró: “No necesariamente para este período”",
+    "url": "https://www.elpais.com.uy/informacion/politica/el-fa-respaldo-la-propuesta-sobre-el-1-mas-rico-aunque-pereira-aclaro-no-necesariamente-para-este-periodo"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Congreso del Frente Amplio \"valora\" propuesta de impuesto al 1% más rico y llama a \"alcanzar acuerdos\" en 2027",
+    "url": "https://www.elobservador.com.uy/nacional/congreso-del-frente-amplio-respaldo-creacion-impuesto-al-1-mas-rico-y-llamo-alcanzar-acuerdos-2027-n6060850"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "El FA reabre el debate sobre el impuesto al 1% más rico hacia 2027",
+    "url": "https://www.lr21.com.uy/politica/1499821-el-fa-reabre-el-debate-sobre-el-impuesto-al-1-mas-rico-hacia-2027"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Pereira descartó ser candidato a presidente y auguró que el partido ganará en 2029",
+    "url": "https://www.carasycaretas.com.uy/politica/pereira-descarto-ser-candidato-presidente-y-auguro-que-el-partido-ganara-2029-n100279"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Fernando Pereira: \"A los patoteros se los enfrenta con ideas, no con consignas negativas\"",
+    "url": "https://www.carasycaretas.com.uy/politica/fernando-pereira-a-los-patoteros-se-los-enfrenta-ideas-no-consignas-negativas-n100268"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "“Soy trabajador, me siento eso”: Fernando Pereira fue reelecto como presidente del FA",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979016"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Fernando Pereira fue reelecto por unanimidad como presidente del Frente Amplio y llamó a prepararse para ganar en 2029",
+    "url": "https://www.elobservador.com.uy/nacional/fernando-pereira-fue-reelecto-unanimidad-como-presidente-del-frente-amplio-y-llamo-prepararse-ganar-2029-n6060862"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "“Uruguay precisa seguir por la senda de los cambios”, afirmó Fernando Pereira, reelecto como presidente del FA",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/uruguay-precisa-seguir-por-la-senda-de-los-cambios-afirmo-fernando-pereira-reelecto-como-presidente-del-fa/"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Adolescente de Paysandú hallada en Argentina: ¿qué falló en los sistemas migratorios?",
+    "url": "https://www.lr21.com.uy/comunidad/1499825-adolescente-de-paysandu-hallada-en-argentina-que-fallo-en-los-sistemas-migratorios"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Los movimientos del argentino detenido por la desaparición de una adolescente que permitieron dar con su paradero",
+    "url": "https://www.subrayado.com.uy/los-movimientos-del-argentino-detenido-la-desaparicion-una-adolescente-que-permitieron-dar-su-paradero-n1021137"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Hallaron en Argentina a Camila Rodríguez: está “en buenas condiciones” y hay un detenido",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979018"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "El detrás de la desaparición de Camila Ayelén y el rol del argentino de 37 años detenido",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979039"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "“Esperábamos lo peor”: qué dijeron los padres de Camila tras su aparición en Argentina",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979037"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Fue localizada en Argentina \"con vida y en buenas condiciones\" la adolescente que estaba desaparecida en Paysandú",
+    "url": "https://www.subrayado.com.uy/fue-localizada-argentina-con-vida-y-buenas-condiciones-la-adolescente-que-estaba-desaparecida-paysandu-n1021128"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Involucra a dos países: cómo sigue el caso de Camila, menor sanducera hallada en Argentina",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979047"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-19.mp3",
+  "capitulos_json": "2026-10-19.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-18",
   "guid": "tapero-2026-10-18",
   "titulo": "Solaria: ¿memorando o inversión? El Niño alerta al campo",

@@ -220,7 +220,7 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
   </div>
 </section>
 
-<section>
+<section id="como">
   <div class="wrap">
     <div class="sec-head">
       <div><p class="eyebrow">Cómo trabajamos</p><h2>Qué es real y qué es ficción</h2></div>
@@ -286,33 +286,98 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
   ];
 
   // ---- medición sin cookies ni datos personales ----
-  // Un evento anónimo por visita/acción: tipo, de dónde vino y celular/escritorio. Sin IP ni identificadores.
-  // Solo cuenta en el dominio real (no en pruebas locales) y respeta "No rastrear".
-  var MIDE = SUPABASE_URL && /(^|\.)(tapero\.uy|github\.io)$/.test(location.hostname) && navigator.doNotTrack !== "1";
+  // Eventos anónimos: tipo, de dónde vino y celular/escritorio. Sin IP, sin cookies y sin guardar nada en el
+  // dispositivo: VISITA es un número al azar que vive solo mientras la página está abierta (une los eventos de una
+  // visita, no reconoce a nadie entre visitas). Solo cuenta en el dominio real, respeta "No rastrear" y no cuenta
+  // nuestros navegadores (entrar una vez con ?yo=1; ?yo=0 lo deshace).
+  function param(n){try{return new URLSearchParams(location.search).get(n)}catch(e){return null}}
+  var YO = false;
+  try{
+    if(param("yo")==="1") localStorage.setItem("tapero_yo","1");
+    if(param("yo")==="0") localStorage.removeItem("tapero_yo");
+    YO = localStorage.getItem("tapero_yo")==="1";
+  }catch(e){}
+  var MIDE = SUPABASE_URL && /(^|\.)(tapero\.uy|github\.io)$/.test(location.hostname) && navigator.doNotTrack !== "1" && !YO;
   function fuente(){
     try{
-      var u = new URLSearchParams(location.search).get("utm_source") || new URLSearchParams(location.search).get("s");
+      var u = param("utm_source") || param("s");
       if(u) return u.toLowerCase().slice(0,80);
       if(document.referrer){var h = new URL(document.referrer).hostname.replace(/^www\./,""); if(h && h!==location.hostname) return h.slice(0,80)}
     }catch(e){}
     return "directo";
   }
   var ORIGEN = fuente(), DISPOSITIVO = innerWidth < 768 ? "movil" : "escritorio";
-  function medir(tipo, detalle){
+  var CAMPANA = ((param("utm_campaign") || param("c") || "").toLowerCase().slice(0,80)) || null;
+  var VISITA = Math.random().toString(36).slice(2,12);
+  function medir(tipo, detalle, valor){
     if(!MIDE) return;
     try{
       fetch(SUPABASE_URL+"/rest/v1/visitas",{method:"POST",keepalive:true,
         headers:{"Content-Type":"application/json","apikey":SUPABASE_KEY,"Authorization":"Bearer "+SUPABASE_KEY,"Prefer":"return=minimal"},
-        body:JSON.stringify({tipo:tipo,fuente:ORIGEN,dispositivo:DISPOSITIVO,detalle:detalle?String(detalle).slice(0,80):null})
+        body:JSON.stringify({tipo:tipo,fuente:ORIGEN,dispositivo:DISPOSITIVO,detalle:detalle?String(detalle).slice(0,80):null,
+          visita:VISITA,campana:CAMPANA,valor:(valor==null?null:Math.max(0,Math.min(86400,Math.round(valor))))})
       }).catch(function(){});
     }catch(e){}
   }
   medir("vista");
+  // Una persona hace algo (scroll, toque, tecla); un bot que solo carga la página, no.
+  (function(){
+    var hecho = false;
+    function humano(){if(hecho) return; hecho = true; medir("humano");
+      ["scroll","pointerdown","touchstart","keydown"].forEach(function(t){removeEventListener(t,humano,true)})}
+    ["scroll","pointerdown","touchstart","keydown"].forEach(function(t){addEventListener(t,humano,{capture:true,passive:true})});
+  })();
+  // Hasta dónde llega: cada sección se cuenta una vez por visita.
+  if("IntersectionObserver" in window){
+    var vistas = {};
+    var obs = new IntersectionObserver(function(es){es.forEach(function(e){
+      var id = e.target.id;
+      if(e.isIntersecting && !vistas[id]){vistas[id] = 1; medir("seccion", id); obs.unobserve(e.target)}
+    })},{threshold:0.35});
+    ["avisame","episodios","mesa","como","contacto"].forEach(function(id){var el = document.getElementById(id); if(el) obs.observe(el)});
+  }
+  // Cuánto tiempo la tuvo a la vista (se manda al ocultar la página; vale el máximo de la visita).
+  (function(){
+    var acumulado = 0, desde = document.visibilityState==="visible" ? Date.now() : null;
+    function cerrar(){
+      if(desde!==null){acumulado += (Date.now()-desde)/1000; desde = null}
+      if(acumulado >= 1) medir("tiempo", null, Math.min(acumulado, 3600));
+    }
+    document.addEventListener("visibilitychange",function(){
+      if(document.visibilityState==="hidden") cerrar(); else desde = Date.now();
+    });
+    addEventListener("pagehide", cerrar);
+  })();
+  // Cuánto se escucha o se ve: 25, 50, 75 y 100 %, una vez por episodio y visita.
+  var hitos = {};
+  function hito(tipo, clave, actual, total){
+    if(!total || !isFinite(total)) return;
+    var pct = actual/total*100;
+    [25,50,75,100].forEach(function(h){
+      var k = tipo+"|"+clave+"|"+h;
+      if(pct >= (h===100 ? 98 : h) && !hitos[k]){hitos[k] = 1; medir(tipo, clave, h)}
+    });
+  }
+  // Enlaces de salida (los botones «Escuchalo en» se cuentan aparte, como "plataforma").
+  document.addEventListener("click",function(ev){
+    var a = ev.target.closest && ev.target.closest("a[href]");
+    if(!a || a.closest("#escuchar")) return;
+    var h = a.getAttribute("href");
+    if(/^mailto:/.test(h)) return medir("clic","mailto");
+    if(/feed\.xml$/.test(h)) return medir("clic","rss");
+    if(a.hostname && a.hostname!==location.hostname) medir("clic", a.hostname.replace(/^www\./,""));
+  },true);
+  // Empezó un formulario (aunque no lo mande).
+  ["aviso","contacto"].forEach(function(n){
+    var f = document.getElementById("form-"+n), hecho = false;
+    if(f) f.addEventListener("focusin",function(){if(!hecho){hecho = true; medir("form", n)}});
+  });
 
   var $ = function(s){return document.querySelector(s)};
   var audio = $("#audio");
   var tvideo = $("#trailer");
   tvideo.addEventListener("play",function(){audio.pause(); medir("play","tapero-trailer-video")});
+  tvideo.addEventListener("timeupdate",function(){hito("video","trailer",tvideo.currentTime,tvideo.duration)});
   var ICON_PLAY = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>';
   var ICON_PAUSE = '<svg viewBox="0 0 24 24"><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>';
 
@@ -376,6 +441,8 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
   audio.addEventListener("timeupdate",function(){
     $("#t-actual").textContent = fmt(audio.currentTime);
     $("#avance").style.width = (audio.duration? audio.currentTime/audio.duration*100 : 0)+"%";
+    var e = window._reales && window._reales[actual];
+    if(e) hito("escucha", e.guid || e.titulo, audio.currentTime, audio.duration);
   });
   cargar().then(function(d){episodios = d; render()});
 

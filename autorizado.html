@@ -14,7 +14,26 @@
 <main>
   <p><a href="./">← Ta, pero…</a></p>
   <h1>Listo, autorizado.</h1>
-  <p>Ya podés cerrar esta pestaña. El publicador de "Ta, pero…" toma el código desde esta dirección.</p>
+  <div id="con-codigo" hidden>
+    <p>Copiá este código y mandáselo al publicador (por el chat de Claude):</p>
+    <p><code id="codigo" style="display:block;word-break:break-all;font-size:1.1rem;padding:14px;border-radius:10px;background:rgba(127,127,127,.15)"></code></p>
+    <p><button id="copiar" type="button" style="font-size:1.1rem;padding:10px 18px">Copiar código</button> <span id="copiado"></span></p>
+  </div>
+  <p id="sin-codigo">Ya podés cerrar esta pestaña.</p>
 </main>
+<script>
+  // El código viene en la dirección (?code=…): en el celular no se ve, así que se muestra acá para copiarlo
+  // (dueño, 2026-10-24, autorizando TikTok desde el celular). No se envía a ningún lado.
+  (function(){
+    var q = new URLSearchParams(location.search), c = q.get("code");
+    if(!c) return;
+    document.getElementById("codigo").textContent = c;
+    document.getElementById("con-codigo").hidden = false;
+    document.getElementById("sin-codigo").hidden = true;
+    document.getElementById("copiar").addEventListener("click", function(){
+      navigator.clipboard.writeText(c).then(function(){ document.getElementById("copiado").textContent = "✓ Copiado"; });
+    });
+  })();
+</script>
 </body>
 </html>

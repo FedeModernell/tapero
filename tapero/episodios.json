@@ -1,6 +1,140 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-24",
+  "guid": "tapero-2026-10-24",
+  "titulo": "Muñoz acusa a García: ¿denuncia válida sin pruebas?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nUna exministra acusa en vivo a un senador de recibir dinero de Mario Cardama. Él lo niega, dice que es \"inmundicia\" y anuncia denuncia en Fiscalía. ¿Qué vale una acusación sin prueba concreta?\n\n- Muñoz acusa a García: el Partido Nacional exige retractación y García va a la Fiscalía. La nota consultada no presenta pruebas que acrediten la acusación.\n- Balotaje en Brasil: Lula y Flávio Bolsonaro en empate técnico según Datafolha, con Orsi pidiendo la mejor relación con quien gane.\n\nEn la mesa: Inés, Herrera (recreación con IA), Washington (productor de Tacuarembó) y Marta (jubilada de Paso de la Arena). Personajes ficticios y recreaciones con IA · Guion y voces de IA · Hechos con fuente (El Observador, la diaria).\n\n¿Si Muñoz ratifica sus dichos en Fiscalía sin aportar prueba nueva, eso solo alcanza para que una acusación sea válida?\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: El Observador · 24 de octubre de 2026",
+  "titulo_youtube": "24/10 · Muñoz acusa a García: ¿denuncia válida sin pruebas? | Ta, pero…",
+  "comentario_fijado": "Si Muñoz ratifica sus dichos en Fiscalía sin prueba nueva, ¿eso solo alcanza para que una acusación sea válida, o necesitás algo más que la palabra de quien la hace?",
+  "audio": "episodio.mp3",
+  "duracion_s": 406.189955,
+  "bytes": 9750194,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-24.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Muñoz acusa a García de recibir coimas de Cardama: ¿denuncia política legítima o difamación sin pruebas?",
+    "inicio": 103.4
+   },
+   {
+    "titulo": "Balotaje en Brasil: ¿el resultado le cambia el tablero a Uruguay o el país está blindado de cualquier signo político?",
+    "inicio": 201.4
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 350.2
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "¿Balotaje en Brasil le importa a Uruguay?",
+    "texto_instagram": "Al ganado no le importa la bandera del comprador — pero ¿y a tu feria?\nWashington, personaje ficticio, dice que Uruguay le vende a quien gobierne. Marta, personaje ficticia, pregunta si un resultado que sacuda el Mercosur no le llega al bolsillo. Herrera, recreado con IA, plantea que la presión de los grandes no cambia según quién ocupe Brasilia.\nMandáselo a quien exporta o a quien compra en la feria.\n¿Con qué argumento te quedás?\n#BalotajeBrasil",
+    "texto_tiktok": "Balotaje en Brasil: ¿le cambia algo a Uruguay? Washington dice que al ganado no le importa la bandera. Marta pregunta si eso llega a su feria. ¿Vos qué pensás? #BalotajeBrasil",
+    "texto_shorts": "Balotaje en Brasil: ¿le cambia algo a Uruguay? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "Muñoz acusó a García: ¿basta la palabra?",
+    "texto_instagram": "Si mañana aparece la prueba, ¿el daño de hoy ya fue de todas formas?\nWashington, personaje ficticio, dice que el daño ya está hecho. Marta, personaje ficticia, lo refuerza: lo dijo públicamente en un programa de streaming. Herrera, recreado con IA, plantea que la diferencia entre hablar y probar es tan vieja como los tribunales.\nMandáselo a quien sigue el caso Muñoz-García.\n¿Alcanza con decirlo públicamente, o necesitás algo más?\n#AcusacionesSinPrueba",
+    "texto_tiktok": "Acusaciones sin prueba en Uruguay: ¿el acusado queda marcado igual aunque no haya condena? Marta y Washington lo debaten. #AcusacionesSinPrueba",
+    "texto_shorts": "Acusar sin prueba en Uruguay: ¿el daño ya está hecho igual? #Shorts",
+    "medio": "El Observador"
+   },
+   {
+    "archivo": "clips/clip_3.mp4",
+    "titulo": "Muñoz acusó a García: ¿para qué sin prueba?",
+    "texto_instagram": "¿Qué vale decir que alguien cobró si no vas a probarlo?\nWashington, personaje ficticio, cuestiona qué vale una acusación sin intención de probarla. Marta, personaje ficticia, señala que García dijo hacer la denuncia por su familia. Herrera, recreado con IA, plantea que una cosa es la polémica y otra decir que alguien cobró.\nMandáselo a quien sigue el debate político uruguayo.\n¿Con qué argumento te quedás?\n#AcusacionesSinPrueba",
+    "texto_tiktok": "Muñoz acusó a García y dijo que no se va a dedicar a investigar: ¿para qué lo dijo? Washington y Marta lo discuten. #Cardama",
+    "texto_shorts": "Muñoz acusó a García: ¿para qué si no va a investigar? #Shorts",
+    "medio": "El Observador"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "El Observador",
+    "titulo": "María Julia Muñoz acusó a Javier García de recibir coimas de Cardama: \"Hubo guita solventando a la 40\"",
+    "url": "https://www.elobservador.com.uy/nacional/maria-julia-munoz-acuso-javier-garcia-recibir-coimas-cardama-hubo-guita-solventando-la-40-n6061451"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "\"Intolerables e infamantes\": Álvaro Delgado exigió a Muñoz que se retracte sobre dichos de Cardama y advirtió que \"no vale todo\"",
+    "url": "https://www.elobservador.com.uy/nacional/intolerables-e-infamantes-alvaro-delgado-exigio-munoz-que-se-retracte-dichos-cardama-y-advirtio-que-no-vale-todo-n6061478"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "María Julia Muñoz aseguró que Javier García fue sobornado desde Cardama",
+    "url": "https://www.lr21.com.uy/politica/1500025-maria-julia-munoz-aseguro-que-javier-garcia-fue-sobornado-desde-cardama"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Javier García va a denunciar a María Julia Muñoz por decir que recibió “coimas” de Cardama",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979655"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "“Ordinaria”: blancos cruzaron a Muñoz por acusar a García de recibir coimas de Cardama",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979652"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Blancos califican de \"intolerables\" las declaraciones de Muñoz y piden que se retracte",
+    "url": "https://www.carasycaretas.com.uy/blancos-califican-intolerables-las-declaraciones-munoz-y-piden-que-se-retracte-n100444"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "El viernes debatieron Lula y Bolsonaro",
+    "url": "https://ladiaria.com.uy/mundo/articulo/2026/10/el-viernes-debatieron-lula-y-bolsonaro/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Brasil elige el domingo entre la conducción de Lula o la de otro Bolsonaro",
+    "url": "https://ladiaria.com.uy/mundo/articulo/2026/10/brasil-elige-el-domingo-entre-la-conduccion-de-lula-o-la-de-otro-bolsonaro/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Los escenarios para Uruguay ante un posible cambio de gobierno en Brasil: flexibilización del Mercosur, Focem y vínculo con EEUU",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/los-escenarios-para-uruguay-ante-un-posible-cambio-de-gobierno-en-brasil-flexibilizacion-del-mercosur-focem-y-vinculo-con-eeuu/"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Brasil decide entre Lula o Bolsonaro en un balotaje peleado que define el rumbo del país e impacta en la región",
+    "url": "https://www.elobservador.com.uy/estados-unidos/america-latina/brasil-decide-lula-o-bolsonaro-un-balotaje-peleado-que-define-el-rumbo-del-pais-e-impacta-la-region-n6061334"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Por qué Minas Gerais será un estado clave en el balotaje que disputan Lula y Bolsonaro en Brasil",
+    "url": "https://www.elobservador.com.uy/estados-unidos/america-latina/por-que-minas-gerais-sera-un-estado-clave-el-balotaje-que-disputan-lula-y-bolsonaro-brasil-n6061467"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Lula y Bolsonaro protagonizan un tenso debate a 48 horas de unas elecciones presidenciales empatadas",
+    "url": "https://www.lr21.com.uy/mundo/1500033-debate-lula-bolsonaro-segundo-turno-brasil"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Importa quién gana y cómo gana",
+    "url": "https://ladiaria.com.uy/opinion/articulo/2026/10/importa-quien-gana-y-como-gana/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Brasil y algunas razones estructurales del empate: lecciones para Uruguay",
+    "url": "https://ladiaria.com.uy/opinion/articulo/2026/10/brasil-y-algunas-razones-estructurales-del-empate-lecciones-para-uruguay/"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-24.mp3",
+  "capitulos_json": "2026-10-24.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-22",
   "guid": "tapero-2026-10-22",
   "titulo": "Pereira pide que Ferrero se vaya: ¿postura política o interferencia?",

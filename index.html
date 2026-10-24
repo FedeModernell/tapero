@@ -56,6 +56,8 @@ header{position:sticky;top:0;z-index:10;background:rgba(20,33,61,.88);backdrop-f
 .btn-marca:hover{transform:translateY(-1px);background:#ffd43d}
 .btn-borde{border:1.5px solid var(--linea);color:var(--texto);background:transparent}
 .btn-borde:hover{border-color:var(--marca);color:var(--marca)}
+.seguinos{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
+.seguinos .btn{flex:1 1 200px;padding:12px 18px}
 input,textarea{width:100%;font:1rem var(--cuerpo);color:var(--texto);background:var(--superficie);border:1.5px solid transparent;border-radius:999px;padding:14px 20px;outline:none;transition:border-color .15s}
 textarea{border-radius:var(--radio);resize:vertical;min-height:120px}
 input:focus,textarea:focus{border-color:var(--marca)}
@@ -191,10 +193,14 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
     </div>
 
     <div class="player" aria-label="Episodio destacado">
-      <video class="portada vertical" id="trailer" controls playsinline preload="metadata" poster="promo/poster.jpg" src="promo/encuentro.mp4" aria-label="Video: un encuentro imposible, así es Ta, pero…"></video>
+      <video class="portada vertical" id="trailer" controls playsinline preload="metadata" poster="promo/lanzamiento.jpg" src="promo/lanzamiento.mp4" aria-label="Video: llegó Ta, pero…, así suena la mesa"></video>
       <div class="info">
-        <small id="dest-etq">Así es la mesa · 40 s</small>
-        <h3 id="dest-titulo">Un encuentro imposible</h3>
+        <small id="dest-etq">Así suena la mesa · 44 s</small>
+        <h3 id="dest-titulo">Llegó Ta, pero…</h3>
+        <div class="seguinos">
+          <a class="btn btn-marca" id="seguir-ig" href="https://www.instagram.com/taperopodcast/" target="_blank" rel="noopener">Seguinos en Instagram</a>
+          <a class="btn btn-borde" id="seguir-yt" href="https://www.youtube.com/@taperopodcast?sub_confirmation=1" target="_blank" rel="noopener">Suscribite en YouTube</a>
+        </div>
         <div class="barra" hidden>
           <button class="play" id="dest-play" aria-label="Reproducir"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></button>
           <div class="progreso">
@@ -396,6 +402,7 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
   document.addEventListener("click",function(ev){
     var a = ev.target.closest && ev.target.closest("a[href]");
     if(!a || a.closest("#escuchar")) return;
+    if(/^seguir-/.test(a.id)) return medir("clic", a.id);  // botones debajo del video de portada
     var h = a.getAttribute("href");
     if(/^mailto:/.test(h)) return medir("clic","mailto");
     if(/feed\.xml$/.test(h)) return medir("clic","rss");

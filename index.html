@@ -141,6 +141,22 @@ footer{padding:36px 0 48px;border-top:1px solid var(--linea);color:var(--suave);
 footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
 footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
 .ia{margin-top:14px;font-size:.82rem}
+/* puerta: el mail antes de escuchar (dueño, 2026-10-23) */
+.puerta{position:fixed;inset:0;z-index:50;display:grid;place-items:center;padding:16px;background:rgba(8,14,28,.72);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
+.puerta[hidden]{display:none}
+.puerta .caja{position:relative;width:100%;max-width:440px;background:var(--superficie);border:1px solid var(--linea);border-radius:22px;padding:30px 26px 24px;box-shadow:0 40px 80px -30px rgba(0,0,0,.7);animation:subir .22s ease-out}
+@keyframes subir{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.puerta .cerrar{position:absolute;top:12px;right:12px;width:36px;height:36px;border-radius:50%;border:0;background:transparent;color:var(--suave);font-size:1.4rem;cursor:pointer}
+.puerta .cerrar:hover{color:var(--texto);background:var(--linea)}
+.puerta img{width:56px;height:56px;border-radius:12px;display:block;margin-bottom:16px}
+.puerta h2{font-family:var(--titulo);text-transform:uppercase;font-size:1.9rem;line-height:1;margin:0 0 10px}
+.puerta h2 em{font-style:normal;color:var(--marca)}
+.puerta p.sub{color:var(--suave);margin:0 0 18px;font-size:.98rem}
+.puerta input[type=email]{width:100%;margin-bottom:12px;background:var(--fondo);border-color:var(--linea)}
+.puerta label.acepto{display:flex;gap:10px;align-items:flex-start;font-size:.84rem;color:var(--suave);margin:4px 0 16px;cursor:pointer}
+.puerta label.acepto input{width:18px;height:18px;padding:0;margin:2px 0 0;border-radius:4px;accent-color:var(--marca);flex:none}
+.puerta .btn{width:100%}
+.puerta .msg{text-align:center}
 </style>
 </head>
 <body>
@@ -272,6 +288,21 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
   <div class="wrap"><p class="ia">🎙️ Programa de humor y opinión con inteligencia artificial. Los personajes de hoy son ficticios; las figuras históricas son recreaciones con IA de sus ideas documentadas, no son ellas ni respaldan a ningún partido, dirigente o empresa actual. Los hechos vienen de fuentes citadas y verificadas. <a href="aviso-legal.html">Aviso legal</a></p></div>
 </footer>
 
+<div class="puerta" id="puerta" role="dialog" aria-modal="true" aria-labelledby="puerta-titulo" hidden>
+  <div class="caja">
+    <button class="cerrar" type="button" id="puerta-cerrar" aria-label="Cerrar">×</button>
+    <img src="icono.jpg" alt="">
+    <h2 id="puerta-titulo">Antes de <em>darle play</em></h2>
+    <p class="sub">Dejanos tu email para escuchar. Te avisamos cuando sale cada episodio, nada más.</p>
+    <form id="form-puerta" novalidate>
+      <input type="email" name="email" placeholder="tu@email.com" autocomplete="email" required aria-label="Tu email">
+      <input class="honey" type="text" name="web" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <label class="acepto"><input type="checkbox" name="acepto"> <span>Acepto que guarden mi email solo para escribirme novedades del programa. Puedo pedir la baja cuando quiera. <a href="privacidad.html" target="_blank" rel="noopener">Privacidad</a>.</span></label>
+      <button class="btn btn-marca" type="submit">Escuchar</button>
+      <p class="msg" id="msg-puerta" role="status"></p>
+    </form>
+  </div>
+</div>
 <audio id="audio" preload="none"></audio>
 
 <script>
@@ -379,7 +410,10 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
   var $ = function(s){return document.querySelector(s)};
   var audio = $("#audio");
   var tvideo = $("#trailer");
-  tvideo.addEventListener("play",function(){audio.pause(); medir("play","video-portada")});
+  tvideo.addEventListener("play",function(){
+    if(!abierta()){tvideo.pause(); return pedirMail(function(){tvideo.play()})}
+    audio.pause(); medir("play","video-portada");
+  });
   tvideo.addEventListener("timeupdate",function(){hito("video","portada",tvideo.currentTime,tvideo.duration)});
   var ICON_PLAY = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>';
   var ICON_PAUSE = '<svg viewBox="0 0 24 24"><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>';
@@ -416,6 +450,7 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
   function reproducir(i){
     var e = window._reales && window._reales[i];
     if(!e) return;
+    if(!abierta()) return pedirMail(function(){reproducir(i)});
     if(actual===i && !audio.paused){audio.pause();return}
     if(actual!==i){audio.src = BASE+"audio/"+e.archivo; actual = i}
     tvideo.pause();
@@ -448,6 +483,42 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
     if(e) hito("escucha", e.guid || e.titulo, audio.currentTime, audio.duration);
   });
   cargar().then(function(d){episodios = d; render()});
+
+  // ---- puerta: el mail antes de escuchar (dueño, 2026-10-23: obligatorio, y medir si sirve) ----
+  // Lo único que se guarda en el navegador es que ya dejó el mail (no el mail), para no volver a pedirlo.
+  // Eventos «puerta»: mostrada (vio la ventana), mail (lo dejó y escucha), cerrada (se fue sin dejarlo).
+  var PUERTA = "tapero_puerta", luego = null, mostrada = false;
+  function abierta(){try{return localStorage.getItem(PUERTA)==="1"}catch(e){return false}}
+  function abrir(){try{localStorage.setItem(PUERTA,"1")}catch(e){}}
+  var puerta = $("#puerta"), formP = $("#form-puerta");
+  function pedirMail(despues){
+    luego = despues;
+    $("#msg-puerta").textContent = ""; $("#msg-puerta").className = "msg";
+    puerta.hidden = false;
+    document.body.style.overflow = "hidden";
+    if(!mostrada){mostrada = true; medir("puerta","mostrada")}
+    setTimeout(function(){formP.email.focus()}, 50);
+  }
+  function cerrarPuerta(dejo){
+    puerta.hidden = true;
+    document.body.style.overflow = "";
+    if(!dejo) medir("puerta","cerrada");
+  }
+  $("#puerta-cerrar").addEventListener("click",function(){cerrarPuerta(false)});
+  puerta.addEventListener("click",function(ev){if(ev.target===puerta) cerrarPuerta(false)});
+  document.addEventListener("keydown",function(ev){if(ev.key==="Escape" && !puerta.hidden) cerrarPuerta(false)});
+  formP.addEventListener("submit",function(ev){
+    ev.preventDefault();
+    var msg = $("#msg-puerta"), email = formP.email.value.trim();
+    if(formP.web.value) return;
+    if(!emailOk(email)){msg.className="msg error";msg.textContent="Revisá el email: parece incompleto.";return}
+    if(!formP.acepto.checked){msg.className="msg error";msg.textContent="Marcá la casilla para aceptar.";return}
+    enviar("avisos",{email:email,origen:"puerta"},msg,"¡Listo! Arranca ya.").then(function(ok){
+      if(!ok) return;
+      abrir(); medir("puerta","mail"); formP.reset();
+      setTimeout(function(){cerrarPuerta(true); if(luego) luego()}, 500);
+    });
+  });
 
   // ---- botones de plataforma ----
   (function(){
@@ -495,7 +566,7 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
     var f = ev.target, msg = $("#msg-aviso"), email = f.email.value.trim();
     if(f.web.value) return;
     if(!emailOk(email)){msg.className="msg error";msg.textContent="Revisá el email: parece incompleto.";return}
-    enviar("avisos",{email:email,origen:"landing"},msg,"¡Listo! Te escribimos cuando haya novedades.").then(function(ok){if(ok){f.reset(); medir("aviso")}});
+    enviar("avisos",{email:email,origen:"landing"},msg,"¡Listo! Te escribimos cuando haya novedades.").then(function(ok){if(ok){f.reset(); abrir(); medir("aviso")}});
   });
   $("#form-contacto").addEventListener("submit",function(ev){
     ev.preventDefault();

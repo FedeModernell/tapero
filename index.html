@@ -181,11 +181,12 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
     <div>
       <p class="eyebrow">Las noticias de Uruguay, discutidas · Podcast diario</p>
       <h1>Figuras de nuestra historia, recreadas con IA, discuten <em>la noticia de hoy.</em></h1>
-      <p class="lead">Cada día, Artigas, Batlle, Varela, Saravia y Frugoni, recreados con IA, se sientan con personajes ficticios de hoy a discutir la noticia: con datos, con fuente y con humor. Unos 6 o 7 minutos. Varias miradas: tu opinión la armás vos.</p>
+      <p class="lead">Cada día, Artigas, Batlle, Varela, Herrera, Vaz Ferreira y otras figuras de nuestra historia, recreadas con IA, se sientan con personajes ficticios de hoy a discutir la noticia: con datos, con fuente y con humor. Unos 6 o 7 minutos. Varias miradas: tu opinión la armás vos.</p>
+      <p style="margin:0 0 18px"><button class="btn btn-marca" id="escuchar-hoy" type="button" hidden>▶ Escuchá el episodio de hoy</button></p>
       <form class="suscribir" id="form-aviso" novalidate>
         <input type="email" name="email" placeholder="tu@email.com" autocomplete="email" required aria-label="Tu email">
         <input class="honey" type="text" name="web" tabindex="-1" autocomplete="off" aria-hidden="true">
-        <button class="btn btn-marca" type="submit">Avisame</button>
+        <button class="btn btn-borde" type="submit">Avisame</button>
       </form>
       <p class="msg" id="msg-aviso" role="status">Dejanos tu email y te escribimos cuando haya novedades del programa. Nada más.</p>
       <p class="consent">Al anotarte aceptás que guardemos tu email solo para escribirte novedades del programa. Podés pedir la baja cuando quieras. <a href="privacidad.html">Privacidad</a>.</p>
@@ -227,7 +228,7 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
   <div class="wrap">
     <div class="sec-head">
       <div><p class="eyebrow">La mesa</p><h2>Quién discute</h2></div>
-      <p>Inés modera. Cinco personajes ficticios de hoy y cinco figuras de nuestra historia, recreadas con IA desde sus ideas documentadas, sin respaldar a ningún partido actual.</p>
+      <p>Inés modera. Cinco personajes ficticios de hoy y siete figuras de nuestra historia, recreadas con IA desde sus ideas documentadas, sin respaldar a ningún partido actual.</p>
     </div>
     <div class="mesa">
       <div class="pj" style="--c:#F2C230"><img src="img/ines.jpg" alt="Inés" loading="lazy"><div><b>Inés</b><span>Modera la mesa</span></div></div>
@@ -241,6 +242,8 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
       <div class="pj"><img src="img/varela.jpg" alt="Varela" loading="lazy"><div><b>Varela</b><span>Recreación con IA</span></div></div>
       <div class="pj"><img src="img/saravia.jpg" alt="Saravia" loading="lazy"><div><b>Saravia</b><span>Recreación con IA</span></div></div>
       <div class="pj"><img src="img/frugoni.jpg" alt="Frugoni" loading="lazy"><div><b>Frugoni</b><span>Recreación con IA</span></div></div>
+      <div class="pj"><img src="img/herrera.jpg" alt="Herrera" loading="lazy"><div><b>Herrera</b><span>Recreación con IA</span></div></div>
+      <div class="pj"><img src="img/vaz_ferreira.jpg" alt="Vaz Ferreira" loading="lazy"><div><b>Vaz Ferreira</b><span>Recreación con IA</span></div></div>
     </div>
   </div>
 </section>
@@ -298,13 +301,13 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
   <div class="caja">
     <button class="cerrar" type="button" id="puerta-cerrar" aria-label="Cerrar">×</button>
     <img src="icono.jpg" alt="">
-    <h2 id="puerta-titulo">Antes de <em>darle play</em></h2>
-    <p class="sub">Dejanos tu email para escuchar. Te avisamos cuando sale cada episodio, nada más.</p>
+    <h2 id="puerta-titulo">¿Te sirvió? <em>Mañana hay otro</em></h2>
+    <p class="sub">Dejanos tu email y te avisamos cuando sale cada episodio. Nada más.</p>
     <form id="form-puerta" novalidate>
       <input type="email" name="email" placeholder="tu@email.com" autocomplete="email" required aria-label="Tu email">
       <input class="honey" type="text" name="web" tabindex="-1" autocomplete="off" aria-hidden="true">
       <label class="acepto"><input type="checkbox" name="acepto"> <span>Acepto que guarden mi email solo para escribirme novedades del programa. Puedo pedir la baja cuando quiera. <a href="privacidad.html" target="_blank" rel="noopener">Privacidad</a>.</span></label>
-      <button class="btn btn-marca" type="submit">Escuchar</button>
+      <button class="btn btn-marca" type="submit">Avisame</button>
       <p class="msg" id="msg-puerta" role="status"></p>
     </form>
   </div>
@@ -418,7 +421,6 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
   var audio = $("#audio");
   var tvideo = $("#trailer");
   tvideo.addEventListener("play",function(){
-    if(!abierta()){tvideo.pause(); return pedirMail(function(){tvideo.play()})}
     audio.pause(); medir("play","video-portada");
   });
   tvideo.addEventListener("timeupdate",function(){hito("video","portada",tvideo.currentTime,tvideo.duration)});
@@ -448,16 +450,24 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
         '<span class="dur">'+fmt(e.duracion_s)+'</span>'+
         '<button class="play" data-i="'+i+'" aria-label="Reproducir '+esc(e.titulo)+'">'+ICON_PLAY+'</button></li>';
     });
-    html += '<li class="fila pronto"><span class="n">1</span><div class="mini"></div><div><h3>El primer episodio completo<span class="insignia">Pronto</span></h3><p>Dejá tu email arriba y te escribimos.</p></div><span class="dur">~8:00</span><button class="play" tabindex="-1" aria-hidden="true">'+ICON_PLAY+'</button></li>';
     lista.innerHTML = html;
     window._reales = reales;
-    if(reales[0]){
+    // El botón de arriba: el episodio más nuevo que no sea el tráiler.
+    var hoy = reales.findIndex(function(e){return e.tipo!=="trailer"});
+    var bh = $("#escuchar-hoy");
+    if(hoy>=0 && bh){
+      bh.textContent = "▶ Escuchá el último episodio · "+fmt(reales[hoy].duracion_s);
+      bh.hidden = false;
+      bh.onclick = function(){
+        medir("clic","escuchar-hoy"); reproducir(hoy);
+        var fila = document.querySelector('.fila[data-i="'+hoy+'"]');  // que se vea qué suena y el botón de pausa
+        if(fila) fila.scrollIntoView({behavior:"smooth", block:"center"});
+      };
     }
   }
   function reproducir(i){
     var e = window._reales && window._reales[i];
     if(!e) return;
-    if(!abierta()) return pedirMail(function(){reproducir(i)});
     if(actual===i && !audio.paused){audio.pause();return}
     if(actual!==i){audio.src = BASE+"audio/"+e.archivo; actual = i}
     tvideo.pause();
@@ -483,6 +493,9 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
   audio.addEventListener("play",estado);
   audio.addEventListener("pause",estado);
   audio.addEventListener("ended",estado);
+  // Terminó de escuchar: recién ahí se invita a dejar el mail (análisis de producto, 2026-10-25: delante del play
+  // 1 lo vio y 0 lo dejaron; ninguna evidencia a favor de una puerta antes de la escucha).
+  audio.addEventListener("ended",function(){if(!abierta()) pedirMail(null)});
   audio.addEventListener("timeupdate",function(){
     $("#t-actual").textContent = fmt(audio.currentTime);
     $("#avance").style.width = (audio.duration? audio.currentTime/audio.duration*100 : 0)+"%";
@@ -491,7 +504,8 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
   });
   cargar().then(function(d){episodios = d; render()});
 
-  // ---- puerta: el mail antes de escuchar (dueño, 2026-10-23: obligatorio, y medir si sirve) ----
+  // ---- puerta: el mail, ahora después de escuchar (dueño, 2026-10-23 la pidió obligatoria antes del play y que se
+  // midiera; 2026-10-25, con 0 mails de los que la vieron, «las que recomiendes»: pasa a después) ----
   // Lo único que se guarda en el navegador es que ya dejó el mail (no el mail), para no volver a pedirlo.
   // Eventos «puerta»: mostrada (vio la ventana), mail (lo dejó y escucha), cerrada (se fue sin dejarlo).
   var PUERTA = "tapero_puerta", luego = null, mostrada = false;
@@ -520,7 +534,7 @@ footer a{text-decoration:none;border-bottom:1px solid var(--linea)}
     if(formP.web.value) return;
     if(!emailOk(email)){msg.className="msg error";msg.textContent="Revisá el email: parece incompleto.";return}
     if(!formP.acepto.checked){msg.className="msg error";msg.textContent="Marcá la casilla para aceptar.";return}
-    enviar("avisos",{email:email,origen:"puerta"},msg,"¡Listo! Arranca ya.").then(function(ok){
+    enviar("avisos",{email:email,origen:"puerta"},msg,"¡Listo! Te avisamos.").then(function(ok){
       if(!ok) return;
       abrir(); medir("puerta","mail"); formP.reset();
       setTimeout(function(){cerrarPuerta(true); if(luego) luego()}, 500);

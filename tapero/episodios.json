@@ -1,6 +1,115 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-25",
+  "guid": "tapero-2026-10-25",
+  "titulo": "Brasil vota hoy: Mercosur en vilo. IM: 44 millones sin explicar",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nBrasil define esta noche su presidencia. Y en Montevideo, 44,6 millones de pesos en contratos sin tarea especificada esperan respuesta.\n\n- Brasil vota hoy el balotaje entre Lula y Flávio Bolsonaro. Datafolha y Quaest los ubican en empate técnico: Flávio con 51, Lula con 49, dentro del margen de error de dos puntos. El presidente Orsi reconoció que el escenario sigue parejo. En la mesa: ¿tiene Uruguay margen real o está más expuesto de lo que admite?\n- Contratos en la Intendencia de Montevideo: 224 proveedores, 138,8 millones de pesos entre julio de 2025 y agosto de 2026. El relevamiento clasifica 55 casos como sin tarea especificada, asociados a 44,6 millones. El edil Juan Ignacio Abdala habla de una plantilla paralela incorporada de manera opaca.\n\nEn la mesa: Inés, Sofía (economista, personaje ficticio), Artigas y Frugoni (recreaciones con IA).\n\n¿Si Bolsonaro avanzara sobre el Mercosur, qué debería hacer Uruguay?\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: la diaria · 25 de octubre de 2026",
+  "titulo_youtube": "25/10 · Brasil vota hoy: ¿qué le pasa al Mercosur si gana Bolsonaro? | Ta, pero…",
+  "comentario_fijado": "Si Bolsonaro ganara y avanzara sobre el Mercosur, ¿qué debería hacer Uruguay: construir agenda igual, marcar diferencias públicamente, o algo distinto? Contanos.",
+  "audio": "episodio.mp3",
+  "duracion_s": 395.730408,
+  "bytes": 9499419,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-25.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Uruguay ante el resultado en Brasil: ¿el gobierno tiene margen real o está más expuesto de lo que admite?",
+    "inicio": 111.6
+   },
+   {
+    "titulo": "Contratos millonarios en la IM: ¿contratación legítima de servicios o colocaciones políticas disfrazadas?",
+    "inicio": 217.4
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 345.7
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "¿Democracia o arancel: qué mira Uruguay?",
+    "texto_instagram": "Brasil vota hoy y Uruguay lo mira, pero ¿qué debería pesar más en esa mirada?\nFrugoni, recreado con IA, plantea que un Estado democrático no puede fingir que da igual quién gane; Sofía, personaje ficticio, le discute que el exportador ya está esperando saber si el arancel cambia.\n¿Con qué argumento te quedás?\n#BrasilVota #Mercosur",
+    "texto_tiktok": "Brasil vota hoy: ¿qué debería pesar más para Uruguay? Frugoni y Sofía no coinciden. #BrasilVota",
+    "texto_shorts": "¿Democracia o arancel: qué mira Uruguay? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "IM: ¿55 casos sin tarea especificada?",
+    "texto_instagram": "En la Intendencia de Montevideo hay 55 casos que el relevamiento clasifica sin tarea especificada, asociados a 44,6 millones de pesos, que la Intendencia deberá confirmar o desmentir.\nFrugoni, recreado con IA, y Sofía, personaje ficticio, empujan la misma pregunta: si los servicios son legítimos, explicarlos debería ser sencillo. ¿Qué tarea cumplen?\n¿Qué explicación te parecería suficiente?\n#ContratosMVD",
+    "texto_tiktok": "Contratos Intendencia Montevideo: 55 casos sin tarea especificada. ¿Qué explican? #ContratosMVD",
+    "texto_shorts": "IM: ¿55 casos sin tarea especificada? #Shorts",
+    "medio": "Montevideo Portal"
+   },
+   {
+    "archivo": "clips/clip_3.mp4",
+    "titulo": "Brasil vota: ¿Uruguay mira el riesgo de frente?",
+    "texto_instagram": "Sofía, personaje ficticio economista, dice que si Bolsonaro avanza sobre el Mercosur, Uruguay queda expuesto — y que el gobierno tiene razón en construir agenda, pero no está mirando de frente el escenario adverso.\nArtigas, recreado con IA, le pide evaluar ese riesgo en voz alta antes del resultado, no después.\n¿Alcanza con construir agenda o hay que decirlo en voz alta? Mandáselo a quien exporta o trabaja con Brasil.\n#Mercosur #BrasilVota",
+    "texto_tiktok": "Sofía: si Bolsonaro avanza sobre el Mercosur, Uruguay queda expuesto. ¿Alcanza con esperar? #Mercosur",
+    "texto_shorts": "Brasil vota: ¿Uruguay mira de frente el riesgo del Mercosur? #Shorts",
+    "medio": "la diaria"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "A horas de la segunda vuelta, Lula y Flávio Bolsonaro cerraron sus campañas con movilizaciones y actos multitudinarios",
+    "url": "https://ladiaria.com.uy/mundo/articulo/2026/10/a-horas-de-la-segunda-vuelta-lula-y-flavio-bolsonaro-cerraron-sus-campanas-con-movilizaciones-y-actos-multitudinarios/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Se define",
+    "url": "https://ladiaria.com.uy/articulo/2026/10/se-define/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Santana do Livramento se prepara para la segunda vuelta de las elecciones de Brasil",
+    "url": "https://ladiaria.com.uy/rivera/articulo/2026/10/santana-do-livramento-se-prepara-para-la-segunda-vuelta-de-las-elecciones-de-brasil/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Brasil decide su futuro en un balotaje histórico con empate técnico entre Lula y Bolsonaro según encuestas",
+    "url": "https://www.carasycaretas.com.uy/politica/brasil-decide-su-futuro-un-balotaje-historico-empate-tecnico-lula-y-bolsonaro-segun-encuestas-n100450"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Balotaje en Brasil: Lula busca la remontada inédita y Flávio Bolsonaro debutar en el poder",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979760"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "Elecciones en Brasil: gobierno sigue atento el proceso mientras piensa cómo \"construir agenda\" si gana Bolsonaro",
+    "url": "https://www.elpais.com.uy/informacion/politica/elecciones-en-brasil-gobierno-sigue-atento-el-proceso-mientras-piensa-como-construir-agenda-si-gana-bolsonaro"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Lula Da Silva o Flávio Bolsonaro: Brasil elige presidente este domingo en un final cabeza a cabeza según las encuestas",
+    "url": "https://www.subrayado.com.uy/lula-da-silva-o-flavio-bolsonaro-brasil-elige-presidente-este-domingo-un-final-cabeza-cabeza-segun-las-encuestas-n1021706"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Fake news y fe: la guerra religiosa que define el balotaje en Brasil",
+    "url": "https://www.lr21.com.uy/mundo/1500056-fake-news-y-fe-la-guerra-religiosa-que-define-el-balotaje-en-brasil"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "“Colocaciones”: blancos cuestionan ingresos a la IM por contratos de servicios millonarios",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979691"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-25.mp3",
+  "capitulos_json": "2026-10-25.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-24",
   "guid": "tapero-2026-10-24",
   "titulo": "Muñoz acusa a García: ¿denuncia válida sin pruebas?",

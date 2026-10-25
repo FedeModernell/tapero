@@ -10,9 +10,53 @@
     <itunes:author>Ta, pero… Podcast</itunes:author>
     <itunes:owner><itunes:name>Ta, pero… Podcast</itunes:name><itunes:email>taperopodcast@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://tapero.uy/tapero/portada.jpg"/>
-    <itunes:category text="News"/>
+    <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Brasil vota hoy: Mercosur en vilo. IM: 44 millones sin explicar</title>
+      <description>Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.
+
+Brasil define esta noche su presidencia. Y en Montevideo, 44,6 millones de pesos en contratos sin tarea especificada esperan respuesta.
+
+- Brasil vota hoy el balotaje entre Lula y Flávio Bolsonaro. Datafolha y Quaest los ubican en empate técnico: Flávio con 51, Lula con 49, dentro del margen de error de dos puntos. El presidente Orsi reconoció que el escenario sigue parejo. En la mesa: ¿tiene Uruguay margen real o está más expuesto de lo que admite?
+- Contratos en la Intendencia de Montevideo: 224 proveedores, 138,8 millones de pesos entre julio de 2025 y agosto de 2026. El relevamiento clasifica 55 casos como sin tarea especificada, asociados a 44,6 millones. El edil Juan Ignacio Abdala habla de una plantilla paralela incorporada de manera opaca.
+
+En la mesa: Inés, Sofía (economista, personaje ficticio), Artigas y Frugoni (recreaciones con IA).
+
+¿Si Bolsonaro avanzara sobre el Mercosur, qué debería hacer Uruguay?
+
+—
+Ta, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.
+Figuras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.
+Más en https://tapero.uy/?s=podcast
+Fuente: la diaria · 25 de octubre de 2026
+
+Capítulos:
+00:00 Apertura
+01:51 Uruguay ante el resultado en Brasil: ¿el gobierno tiene margen real o está más expuesto de lo que admite?
+03:37 Contratos millonarios en la IM: ¿contratación legítima de servicios o colocaciones políticas disfrazadas?
+05:45 Cierre
+
+Fuentes:
+- la diaria: A horas de la segunda vuelta, Lula y Flávio Bolsonaro cerraron sus campañas con movilizaciones y actos multitudinarios — https://ladiaria.com.uy/mundo/articulo/2026/10/a-horas-de-la-segunda-vuelta-lula-y-flavio-bolsonaro-cerraron-sus-campanas-con-movilizaciones-y-actos-multitudinarios/
+- la diaria: Se define — https://ladiaria.com.uy/articulo/2026/10/se-define/
+- la diaria: Santana do Livramento se prepara para la segunda vuelta de las elecciones de Brasil — https://ladiaria.com.uy/rivera/articulo/2026/10/santana-do-livramento-se-prepara-para-la-segunda-vuelta-de-las-elecciones-de-brasil/
+- Caras y Caretas: Brasil decide su futuro en un balotaje histórico con empate técnico entre Lula y Bolsonaro según encuestas — https://www.carasycaretas.com.uy/politica/brasil-decide-su-futuro-un-balotaje-historico-empate-tecnico-lula-y-bolsonaro-segun-encuestas-n100450
+- Montevideo Portal: Balotaje en Brasil: Lula busca la remontada inédita y Flávio Bolsonaro debutar en el poder — https://www.montevideo.com.uy/auc.aspx?979760
+- El País: Elecciones en Brasil: gobierno sigue atento el proceso mientras piensa cómo "construir agenda" si gana Bolsonaro — https://www.elpais.com.uy/informacion/politica/elecciones-en-brasil-gobierno-sigue-atento-el-proceso-mientras-piensa-como-construir-agenda-si-gana-bolsonaro
+- Subrayado: Lula Da Silva o Flávio Bolsonaro: Brasil elige presidente este domingo en un final cabeza a cabeza según las encuestas — https://www.subrayado.com.uy/lula-da-silva-o-flavio-bolsonaro-brasil-elige-presidente-este-domingo-un-final-cabeza-cabeza-segun-las-encuestas-n1021706
+- LR21: Fake news y fe: la guerra religiosa que define el balotaje en Brasil — https://www.lr21.com.uy/mundo/1500056-fake-news-y-fe-la-guerra-religiosa-que-define-el-balotaje-en-brasil
+- Montevideo Portal: “Colocaciones”: blancos cuestionan ingresos a la IM por contratos de servicios millonarios — https://www.montevideo.com.uy/auc.aspx?979691</description>
+      <guid isPermaLink="false">tapero-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 -0300</pubDate>
+      <enclosure url="https://op3.dev/e/tapero.uy/tapero/audio/2026-10-25.mp3" length="9499419" type="audio/mpeg"/>
+      <itunes:duration>00:06:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://tapero.uy/tapero/transcripciones/2026-10-25.vtt" type="text/vtt" language="es" rel="captions"/>
+      <podcast:chapters url="https://tapero.uy/tapero/capitulos/2026-10-25.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>Muñoz acusa a García: ¿denuncia válida sin pruebas?</title>
       <description>Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.

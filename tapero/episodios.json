@@ -1,6 +1,105 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-26",
+  "guid": "tapero-2026-10-26",
+  "titulo": "Lula ganó: Bolsonaro no reconoce. ¿Y la lucha armada en el Palacio?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nGanó Lula, pero Flávio Bolsonaro anunció que pedirá la anulación sin decir todavía ante qué organismo. Y a unas cuadras, el Parlamento debe decidir si deja entrar un evento cuya convocatoria reivindica la lucha armada.\n\n— Brasil: Lula ganó el balotaje con cerca del 51,8 % frente al 48,2 % de Flávio Bolsonaro. Bolsonaro declaró que pedirá la anulación; Trump cuestionó la victoria sin aportar pruebas.\n— Uruguay: el Comité Central de la Comunidad Judía rechazó un comunicado de la Coordinación por Palestina que reivindica la lucha armada, y le pidió al Parlamento que evalúe si el Día de la Mujer Palestina debe realizarse en el Palacio Legislativo.\n\nEn la mesa: Gonzalo (docente de secundaria en Montevideo), Aparicio Saravia (recreación con IA) y Carlos Vaz Ferreira (recreación con IA). Conduce Inés.\n\n¿Un comunicado que reivindica la lucha armada lo evalúa el Parlamento o la Fiscalía?\n\nPersonajes ficticios y figuras históricas recreadas con IA · Guion y voces de IA · Hechos con fuente · Fuentes: El Observador, la diaria.\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: El Observador · 26 de octubre de 2026",
+  "titulo_youtube": "26/10 · Lula reelegido: Bolsonaro no reconoce | Lucha armada en el Palacio Legislativo | Ta, pero…",
+  "comentario_fijado": "Si el comunicado de convocatoria de un evento en el Parlamento reivindica la lucha armada, ¿quién tendría que evaluarlo: el Parlamento o la Fiscalía? Contanos.",
+  "audio": "episodio.mp3",
+  "duracion_s": 450.153832,
+  "bytes": 10805332,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-26.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Lula gana pero Bolsonaro no reconoce y Trump habla de fraude: ¿desestabilización democrática o recurso legal legítimo?",
+    "inicio": 118.5
+   },
+   {
+    "titulo": "Coordinación por Palestina reivindica la \"lucha armada\" en un evento del Palacio Legislativo: ¿libertad de expresión o apología del terrorismo en sede parlamentaria?",
+    "inicio": 264.6
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 395.2
+   }
+  ],
+  "clips": [],
+  "fuentes": [
+   {
+    "fuente": "El País",
+    "titulo": "\"Fraude\" y tensión: la reacción de los militantes de Flávio Bolsonaro en Río de Janeiro al perder con Lula el balotaje",
+    "url": "https://www.elpais.com.uy/narrativas-visuales/fraude-y-tension-la-reaccion-de-los-militantes-de-flavio-bolsonaro-en-rio-de-janeiro-al-perder-con-lula-el-balotaje"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Lula fue reelegido para un cuarto mandato y Flávio Bolsonaro anunció que pedirá anular las elecciones",
+    "url": "https://www.elobservador.com.uy/lula-fue-reelegido-un-cuarto-mandato-y-flavio-bolsonaro-anuncio-que-pedira-anular-las-elecciones-n6061651"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Flávio Bolsonaro rechazó el resultado en Brasil y anunció que pedirá anular las elecciones",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979839"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Lula logra una \"virada\" histórica: el líder del PT tendrá un cuarto mandato en Brasil tras ganarle el balotaje a Bolsonaro",
+    "url": "https://www.elobservador.com.uy/estados-unidos/america-latina/balotaje-brasil-se-extiende-la-votacion-y-se-amplia-la-expectativa-el-cabeza-cabeza-lula-y-bolsonaro-n6061614"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Trump cuestiona la victoria de Lula y dice que se usó el \"manual de Joe Biden\"",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979830"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Brasil: detuvieron a un aliado de Bolsonaro por obstaculizar el voto al retener ómnibus",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979807"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Por qué se extendieron horarios de votación en Brasil",
+    "url": "https://www.lr21.com.uy/mundo/1500087-por-que-se-extendieron-horarios-de-votacion-en-brasil"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Brasil: Justicia ordena detener a funcionario por sabotear el transporte público durante el balotaje",
+    "url": "https://www.lr21.com.uy/mundo/1500077-brasil-justicia-ordena-detener-a-funcionario-por-sabotear-el-transporte-publico-durante-el-balotaje"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "“Ganó la democracia”: las reacciones de políticos uruguayos al triunfo de Lula en Brasil",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979836"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "La oposición uruguaya ante la victoria de Lula: “A la izquierda no hay que subestimarla” y “el susto despertó al mamado”",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/la-oposicion-uruguaya-ante-la-victoria-de-lula-a-la-izquierda-no-hay-que-subestimarla-y-el-susto-desperto-al-mamado/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Comité Central de la Comunidad Judía Uruguaya expresó su “firme rechazo” a un comunicado de la Coordinación por Palestina",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/comite-central-de-la-comunidad-judia-uruguaya-expreso-su-firme-rechazo-a-un-comunicado-de-la-coordinacion-por-palestina/"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Cruce de versiones entre Coordinación por Palestina y la Comunidad Judía por supuesta apología al terrorismo",
+    "url": "https://www.lr21.com.uy/comunidad/1500080-cruce-de-versiones-entre-coordinacion-por-palestina-y-la-comunidad-judia-por-supuesta-apologia-al-terrorismo"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-26.mp3",
+  "capitulos_json": "2026-10-26.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-25",
   "guid": "tapero-2026-10-25",
   "titulo": "Brasil vota hoy: Mercosur en vilo. IM: 44 millones sin explicar",

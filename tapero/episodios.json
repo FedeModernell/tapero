@@ -4,7 +4,7 @@
   "fecha": "2026-10-26",
   "guid": "tapero-2026-10-26",
   "titulo": "Lula ganó y Bolsonaro no reconoce · Palacio Legislativo bajo presión",
-  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nLula ganó el balotaje en Brasil con cerca del 51,8 % frente al 48,2 % de Flávio Bolsonaro. Bolsonaro anunció que pedirá la anulación, sin decir todavía ante qué organismo. Trump cuestionó la victoria sin aportar pruebas. Y a pocas cuadras del estudio, el Palacio Legislativo tiene hasta esta tarde para decidir si un evento cuya convocatoria reivindica la lucha armada se hace en su sede.\n\n- Brasil: Lula ganó con una diferencia de cerca de 4,4 millones de sufragios. Bolsonaro declaró que pedirá la anulación; Trump cuestionó la victoria sin pruebas. Aún no trascendió ante qué organismo judicial presentará el pedido formal.\n- Palacio Legislativo: el Comité Central de la Comunidad Judía rechazó un comunicado de la Coordinación por Palestina que reivindica la lucha armada y le pidió al Parlamento que evalúe si el evento de esta tarde debe realizarse en esa sede.\n\nEn la mesa: Gonzalo (docente de secundaria en Montevideo), Aparicio Saravia (recreación con IA) y Carlos Vaz Ferreira (recreación con IA). Conduce Inés.\n\n¿Quién tendría que evaluar si un comunicado reivindica la lucha armada: el Parlamento o la Fiscalía?\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: El Observador · 26 de octubre de 2026",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nLula ganó el balotaje en Brasil con cerca del 51,8 % frente al 48,2 % de Flávio Bolsonaro. Bolsonaro anunció que pedirá la anulación; aún no trascendió ante qué organismo. Trump cuestionó la victoria sin aportar pruebas. Y el Comité Central de la Comunidad Judía pidió evaluar la responsabilidad institucional de realizar en el Palacio Legislativo un evento previsto para hoy a las 18:00, cuya convocatoria está acompañada por una reivindicación de la lucha armada.\n\n- Brasil: Lula ganó con una diferencia de cerca de 4,4 millones de sufragios. Bolsonaro declaró que pedirá la anulación; Trump cuestionó la victoria sin pruebas. Aún no trascendió ante qué organismo judicial presentará el pedido formal.\n- Palacio Legislativo: el Comité Central de la Comunidad Judía rechazó un comunicado de la Coordinación por Palestina que reivindica la lucha armada y le pidió al Parlamento que evalúe si el evento de esta tarde debe realizarse en esa sede.\n\nEn la mesa: Gonzalo (docente de secundaria en Montevideo), Aparicio Saravia (recreación con IA) y Carlos Vaz Ferreira (recreación con IA). Conduce Inés.\n\n¿Quién tendría que evaluar si un comunicado reivindica la lucha armada: el Parlamento o la Fiscalía?\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: El Observador · 26 de octubre de 2026",
   "titulo_youtube": "26/10 · Lula ganó y Bolsonaro no reconoce · Palacio Legislativo bajo presión | Ta, pero…",
   "comentario_fijado": "Si un comunicado de convocatoria reivindica la lucha armada, ¿quién tendría que evaluarlo: el Parlamento o la Fiscalía? Contanos abajo. 👇",
   "audio": "episodio.mp3",
@@ -23,7 +23,7 @@
     "inicio": 118.5
    },
    {
-    "titulo": "Coordinación por Palestina reivindica la \"lucha armada\" en un evento del Palacio Legislativo: ¿libertad de expresión o apología del terrorismo en sede parlamentaria?",
+    "titulo": "Coordinación por Palestina reivindica la \"lucha armada\" en un comunicado que convoca a un evento en el Palacio Legislativo: ¿libertad de expresión o apología del terrorismo en sede parlamentaria?",
     "inicio": 262.1
    },
    {
@@ -31,7 +31,32 @@
     "inicio": 392.6
    }
   ],
-  "clips": [],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "¿Impugnar declarando o con prueba? Brasil",
+    "texto_instagram": "Flávio Bolsonaro dice que no reconoce el resultado y pedirá anularlo. ¿Alcanza con declararlo o hay que probarlo?\n\nFlávio Bolsonaro declaró ante la prensa que es imposible reconocer el resultado del balotaje en Brasil, sin que trascendiera dónde presentará el pedido de anulación. Aparicio Saravia, recreado con IA, plantea que reclamar garantías electorales exige ir a los tribunales con prueba; Gonzalo, personaje ficticio, trae el historial del padre para mostrar que el hijo repite el tono sin el respaldo.\n\n¿Cuándo se puede cuestionar un resultado electoral?\n\n#BalotajeBrasil",
+    "texto_tiktok": "Balotaje Brasil: Flávio Bolsonaro anuncia que impugnará. ¿Declarar o probar? Saravia, recreado con IA, y Gonzalo debaten.",
+    "texto_shorts": "Bolsonaro: ¿impugnar declarando o con prueba? Brasil #Shorts",
+    "medio": "El Observador"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "¿Fiscalía o Parlamento evalúa el acto?",
+    "texto_instagram": "Mandáselo a quien siga lo que pasa en el Parlamento.\n\nLa Comunidad Judía pidió que se evalúe si el evento del Día de la Mujer Palestina se hace en el Palacio Legislativo. Gonzalo, personaje ficticio, sostiene que eso le corresponde a la Fiscalía; Vaz Ferreira, recreado con IA, pregunta si hay un tipo penal que alcance.\n\n¿Con qué argumento te quedás?\n\n#PalacioLegislativo",
+    "texto_tiktok": "Evento palestino en el Parlamento: ¿quién decide si va o no? Vaz Ferreira, recreado con IA, y Gonzalo.",
+    "texto_shorts": "¿Fiscalía o Parlamento evalúa el acto? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_3.mp4",
+    "titulo": "¿Brasil: prueba en tribunales o declaración?",
+    "texto_instagram": "Mandáselo a quien esté pendiente del resultado del balotaje en Brasil.\n\nEn Salvador de Bahía, la Justicia electoral ordenó la detención de un funcionario por retener ómnibus durante la votación. Gonzalo, personaje ficticio, plantea el dato; Vaz Ferreira, recreado con IA, marca la diferencia entre un recurso judicial con prueba y una declaración pública de fraude.\n\n¿Con qué argumento te quedás?\n\n#BalotajeBrasil",
+    "texto_tiktok": "Salvador: detuvieron a un funcionario por retener ómnibus. ¿Prueba fraude? Vaz Ferreira, recreado con IA.",
+    "texto_shorts": "¿Brasil: prueba en tribunales o declaración pública? #Shorts",
+    "medio": "El Observador"
+   }
+  ],
   "fuentes": [
    {
     "fuente": "El País",

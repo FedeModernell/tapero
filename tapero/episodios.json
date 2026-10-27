@@ -1,6 +1,120 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-27",
+  "guid": "tapero-2026-10-27",
+  "titulo": "WorkNomads en Colonia: ¿inversión o enclave? Y gurises con sobrepeso",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nUna empresa que quiere instalar doscientas habitaciones para sus propios trabajadores dentro de un proyecto de 500 hectáreas en Colonia. ¿Qué le llega al barrio?\n\n- +Colonia y WorkNomads: el presidente Orsi recibió el lunes a los impulsores del proyecto. La inversión ronda los 45 millones de dólares. Ediles del Frente Amplio dicen que faltó debate público; las condiciones concretas de habilitación todavía no están precisadas.\n- Endis 2024: el 44,1 % de los niños y adolescentes de la cohorte relevada tiene sobrepeso u obesidad, 7 puntos más que en 2013. El dato que sorprende en la mesa: la prevalencia es mayor en los hogares de ingresos más altos.\n\nEn la mesa: Inés, Marta (jubilada de Paso de la Arena), Carlos (comisario retirado) y José Batlle y Ordóñez (recreación con IA).\n\n¿Qué medida concreta le pedirías al Estado ahora?\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: la diaria · 27 de octubre de 2026",
+  "titulo_youtube": "27/10 · WorkNomads en Colonia: ¿inversión o enclave? Y gurises con sobrepeso | Ta, pero…",
+  "comentario_fijado": "¿Qué medida concreta le pedirías al Estado: condiciones escritas para la inversión en Colonia, algo más que etiquetas para el sobrepeso, o las dos? Contanos.",
+  "audio": "episodio.mp3",
+  "duracion_s": 422.26644,
+  "bytes": 10135762,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-27.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "+Colonia y WorkNomads: ¿toda inversión grande es bienvenida o hay que discutir cuál sí y cuál no?",
+    "inicio": 138.5
+   },
+   {
+    "titulo": "44% de los niños uruguayos con sobrepeso u obesidad: ¿el Estado tiene que intervenir en lo que comemos o eso es cosa de cada familia?",
+    "inicio": 237.9
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 352.0
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "WorkNomads en Colonia: ¿aplica el principio?",
+    "texto_instagram": "Una empresa con gente de cincuenta países proyecta construir doscientas habitaciones en Colonia. La discusión es si un principio de 1906 aplica a una empresa de inteligencia artificial.\nBatlle, recreación con IA, insiste en que cuanto más puede la empresa prescindir del país, más claras tienen que ser las condiciones. Carlos, personaje ficticio comisario retirado, le pone el principio de frente.\n¿Vos con qué argumento te quedás?\nMandáselo a quien piensa que toda inversión extranjera se recibe sin más preguntas.\n#WorkNomads #Colonia",
+    "texto_tiktok": "Batlle, recreado con IA, y Carlos, personaje ficticio, chocan: ¿el principio aplica con WorkNomads?",
+    "texto_shorts": "WorkNomads Colonia: ¿condiciones escritas o inversión sin más? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "Endis: ¿los gurises de hogares más ricos están más gordos?",
+    "texto_instagram": "Un dato de la Endis 2024 que no encaja: el exceso de peso en niños y adolescentes es mayor en los hogares de ingresos más altos.\nCarlos, personaje ficticio comisario retirado, presenta el dato y pregunta si el precio lo explica todo. Batlle, recreado con IA, dice que eso obliga a actuar sobre la oferta, no solo el bolsillo.\n¿Por dónde debería empezar el Estado?\nMandáselo a quien tiene hijos en edad escolar o trabaja en un centro educativo.\n#Endis #ObesidadInfantil",
+    "texto_tiktok": "Endis: más sobrepeso en hogares más ricos. Batlle, recreado con IA, y Carlos, personaje ficticio. ¿Por qué?",
+    "texto_shorts": "Endis 2024: ¿precio o acceso a la oferta para bajar el sobrepeso infantil? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_3.mp4",
+    "titulo": "WorkNomads: ¿bienvenida con qué condiciones?",
+    "texto_instagram": "Según el edil Leizagoyen, el proyecto abarca unas quinientas hectáreas con diez kilómetros de costa en Colonia del Sacramento. La inversión llega; la discusión es con qué condiciones.\nCarlos, personaje ficticio comisario retirado, pregunta quién controla lo pactado. Batlle, recreación con IA, dice que las condiciones tributarias y ambientales tienen que estar claras antes de que arranque la obra.\n¿Te parece que alcanza con exigir las condiciones, o hace falta algo más?\nMandáselo a quien debate el tema de inversiones y desarrollo costero.\n#WorkNomads #Colonia",
+    "texto_tiktok": "Batlle, recreado con IA, y Carlos, personaje ficticio: ¿bienvenida con qué condiciones?",
+    "texto_shorts": "WorkNomads Colonia: ¿inversión bienvenida o condiciones primero? #Shorts",
+    "medio": "la diaria"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "Orsi se reunió con compañía tecnológica que se instalará en +Colonia: se prevé una inversión de más de 40 millones de dólares",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/orsi-se-reunio-con-compania-tecnologica-que-se-instalara-en-colonia-se-preve-una-inversion-de-mas-de-40-millones-de-dolares/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Orsi recibió a los promotores del cuestionado proyecto +Colonia",
+    "url": "https://www.carasycaretas.com.uy/politica/orsi-recibio-los-promotores-del-cuestionado-proyecto-colonia-n100504"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Edil del FA cuestiona +Colonia: \"No cualquier inversión que venga al país es buena\"",
+    "url": "https://www.carasycaretas.com.uy/politica/edil-del-fa-cuestiona-colonia-no-cualquier-inversion-que-venga-al-pais-es-buena-n100510"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Con una inversión de US$ 45 millones la empresa belga WorkNomads anunció la construcción de su base sudamericana en +Colonia",
+    "url": "https://www.elobservador.com.uy/cafe-y-negocios/con-una-inversion-us-45-millones-la-empresa-belga-worknomads-construira-su-base-sudamericana-colonia-n6061714"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Anuncian inversión de 45 millones de dólares de una empresa belga que se instalará en Uruguay en el marco de +Colonia",
+    "url": "https://www.subrayado.com.uy/anuncian-inversion-45-millones-dolares-una-empresa-belga-que-se-instalara-uruguay-el-marco-colonia-n1021839"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Empresa de IA invertirá US$ 45 millones en Colonia y construirá viviendas para empleados",
+    "url": "https://www.montevideo.com.uy/auc.aspx?979985"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "El exceso de peso en niños y adolescentes aumentó siete puntos porcentuales en una década",
+    "url": "https://ladiaria.com.uy/salud/articulo/2026/10/el-exceso-de-peso-en-ninos-y-adolescentes-aumento-siete-puntos-porcentuales-en-una-decada/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Casi 3 de cada 10 menores de 10 a 14 años \"en situación de riesgo o monitoreo por bienestar físico y psíquico\"",
+    "url": "https://www.carasycaretas.com.uy/casi-3-cada-10-menores-10-14-anos-en-situacion-riesgo-o-monitoreo-bienestar-fisico-y-psiquico-n100500"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "Cómo identificar alimentos ultraprocesados en el supermercado en solo 30 segundos y elegir mejor qué comprar",
+    "url": "https://www.elpais.com.uy/bienestar/nutricion/como-identificar-alimentos-ultraprocesados-en-el-supermercado-en-solo-30-segundos-y-elegir-mejor-que-comprar"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Autoridades y FAO destacan el papel de la innovación para reducir la inseguridad alimentaria en Uruguay",
+    "url": "https://ladiaria.com.uy/futuro/articulo/2026/10/autoridades-y-fao-destacan-el-papel-de-la-innovacion-para-reducir-la-inseguridad-alimentaria-en-uruguay/"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-27.mp3",
+  "capitulos_json": "2026-10-27.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-26",
   "guid": "tapero-2026-10-26",
   "titulo": "Lula ganó y Bolsonaro no reconoce · Palacio Legislativo bajo presión",

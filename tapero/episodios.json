@@ -1,6 +1,92 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-28",
+  "guid": "tapero-2026-10-28",
+  "titulo": "Gasoil +31%: ¿el gobierno sigue la fórmula o la amortigua?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nLa URSEA recomienda subir el gasoil más del treinta y uno por ciento para noviembre: el litro pasaría de 63 a 82 pesos. En octubre el Ejecutivo ya amortiguó. ¿Vuelve a hacerlo o aplica la fórmula esta vez?\n\n- Gasoil +31%: la recomendación técnica, el precedente de octubre y quién termina pagando la diferencia.\n- Inseguridad alimentaria en hogares con niños menores de seis años: bajó cuatro puntos en un año, la mayor caída desde 2022. En el primer quintil de ingresos todavía llega al 31,8%.\n\nEn la mesa: Sofía (economista), Artigas y Frugoni (recreaciones con IA). Conduce Inés.\n\n¿Si el gobierno amortigua de nuevo, quién tiene que pagar la diferencia?\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: la diaria · 28 de octubre de 2026",
+  "titulo_youtube": "28/10 · Gasoil +31% en Uruguay: ¿fórmula técnica o intervención? | Ta, pero…",
+  "comentario_fijado": "Si el gobierno decide amortiguar de nuevo el gasoil para noviembre, ¿quién tiene que pagar la diferencia? Contanos.",
+  "audio": "episodio.mp3",
+  "duracion_s": 372.424127,
+  "bytes": 8939563,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-28.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Gasoil +31%: ¿el gobierno sigue la fórmula técnica o tiene que intervenir para que no te lastime el bolsillo?",
+    "inicio": 89.8
+   },
+   {
+    "titulo": "Inseguridad alimentaria en niños pequeños bajó casi cuatro puntos: ¿logro para festejar o vergüenza que sigue ahí?",
+    "inicio": 187.4
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 313.3
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "Inseguridad en niños: ¿logro o vergüenza?",
+    "texto_instagram": "Bajaron 4,1 puntos: la mayor baja en hogares con niños desde que se mide con la escala FIES.\nFrugoni, recreada con IA, lo dice directo: la brecha persiste y no alcanza. Sofía, personaje ficticio, separa reconocer el dato de festejarlo: sin saber qué política lo produjo, no podés repetirlo el año que viene. Artigas, recreado con IA, apunta al 31,8% en los hogares más pobres.\n¿Con qué argumento te quedás?\nMandáselo a quien sigue los datos de nutrición infantil.\n#InseguridadAlimentaria #NiñosUruguay",
+    "texto_tiktok": "Inseguridad alimentaria en niños bajó 4 puntos: ¿alcanza para festejar? #InseguridadAlimentaria",
+    "texto_shorts": "¿4 puntos menos de inseguridad alimentaria infantil: logro o deuda? ¿Festejo o más exigencia? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "¿La fórmula del gasoil o el bolsillo?",
+    "texto_instagram": "La Ursea recomienda subir el gasoil 31,34% en noviembre. ¿El gobierno sigue la fórmula o amortigua de nuevo?\nSofía, personaje ficticio, advierte que diferir el ajuste solo acumula el costo. Artigas, recreado con IA, le responde que la fórmula técnica no sabe quién termina pagando.\n¿Con qué argumento te quedás?\nMandáselo a quien llena el tanque o paga la feria.\n#GasoilUruguay",
+    "texto_tiktok": "Gasoil Uruguay noviembre: ¿la fórmula técnica o que el gobierno amortigüe? ¿Con qué argumento te quedás? #gasoil",
+    "texto_shorts": "Gasoil: ¿la fórmula técnica o proteger el bolsillo? #Shorts",
+    "medio": "la diaria"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "La Ursea recomienda suba de todos los combustibles para noviembre",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/la-ursea-recomienda-suba-de-todos-los-combustibles-para-noviembre/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Combustibles: Ursea recomienda suba de 31% en el gasoil y 3% en las naftas",
+    "url": "https://www.carasycaretas.com.uy/sociedad/combustibles-ursea-recomienda-suba-31-el-gasoil-y-3-las-naftas-n100540"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Ursea publicó precios de referencia de combustibles con ajustes al alza de más de 3% en nafta y 31% en gasoil",
+    "url": "https://www.subrayado.com.uy/ursea-publico-precios-referencia-combustibles-ajustes-al-alza-mas-3-nafta-y-31-gasoil-n1021901"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Se redujo la inseguridad alimentaria en los hogares más pobres y con menores de 6 años",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/se-redujo-la-inseguridad-alimentaria-en-los-hogares-mas-pobres-y-con-menores-de-6-anos/"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "\"Una de las noticias que más nos alegra comunicar\": Orsi anunció la baja de la desnutrición de menores de seis años",
+    "url": "https://www.elobservador.com.uy/nacional/una-las-noticias-que-mas-nos-alegra-comunicar-orsi-destaco-la-caida-la-inseguridad-alimentaria-menores-seis-anos-n6061830"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Bajó la inseguridad alimentaria en hogares con niñas y niños menores de 6 años de 18,9% a 14,8%",
+    "url": "https://www.carasycaretas.com.uy/politica/bajo-la-inseguridad-alimentaria-hogares-ninas-y-ninos-menores-6-anos-189-148-n100531"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-28.mp3",
+  "capitulos_json": "2026-10-28.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-27",
   "guid": "tapero-2026-10-27",
   "titulo": "WorkNomads en Colonia: ¿inversión o enclave? Y gurises con sobrepeso",

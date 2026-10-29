@@ -1,6 +1,112 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-29",
+  "guid": "tapero-2026-10-29",
+  "titulo": "Decreto de armas y gente en calle al campo: ¿a quién le llega?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nEl gobierno pone topes a las municiones y prohíbe las armas 3D — pero casi ocho de cada diez armas incautadas en homicidios no tienen procedencia conocida. Y en diciembre, treinta personas en situación de calle van a una chacra en San Carlos, justo cuando bajan los cupos de los refugios.\n\n- Decreto de armas: Orsi firmó junto a los ministros Lazo y Negro. Topes de compra, prohibición de armas 3D y trazabilidad en tiempo real, todavía por implementar. ¿Le llega al crimen o solo le complica al tenedor legal?\n- MIDES al campo: el ministro Civila anunció el proyecto \"Habitar, Convivir y Producir\" en Canal 10. Voluntario, dice él. Pero con cupos que bajan en noviembre, ¿qué tan libre es ese sí?\n\nEn la mesa: Inés, Gonzalo (docente, personaje ficticio), Carlos Vaz Ferreira (recreación con IA) y Aparicio Saravia (recreación con IA).\n\nPersonajes ficticios y figuras históricas recreadas con IA · Hechos de El Observador, Subrayado, El País y Montevideo Portal.\n\n¿Si en noviembre bajan los cupos, la chacra en San Carlos es una salida real o quedás sin opciones?\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: la diaria · 29 de octubre de 2026",
+  "titulo_youtube": "29/10 · Decreto de armas en Uruguay: ¿controla el crimen o solo al que ya cumple? | Ta, pero…",
+  "comentario_fijado": "Si en noviembre bajan los cupos de los refugios, ¿la chacra en San Carlos es una salida real o quedás sin opciones? ¿Con qué argumento te quedás?",
+  "audio": "episodio.mp3",
+  "duracion_s": 387.226372,
+  "bytes": 9295037,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-29.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Decreto de armas y municiones: ¿control que protege o golpe al tenedor legal mientras el ilegal sigue armado?",
+    "inicio": 117.3
+   },
+   {
+    "titulo": "MIDES manda a la gente en situación de calle al campo: ¿política innovadora o exclusión disfrazada de voluntariedad?",
+    "inicio": 217.0
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 334.8
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "¿Decreto de armas: regulación o contrabando libre?",
+    "texto_instagram": "¿El decreto de armas le llega al crimen o solo al que ya cumple la ley?\n\nVaz Ferreira, recreado con IA, defiende la regulación; Aparicio Saravia, recreado con IA, le discute si el contrabando sigue libre igual.\n\nOrsi firmó el decreto que pone topes a la compra de municiones y prohíbe las armas 3D. Para Saravia, el 80 % sin procedencia no lo toca ningún tope; Vaz Ferreira responde que eso es la razón para crear la herramienta.\n\n¿Para vos, regular el mercado legal llega al crimen o solo complica al ciudadano que cumple?\n\nMandáselo a quien tiene arma registrada o a quien discute la inseguridad del barrio.\n\n#DecretoArmas",
+    "texto_tiktok": "Decreto de armas en Uruguay: ¿la regulación llega al crimen o solo al que ya cumple? #DecretoArmas",
+    "texto_shorts": "¿Decreto de armas de Orsi: llega al crimen o al que ya cumple? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "¿30 cupos para mil personas en calle?",
+    "texto_instagram": "De mil personas en calle en Maldonado, solo treinta entran al plan del MIDES.\n\nAparicio Saravia, recreado con IA, planta la pregunta; Vaz Ferreira, recreado con IA, defiende el proyecto con condiciones; Gonzalo, personaje ficticio, cierra el argumento.\n\nEl MIDES anunció que llevará personas en situación de calle a vivir y trabajar en el campo, en San Carlos, Maldonado. El proyecto arranca en diciembre con 30 personas seleccionadas.\n\n¿30 cupos es una política real o solo una muestra chica?\n\nMandáselo a quien discute qué pasa con la gente que ve todos los días en el centro.\n\n#SituaciónDeCalle",
+    "texto_tiktok": "Situación de calle en Uruguay: 30 cupos para mil personas. ¿Alcanza? #SituaciónDeCalle",
+    "texto_shorts": "MIDES en San Carlos: ¿30 cupos para todos o sin opciones para el resto? #Shorts",
+    "medio": "El Observador"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "El presidente Yamandú Orsi firmó el decreto que regula el uso de armas y municiones",
+    "url": "https://ladiaria.com.uy/justicia/articulo/2026/10/el-presidente-yamandu-orsi-firmo-el-decreto-que-regula-el-uso-de-armas-y-municiones/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Las denuncias por delitos relacionados con armas de fuego se cuadruplicaron desde 2013",
+    "url": "https://ladiaria.com.uy/justicia/articulo/2026/10/las-denuncias-por-delitos-relacionados-con-armas-de-fuego-se-cuadruplicaron-desde-2013/"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Gobierno limitó la compra de municiones y prohibió las armas fabricadas mediante impresión 3D",
+    "url": "https://www.elobservador.com.uy/nacional/gobierno-limito-la-compra-municiones-y-prohibio-las-armas-3d-n6061992"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Orsi prohíbe la impresión de armas 3D y limita la venta de municiones por decreto",
+    "url": "https://www.lr21.com.uy/politica/1500193-orsi-prohibe-la-impresion-de-armas-3d-y-limita-la-venta-de-municiones-por-decreto"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Ministerio del Interior reglamentó decreto para el control de municiones con trazabilidad desde la importación",
+    "url": "https://www.subrayado.com.uy/ministerio-del-interior-reglamento-decreto-el-control-municiones-trazabilidad-la-importacion-n1022016"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "Advierten en el Parlamento que brasileños compran armas en Uruguay y luego se van y \"no se ven más\"",
+    "url": "https://www.elpais.com.uy/informacion/politica/advierten-en-el-parlamento-que-brasilenos-compran-armas-en-uruguay-y-luego-se-van-y-no-se-ven-mas"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "El Mides iniciará en Maldonado un plan para llevar personas en situación de calle a vivir y trabajar en el campo",
+    "url": "https://www.elobservador.com.uy/nacional/proyecto-del-mides-llevar-personas-situacion-calle-vivir-y-trabajar-el-campo-comenzara-maldonado-n6061954"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Mides anunció que llevará a personas en situación de calle a vivir y trabajar en el campo",
+    "url": "https://www.montevideo.com.uy/auc.aspx?980169"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "El MIDES lanza un plan para darle trabajo y vivienda en el campo a personas en situación de calle",
+    "url": "https://www.lr21.com.uy/comunidad/1500190-el-mides-lanza-un-plan-para-darle-trabajo-y-vivienda-en-el-campo-a-personas-en-situacion-de-calle"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "El Mides llevará al campo a personas que viven en la calle, en un proyecto de convivencia y trabajo que será voluntario",
+    "url": "https://www.subrayado.com.uy/el-mides-llevara-al-campo-personas-que-viven-la-calle-un-proyecto-convivencia-y-trabajo-que-sera-voluntario-n1021983"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-29.mp3",
+  "capitulos_json": "2026-10-29.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-28",
   "guid": "tapero-2026-10-28",
   "titulo": "Gasoil +31%: ¿el gobierno sigue la fórmula o la amortigua?",

@@ -1,6 +1,102 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-30",
+  "guid": "tapero-2026-10-30",
+  "titulo": "Aratirí: Uruguay gana. Y jubilarse a los 60, ¿conquista o trampa?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nUruguay ganó el mayor reclamo económico de su historia. Y ahora el gobierno le recuerda a la oposición que se equivocó. Mientras tanto, llega un proyecto para jubilarse a los 60 con dos votos que faltan y sin financiamiento claro.\n\n- Aratirí: el Tribunal de Apelación de París rechazó el reclamo de US$ 3.536 millones de la familia Agarwal; el laudo de 2020 queda firme y Uruguay puede cobrar más de US$ 4 millones en costas. El prosecretario Díaz nombró al expresidente Lacalle Pou entre quienes auguraban derrota. ¿La victoria es de todos o es un botín político?\n- Jubilación a los 60: el gobierno remitió el proyecto al Parlamento este mes, la coalición se apresta a rechazarlo y Cabildo Abierto tiene los dos votos que el Frente necesita. Varios parlamentarios advierten que el proyecto prohíbe volver a trabajar en blanco tras jubilarse. ¿Conquista para quien trabajó con el cuerpo o trampa que no cierra?\n\nEn la mesa: Inés, Batlle (recreación con IA), Marta y Carlos.\n\n¿Si llegara la opción de jubilarte a los 60, la tomás aunque el haber sea bajo?\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: la diaria · 30 de octubre de 2026",
+  "titulo_youtube": "30/10 · Aratirí: Uruguay gana el juicio | Jubilarse a los 60: ¿conquista o trampa? | Ta, pero…",
+  "comentario_fijado": "Si llegara la opción de jubilarte a los 60, ¿la tomás aunque el haber sea bajo? Contanos acá 👇",
+  "audio": "episodio.mp3",
+  "duracion_s": 380.192971,
+  "bytes": 9126390,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-30.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Uruguay gana el juicio de Aratirí y Díaz le pega a la oposición: ¿triunfo de todos o botín político?",
+    "inicio": 114.9
+   },
+   {
+    "titulo": "Proyecto de retiro a los 60: ¿conquista trabajadora o una trampa que no cierra?",
+    "inicio": 205.5
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 331.0
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "¿Jubilarse a los 60: conquista o trampa?",
+    "texto_instagram": "Si te jubilás a los 60 y no podés trabajar en blanco después, terminás trabajando igual pero en negro.\nCarlos, personaje ficticio, sostiene que la restricción de trabajo formal convierte el proyecto en una trampa; Batlle, recreado con IA, argumenta que lo mismo dijeron contra la jornada de ocho horas; Marta, personaje ficticio, pide revisar el diseño.\n¿Para vos es una conquista o una trampa? Mandáselo a alguien que trabaje con el cuerpo.\n#Jubilacion60",
+    "texto_tiktok": "Jubilación a los 60 en Uruguay: si no podés trabajar en blanco después, ¿es conquista? #Jubilacion60",
+    "texto_shorts": "Jubilación a los 60: ¿conquista real o trampa laboral? #Shorts",
+    "medio": "El País"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "Fallo Aratirí: ¿el cargo habla por todos?",
+    "texto_instagram": "El gobierno ganó el juicio Aratirí. La pregunta es quién tiene derecho a hablar en nombre de esa victoria.\nMarta, personaje ficticio, sostiene que hoy quien no cuenta su historia la pierde en las redes; Batlle, recreado con IA, argumenta que desde un despacho oficial se habla por el Estado, no por el partido.\n¿Para vos un funcionario puede señalar públicamente al que se equivocó? Mandáselo a alguien al que le guste la política.\n#Aratiri",
+    "texto_tiktok": "Fallo Aratirí: Batlle, recreado con IA, y Marta. ¿Triunfo de todos o botín político? ¿Con quién te quedás?",
+    "texto_shorts": "Fallo Aratirí: ¿el cargo habla por el Estado o el partido? #Shorts",
+    "medio": "la diaria"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "Aratirí: Tribunal de Apelación de París falló a favor del Estado uruguayo",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/aratiri-tribunal-de-apelacion-de-paris-fallo-a-favor-del-estado-uruguayo/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "El fallo que no falló",
+    "url": "https://ladiaria.com.uy/articulo/2026/10/el-fallo-que-no-fallo/"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Jorge Díaz celebró el fallo por Aratirí y apuntó a Lacalle Pou: \"Siempre, lamentablemente, aparecen algunos agoreros\"",
+    "url": "https://www.elobservador.com.uy/nacional/jorge-diaz-apunto-lacalle-pou-fallo-favor-uruguay-juicio-aratiri-siempre-lamentablemente-aparecen-algunos-agoreros-n6062074"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Justicia francesa cerró a favor de Uruguay el litigio multimillonario por Aratirí y habilitó al Estado a cobrar más de US$ 4 millones a los demandantes",
+    "url": "https://www.elobservador.com.uy/nacional/justicia-francesa-cerro-favor-uruguay-el-litigio-multimillonario-aratiri-y-habilito-al-estado-cobrar-mas-us-4-millones-los-demandantes-n6062059"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Uruguay gana juicio internacional por Aratirí y podrá cobrar US$ 4 millones por las costas del litigio",
+    "url": "https://www.lr21.com.uy/economia/1500212-uruguay-gana-juicio-internacional-por-aratiri-y-podra-cobrar-us-4-millones-por-las-costas-del-litigio"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Jorge Díaz celebró fallo por Aratirí y apuntó contra la oposición: “Revisen los archivos”",
+    "url": "https://www.montevideo.com.uy/auc.aspx?980334"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Uruguay ganó demanda de Aratirí y Jorge Díaz apuntó contra \"los agoreros de la oposición\"; nombró a Lacalle Pou",
+    "url": "https://www.subrayado.com.uy/uruguay-gano-demanda-aratiri-y-jorge-diaz-apunto-contra-los-agoreros-la-oposicion-nombro-lacalle-pou-n1022097"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "Coalición se alinea contra proyecto de retiro a los 60 años con Saldain y Alfie; CA vuelve a ser llave de votación",
+    "url": "https://www.elpais.com.uy/informacion/politica/coalicion-se-alinea-contra-proyecto-de-retiro-a-los-60-anos-con-saldain-y-alfie-ca-vuelve-a-ser-llave-de-votacion"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-30.mp3",
+  "capitulos_json": "2026-10-30.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-29",
   "guid": "tapero-2026-10-29",
   "titulo": "Decreto de armas y gente en calle al campo: ¿a quién le llega?",

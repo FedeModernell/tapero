@@ -1,6 +1,90 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-10-31",
+  "guid": "tapero-2026-10-31",
+  "titulo": "UTU sin repetición y nafta congelada: ¿quién paga después?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\n¿Cambiar la forma de enseñar es innovar o bajar la vara? ¿Congelar el combustible protege el bolsillo o traslada la cuenta?\n\n- La DGETP diseñó un plan sin repetición de año para el ciclo básico tecnológico: lo probaron en trece centros, la evaluación fue positiva, y en 2027 llega a cincuenta y cinco centros con tiempo extendido. Los indicadores concretos de esa evaluación no se conocen.\n- El gobierno congeló los combustibles en noviembre usando el artículo 5 del Decreto 130/2025: la Ursea había recomendado subir el gasoil más del 31 % —unos veinte pesos por litro— y las naftas cerca del 3,5 %. Lo viene haciendo desde abril. El costo acumulado de esa estrategia no tiene cifra conocida.\n\nEn la mesa: Gonzalo (docente), Sofía (economista) y Carlos Vaz Ferreira (recreación con IA del filósofo y rector de la Udelar). Conduce Inés.\n\n¿El gobierno tenía que frenar el combustible, o dejar que la Ursea mande?\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: la diaria · 31 de octubre de 2026",
+  "titulo_youtube": "31/10 · UTU sin repetición y nafta congelada: ¿quién paga después? | Ta, pero…",
+  "comentario_fijado": "Si el gasoil hubiera subido más del 31 % en un mes, ¿el gobierno tenía que intervenir igual o dejar que la Ursea decida? Contanos en los comentarios.",
+  "audio": "episodio.mp3",
+  "duracion_s": 468.918526,
+  "bytes": 11255474,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-10-31.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Ciclo básico sin repetición en UTU: ¿una forma distinta de enseñar o bajar la vara?",
+    "inicio": 124.5
+   },
+   {
+    "titulo": "Gobierno congela combustibles en noviembre pese a Ursea: ¿protección al bolsillo o política que le cobra factura al futuro?",
+    "inicio": 247.7
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 412.2
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "UTU sin repetición: ¿aprender o pasar?",
+    "texto_instagram": "Sin repetición en UTU: ¿el estudiante igual se esfuerza?\nSofía, personaje ficticio economista, plantea que sin esa posibilidad el incentivo desaparece. Gonzalo, personaje ficticio docente, le responde que el portazo de fin de año no enseña: filtra. Vaz Ferreira, recreado con IA, trae su distinción: sostiene que repetir el grado tres o cuatro años y obligar a diez exámenes por año son absurdos que dañan.\nMandáselo al que tiene un pibe en el ciclo básico.\n¿Con el incentivo o con el aprendizaje?\n#CicloBasico #UTU",
+    "texto_tiktok": "Vaz Ferreira, recreado con IA, con Sofía y Gonzalo: ¿el portazo filtra o enseña? #UTU",
+    "texto_shorts": "UTU sin repetición: ¿aprender sin portazo o esforzarse con miedo? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "Combustibles: ¿congelar el precio o pagar después?",
+    "texto_instagram": "¿Veinte pesos más por litro de gasoil: quién termina pagando?\nGonzalo, personaje ficticio docente, pone el caso: el camionero, el productor chico, el que toma el ómnibus. Sofía, personaje ficticio economista, le responde que congelar no es no pagar: es pagar después, sin saber cuánto se acumula.\nMandáselo al que llena el tanque o paga el flete.\n¿Congelás ahora o trasladás el costo?\n#Combustibles #Gasoil",
+    "texto_tiktok": "Combustibles congelados: ¿20 pesos más por litro o deuda que nadie ve acumularse? ¿Con qué argumento te quedás? #combustibles",
+    "texto_shorts": "Combustibles congelados: ¿cuidar el bolsillo hoy o pagar la deuda después? #Shorts",
+    "medio": "la diaria"
+   },
+   {
+    "archivo": "clips/clip_3.mp4",
+    "titulo": "UTU: ¿evaluación positiva o datos que lo prueben?",
+    "texto_instagram": "¿Evaluación positiva, pero qué midieron exactamente?\nSofía, personaje ficticio economista, plantea que sin saber qué se midió —¿aprendizajes, retención, asistencia?— una evaluación positiva no alcanza. Vaz Ferreira, recreado con IA, acepta que sin publicar los indicadores la confianza es parcial. Gonzalo, personaje ficticio docente, les responde con ironía.\nMandáselo al que sigue la reforma educativa.\n¿Alcanza con decir que funcionó?\n#UTU #CicloBasico",
+    "texto_tiktok": "Vaz Ferreira, recreado con IA, con Sofía y Gonzalo: ¿la evaluación positiva alcanza sin ver los datos? #UTU",
+    "texto_shorts": "UTU sin repetición: ¿la palabra del piloto o los números que lo prueben? #Shorts",
+    "medio": "la diaria"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "UTU llevará a más centros nuevo plan de ciclo básico sin repetición que implica “una forma diferente de organizar el conocimiento”",
+    "url": "https://ladiaria.com.uy/educacion/articulo/2026/10/utu-llevara-a-mas-centros-nuevo-plan-de-ciclo-basico-sin-repeticion-que-implica-una-forma-diferente-de-organizar-el-conocimiento/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "El gobierno mantiene el precio de los combustibles en noviembre",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/10/el-gobierno-mantiene-el-precio-de-los-combustibles-en-noviembre/"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Gobierno mantiene los precios de los combustibles en noviembre pese a que valores de referencia indicaban subas en naftas y gasoil",
+    "url": "https://www.elobservador.com.uy/economia-y-empresas/gobierno-mantiene-los-precios-los-combustibles-noviembre-y-evita-subas-3-naftas-y-20-gasoil-n6062187"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Gobierno mantendrá los precios de combustibles en noviembre: “Estrategia de amortiguación”",
+    "url": "https://www.montevideo.com.uy/auc.aspx?980438"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-10-31.mp3",
+  "capitulos_json": "2026-10-31.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-30",
   "guid": "tapero-2026-10-30",
   "titulo": "Aratirí: Uruguay gana. Y jubilarse a los 60, ¿conquista o trampa?",

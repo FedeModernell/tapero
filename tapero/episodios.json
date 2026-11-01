@@ -1,6 +1,107 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-11-01",
+  "guid": "tapero-2026-11-01",
+  "titulo": "¿Habló antes de tiempo? Tres soldados muertos en el río",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nEl comandante del Ejército descartó negligencia antes de tener los resultados. Tres soldados muertos y una investigación que todavía no cerró.\n\n- El jueves de noche murieron ahogados tres militares durante una prueba del curso de Buzos Tácticos cerca de Fray Bentos. El general Stevenazzi descartó negligencia en conferencia de prensa del viernes mientras la investigación de urgencia seguía abierta. Un cuarto efectivo está en CTI, estable.\n- El papa León XIV llega el viernes a Uruguay: misa en la catedral de Montevideo, vigilia en el Centenario el sábado y misa masiva en Florida el domingo. El intendente Enciso estimó entre 40.000 y 50.000 personas; las 36.000 entradas se agotaron en horas. Nueva tanda el 3 de noviembre.\n\nEn la mesa: Washington (productor rural de Tacuarembó), Aparicio Saravia (recreación con IA) y Luis Alberto de Herrera (recreación con IA). Conduce Inés.\n\n¿El Estado adelanta obras y pone 600 policías en Florida para el Papa: es lo mismo que haría para cualquier evento masivo, o cruza un límite?\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: El Observador · 1 de noviembre de 2026",
+  "titulo_youtube": "01/11 · Tres militares ahogados en el río Uruguay | El Papa en el país más laico | Ta, pero…",
+  "comentario_fijado": "El Estado adelantó obras y pone 600 policías en Florida para el Papa. ¿Eso es lo mismo que haría para cualquier evento masivo de otra fe, o cruza un límite? Contanos.",
+  "audio": "episodio.mp3",
+  "duracion_s": 459.580794,
+  "bytes": 11031657,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-11-01.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Tres militares muertos en el río y el comandante ya descartó negligencia: ¿habló antes de tiempo?",
+    "inicio": 130.8
+   },
+   {
+    "titulo": "El Papa en el país más laico de América: ¿visita histórica o incomodidad de Estado?",
+    "inicio": 241.0
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 393.8
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "¿El Estado paga igual para el papa que el carnaval?",
+    "texto_instagram": "El Estado adelantó obras y pone 600 policías en Florida para la visita del papa. ¿Eso lo haría para cualquier evento masivo?\nWashington, personaje ficticio, sostiene que son los mismos recursos que para el carnaval; Herrera, recreado con IA, plantea que la diferencia con una jerarquía religiosa extranjera existe y no es menor. Saravia, recreado con IA, agrega su propia pregunta sobre el interior.\n¿Vos qué pensás: el Estado trata igual a todos los eventos o acá hay un trato diferente?\n#VisitaPapa",
+    "texto_tiktok": "Papa en Uruguay: obras adelantadas y 600 efectivos. ¿Lo mismo que para el carnaval? #VisitaPapa",
+    "texto_shorts": "Visita del papa a Uruguay: ¿laicismo o lo mismo que el carnaval? #Shorts",
+    "medio": "Subrayado"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "¿Quién controla la investigación de los soldados?",
+    "texto_instagram": "Tres soldados murieron en el río Uruguay durante el curso de Buzos Tácticos. El comandante en jefe descartó negligencia antes de tener los resultados de la investigación.\n\nHerrera, recreado con IA, pregunta si ya pasó algo así antes en estos cursos; Inés, personaje ficticio, trae los casos de 2007 en Salto y de 2009 en Toledo. Washington, personaje ficticio, señala que el mando declaró antes de tener resultados; Saravia, recreado con IA, dice que el principio no cambia.\n\n¿El comandante tenía que callar hasta investigar o algo había que decirle a las familias?\n\nMandáselo a quien tiene familia en el Ejército.\n\n#BuzosTacticos",
+    "texto_tiktok": "Soldados en el río Uruguay: el mando descartó negligencia. ¿Quién controla al que investiga? #SoldadosMuertos",
+    "texto_shorts": "Soldados en el río Uruguay: ¿el mando habló antes o hay que esperar los resultados? #Shorts",
+    "medio": "El Observador"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "El Observador",
+    "titulo": "Ya había muerto un soldado en los cursos de buzo táctico del Ejército",
+    "url": "https://www.elobservador.com.uy/nacional/ya-habia-muerto-un-soldado-los-cursos-buzo-tactico-del-ejercito-n6062334"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Militar internado en CTI tras accidente en el río Uruguay está estable y fue desentubado: reacciona favorablemente",
+    "url": "https://www.elobservador.com.uy/nacional/militar-internado-cti-accidente-el-rio-uruguay-esta-estable-y-fue-desentubado-reacciona-favorablemente-n6062327"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Comandate en jefe del Ejército descartó negligencia en muerte de militares pese a que se desconocen resultados de investigación de urgencia",
+    "url": "https://www.elobservador.com.uy/referi/comandate-jefe-del-ejercito-descarto-negligencia-muerte-militares-el-rio-uruguay-pese-que-se-desconocen-resultados-investigacion-urgencia-n6062321"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Teniente rescatado en trágico ejercicio evoluciona favorablemente en el Hospital Militar",
+    "url": "https://www.montevideo.com.uy/auc.aspx?980596"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Papa León XIV en Uruguay: el martes se habilitará una nueva tanda de entradas gratuitas",
+    "url": "https://www.carasycaretas.com.uy/sociedad/papa-leon-xiv-uruguay-el-martes-se-habilitara-una-nueva-tanda-entradas-gratuitas-n100663"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "“Linda y aggiornada”: Carlos Enciso describe cómo Florida espera al papa León XIV",
+    "url": "https://www.montevideo.com.uy/auc.aspx?980488"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Todos los cortes de tránsito y desvíos de ómnibus en Montevideo por la visita del papa León XIV",
+    "url": "https://www.subrayado.com.uy/todos-los-cortes-transito-y-desvios-omnibus-montevideo-la-visita-del-papa-leon-xiv-n1022324"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "Negociaciones, intrigas y rupturas: secretos de la relación del Vaticano con el país más laico de América",
+    "url": "https://www.elpais.com.uy/que-pasa/negociaciones-intrigas-y-rupturas-secretos-de-la-relacion-del-vaticano-con-el-pais-mas-laico-de-america"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "La niña de Melo que recibió a Juan Pablo II en 1988, la tarea que le encomendó y una devoción que desafía al tiempo",
+    "url": "https://www.elobservador.com.uy/la-nina-melo-que-recibio-juan-pablo-ii-1988-la-tarea-que-le-encomendo-y-una-devocion-que-desafia-al-tiempo-n6062330"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-11-01.mp3",
+  "capitulos_json": "2026-11-01.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-10-31",
   "guid": "tapero-2026-10-31",
   "titulo": "UTU sin repetición y nafta congelada: ¿quién paga después?",

@@ -1,6 +1,110 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-11-02",
+  "guid": "tapero-2026-11-02",
+  "titulo": "FA: ¿gobernar o transformar? Mercosur-EFTA entra en vigor",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nEl prosecretario Díaz dijo en El País que el FA tiene que ganarle al expresidente en la próxima elección. Y Uruguay cerró 2024 importando más de lo que exportó al bloque EFTA. Dos temas, una pregunta de fondo.\n\n- FA: el sábado, en La Teja, dirigentes homenajearon a Tabaré Vázquez a veintidós años del primer triunfo de la izquierda. Díaz propuso liderazgo colectivo, no mesiánico. La discusión: ¿el gobierno de Orsi está gobernando o transformando?\n- Mercosur-EFTA: ayer entró en vigor el acuerdo con Noruega e Islandia. Uruguay exportó más de 54 millones de dólares a esos países en 2024 e importó cerca de 60. ¿Abrir el comercio es ganar mercado o arriesgar lo que se produce acá?\n\nEn la mesa: Inés, Marta (jubilada de Paso de la Arena) y las recreaciones con IA de José Artigas y José Batlle y Ordóñez.\n\n¿El saldo deficitario con el EFTA le importa al que compra en la feria o solo al que exporta?\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: la diaria · 2 de noviembre de 2026",
+  "titulo_youtube": "02/11 · FA: ¿gobernar o transformar? Mercosur-EFTA entra en vigor | Ta, pero…",
+  "comentario_fijado": "El acuerdo Mercosur-EFTA entró en vigor con Uruguay importando más de lo que exporta al bloque. ¿Ese saldo te preocupa o el mercado nuevo pesa más? Contanos.",
+  "audio": "episodio.mp3",
+  "duracion_s": 389.802608,
+  "bytes": 9357104,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-11-02.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "¿El FA está gobernando o transformando? La interna del poder en debate",
+    "inicio": 118.5
+   },
+   {
+    "titulo": "Mercosur-EFTA en vigor y Uruguay quiere ir por más: ¿abrir el comercio es ganar o arriesgar?",
+    "inicio": 207.5
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 334.7
+   }
+  ],
+  "clips": [],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "Piketty y la renuncia a transformar",
+    "url": "https://ladiaria.com.uy/opinion/articulo/2026/11/piketty-y-la-renuncia-a-transformar/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Demostrar resultados concretos",
+    "url": "https://ladiaria.com.uy/articulo/2026/11/demostrar-resultados-concretos/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Jorge Díaz dice que quiere ganarle a Lacalle Pou y la oposición lo acusa de meterse en la campaña",
+    "url": "https://www.carasycaretas.com.uy/politica/jorge-diaz-dice-que-quiere-ganarle-lacalle-pou-y-la-oposicion-lo-acusa-meterse-la-campana-n100669"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "FA recordó a Tabaré Vázquez a 22 años del triunfo en las elecciones de 2004: “A un militante solo se lo homenajea militando”",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/11/fa-recordo-a-tabare-vazquez-a-22-anos-del-triunfo-en-las-elecciones-de-2004-a-un-militante-solo-se-lo-homenajea-militando/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "A 22 años del triunfo de 2004, el Frente Amplio recordó a Tabaré Vázquez",
+    "url": "https://www.carasycaretas.com.uy/politica/a-22-anos-del-triunfo-2004-el-frente-amplio-recordo-tabare-vazquez-n100670"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Entró en vigor para Uruguay el acuerdo Mercosur-EFTA, un bloque con “capacidad adquisitiva y una solidez muy importante”",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/11/entro-en-vigor-para-uruguay-el-acuerdo-mercosur-efta-un-bloque-con-capacidad-adquisitiva-y-una-solidez-muy-importante/"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Comenzó a regir el acuerdo de libre comercio Mercosur-EFTA: Lubetkin destacó su potencial para llegar a mercados de \"alto poder adquisitivo\"",
+    "url": "https://www.elobservador.com.uy/nacional/comenzo-regir-el-acuerdo-libre-comercio-mercosur-efta-lubetkin-destaco-su-potencial-llegar-mercados-alto-poder-adquisitivo-n6062379"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Entró en vigencia el acuerdo comercial entre el Mercosur y EFTA: Lubetkin destacó que alcanza a 309 millones de personas",
+    "url": "https://www.subrayado.com.uy/entro-vigencia-el-acuerdo-comercial-el-mercosur-y-efta-lubetkin-destaco-que-alcanza-309-millones-personas-n1022373"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Lubetkin celebró el inicio del acuerdo Mercosur-EFTA: “Nos tiene muy entusiasmados”",
+    "url": "https://www.montevideo.com.uy/auc.aspx?980660"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Entra en vigencia acuerdo que le da a Uruguay acceso a un mercado de 15 millones de personas en Europa",
+    "url": "https://www.lr21.com.uy/economia/1500272-entra-en-vigencia-acuerdo-que-le-da-a-uruguay-acceso-a-un-mercado-de-15-millones-de-personas-en-europa"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "Gobierno insistirá con planteo de flexibilizar el Mercosur y ya analiza qué receptividad tendrá de parte de Lula",
+    "url": "https://www.elpais.com.uy/informacion/politica/gobierno-insistira-con-planteo-de-flexibilizar-el-mercosur-y-ya-analiza-que-receptividad-tendra-de-parte-de-lula"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Acuerdo Mercosur-UE: Uruguay exportó US$ 860 millones entre mayo y setiembre",
+    "url": "https://www.lr21.com.uy/economia/1500283-acuerdo-mercosur-ue-uruguay-exporto-us-860-millones-entre-mayo-y-setiembre"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "El orden multilateral puede en semanas estar recuperando su vigor, según el ex secretario general de OCDE, Ángel Gurría",
+    "url": "https://www.elpais.com.uy/economia-y-mercado/el-orden-multilateral-puede-en-semanas-estar-recuperando-su-vigor-segun-el-ex-secretario-general-de-ocde-angel-gurria"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-11-02.mp3",
+  "capitulos_json": "2026-11-02.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-11-01",
   "guid": "tapero-2026-11-01",
   "titulo": "¿Habló antes de tiempo? Tres soldados muertos en el río",

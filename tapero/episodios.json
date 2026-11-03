@@ -1,6 +1,119 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-11-03",
+  "guid": "tapero-2026-11-03",
+  "titulo": "Vilar en Canal 5 y soldados en el río Uruguay",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\n¿Un canal público puede pedirle a uno de sus programas que rectifique en el mismo espacio, o eso ya cruza a coerción editorial? Y cuatro días después de la muerte de tres soldados en el río Uruguay, según García, el Parlamento no recibió información: ¿es control republicano legítimo o presión en pleno duelo?\n\n- Fernando Vilar dijo «¿le pego un tiro?» en Buscadores, Canal 5, hablando de infancias trans; el canal rechazó los dichos y pidió a Buscadores rectificación pública en el mismo espacio o en uno equivalente.\n- Tres militares murieron en un ejercicio de Buzos Tácticos cerca de Fray Bentos; el senador Javier García pidió que la ministra Sandra Lazo comparezca ante el Parlamento a explicar qué pasó.\n\nEn la mesa: Inés y Sofía (personajes ficticios), Emilio Frugoni y Carlos Vaz Ferreira (recreaciones con IA de figuras históricas). Personajes ficticios · guion y voces de IA · hechos con fuente: El Observador y Montevideo Portal.\n\n¿Canal 5 hizo lo que tenía que hacer, o se fue demasiado lejos? Contanos en los comentarios.\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: la diaria · 3 de noviembre de 2026",
+  "titulo_youtube": "03/11 · Canal 5 pidió rectificar los dichos de Vilar | Tres soldados muertos en el río Uruguay | Ta, pero…",
+  "comentario_fijado": "Canal 5 rechazó los dichos de Vilar y pidió a Buscadores rectificación en el mismo programa. ¿Con eso alcanza, o habría que ir más lejos? Contanos.",
+  "audio": "episodio.mp3",
+  "duracion_s": 434.247098,
+  "bytes": 10423527,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-11-03.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Vilar dijo «¿le pego un tiro?» sobre infancias trans: ¿libertad de expresión o discurso que daña?",
+    "inicio": 133.8
+   },
+   {
+    "titulo": "Oposición pide llevar a la ministra Lazo al Parlamento por la muerte de los militares: ¿control legítimo o presión en pleno duelo?",
+    "inicio": 228.2
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 374.4
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "¿Cuándo pedir cuentas por los soldados?",
+    "texto_instagram": "¿Existe el momento correcto para pedirle explicaciones al mando cuando mueren soldados en un ejercicio?\nVaz Ferreira, recreado con IA, pregunta cuándo sería el momento adecuado. Sofía, personaje ficticio, lo compara con un médico que espera a que el paciente se mejore para darle el diagnóstico. Frugoni, recreado con IA, sostiene que no hay momento cómodo.\n¿Le das la razón a Vaz Ferreira o a Frugoni? Mandáselo a quien siempre tiene una respuesta para todo.\n#BuzosTácticos",
+    "texto_tiktok": "El informe existe. ¿Cuándo informa la ministra? Frugoni, Sofía y Vaz Ferreira recreada con IA. #BuzosTácticos",
+    "texto_shorts": "¿Soldados muertos: control parlamentario ahora o después del duelo? #Shorts",
+    "medio": "Subrayado"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "Autoridades de Canal 5 piden rectificación pública a Buscadores tras comentario transfóbico de Fernando Vilar",
+    "url": "https://ladiaria.com.uy/cultura/articulo/2026/11/autoridades-de-canal-5-piden-rectificacion-publica-a-buscadores-tras-comentario-transfobico-de-fernando-vilar/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Fernando Vilar es \"nefasto y ridículo\" quizás sea \"el momento de dejarle el lugar a otra gente\", dijo influencer",
+    "url": "https://www.carasycaretas.com.uy/politica/fernando-vilar-es-nefasto-y-ridiculo-quizas-sea-el-momento-dejarle-el-lugar-otra-gente-dijo-influencer-n100707"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "\"¿Qué hago? ¿Le pego un tiro y un problema menos?\": Canal 5 rechazó las declaraciones de Fernando Vilar en Buscadores sobre infancias trans",
+    "url": "https://www.elobservador.com.uy/cultura-y-espectaculos/que-hago-le-pego-un-tiro-y-un-problema-menos-canal-5-rechazo-las-declaraciones-fernando-vilar-buscadores-infancias-trans-n6062471"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Canal 5 rechazó los dichos de Fernando Vilar sobre infancias trans y exigió rectificación",
+    "url": "https://www.montevideo.com.uy/auc.aspx?980750"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "García plantea convocar a Lazo al Parlamento para que informe sobre la muerte de tres militares en Fray Bentos",
+    "url": "https://www.subrayado.com.uy/garcia-plantea-convocar-lazo-al-parlamento-que-informe-la-muerte-tres-militares-fray-bentos-n1022486"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Ministerio de Defensa espera recibir este martes informe del Ejército por buzos ahogados",
+    "url": "https://www.montevideo.com.uy/auc.aspx?980789"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Salió de CTI el único sobreviviente de la tragedia en el río Uruguay y el Ejército analiza los resultados de la investigación interna",
+    "url": "https://www.elobservador.com.uy/nacional/salio-cti-el-unico-sobreviviente-la-tragedia-el-rio-uruguay-y-el-ejercito-analiza-los-resultados-la-investigacion-interna-n6062464"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Salió del CTI el teniente Ruiz: único sobreviviente de la tragedia en Fray Bentos",
+    "url": "https://www.montevideo.com.uy/auc.aspx?980772"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Fiscalía investiga posibles responsabilidades penales por la muerte de militares; la carátula es de siniestro marítimo",
+    "url": "https://www.subrayado.com.uy/fiscalia-investiga-posibles-responsabilidades-penales-la-muerte-militares-la-caratula-es-siniestro-maritimo-n1022473"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Fiscalía caratuló la muerte de los tres militares ahogados como “siniestro marítimo”",
+    "url": "https://www.montevideo.com.uy/auc.aspx?980805"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Gobierno decretó dos días de duelo nacional por la muerte de los tres militares",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/11/gobierno-decreto-dos-dias-de-duelo-nacional-por-la-muerte-de-los-tres-militares/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Orsi decretó duelo nacional para el martes 3 y miércoles 4 por militares fallecidos",
+    "url": "https://www.carasycaretas.com.uy/politica/orsi-decreto-duelo-nacional-el-martes-3-y-miercoles-4-militares-fallecidos-n100698"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Orsi decreta duelo nacional de dos días por muerte de los tres militares en Fray Bentos: qué implica",
+    "url": "https://www.elobservador.com.uy/nacional/orsi-decreta-duelo-nacional-dos-dias-muerte-los-tres-militares-fray-bentos-que-implica-n6062455"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-11-03.mp3",
+  "capitulos_json": "2026-11-03.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-11-02",
   "guid": "tapero-2026-11-02",
   "titulo": "FA: ¿gobernar o transformar? Mercosur-EFTA entra en vigor",

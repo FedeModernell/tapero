@@ -1,6 +1,80 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-11-04",
+  "guid": "tapero-2026-11-04",
+  "titulo": "Fidel Castro en el Parlamento y policía mata menor de 13 años",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\n¿El Palacio Legislativo tiene límites sobre a quién homenajea? Y cuando un policía dispara seis veces y mata a un adolescente de trece años, ¿qué pasó y qué falta determinar?\n\n- Homenaje a Fidel Castro en el Palacio Legislativo: legisladores del Frente Amplio y la Embajada de Cuba convocaron el acto para el jueves cinco de noviembre; una moción para debatirlo como asunto político fue rechazada: obtuvo 37 votos a favor y 51 en contra en la Cámara.\n- Menor de trece años muerto en Malvín Norte: el lunes a la noche, un policía que volvía a su casa fue abordado por dos rapiñeros y disparó seis veces. El menor tenía indagatorias previas por rapiña y porte y tenencia de armas. La autopsia y el peritaje del arma están previstos.\n\nEn la mesa: Inés, Carlos (comisario retirado), Gonzalo (docente de secundaria) y Aparicio Saravia (recreación con IA de la figura histórica).\n\n¿El Parlamento puede prestar sus salas para cualquier homenaje, o hay un límite? Contanos en los comentarios.\n\nPersonajes ficticios · Figuras históricas recreadas con IA · Hechos con fuente · Fuentes: Caras y Caretas, El Observador, Subrayado, Montevideo Portal.\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: Caras y Caretas · 4 de noviembre de 2026",
+  "titulo_youtube": "04/11 · Fidel Castro en el Parlamento y policía mata menor de 13 años | Ta, pero…",
+  "comentario_fijado": "Si el Parlamento puede usar sus salas para cualquier homenaje, ¿dónde está el límite, si es que hay uno? ¿Vos qué decís?",
+  "audio": "episodio.mp3",
+  "duracion_s": 405.734943,
+  "bytes": 9739536,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-11-04.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Homenaje a Fidel Castro en el Parlamento: ¿reconocimiento histórico o dictador en la casa de la democracia?",
+    "inicio": 142.7
+   },
+   {
+    "titulo": "Un policía abatió a un menor de 13 años en una rapiña: ¿qué se sabe y qué falta determinar?",
+    "inicio": 228.0
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 352.5
+   }
+  ],
+  "clips": [],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "Schipani contra actividad por los 100 años de Fidel Castro: “Homenajear a un dictador es un límite que no podemos pasar”",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/11/schipani-contra-actividad-por-los-100-anos-de-fidel-castro-homenajear-a-un-dictador-es-un-limite-que-no-podemos-pasar/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Fracasó intento opositor de vetar homenaje a Fidel Castro en el Palacio Legislativo",
+    "url": "https://www.carasycaretas.com.uy/politica/fracaso-intento-opositor-vetar-homenaje-fidel-castro-el-palacio-legislativo-n100743"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "\"En la casa de la democracia, no\": blancos y colorados rechazan homenaje a Fidel Castro en el Parlamento",
+    "url": "https://www.elobservador.com.uy/nacional/en-la-casa-la-democracia-no-blancos-y-colorados-rechazan-homenaje-fidel-castro-el-parlamento-n6062616"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "“Hacen gárgaras con los derechos humanos”: Diputados rechazó debatir acto por Fidel Castro",
+    "url": "https://www.montevideo.com.uy/auc.aspx?980922"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Malvín Norte: un policía abatió a un adolescente de 13 años que intentó rapiñarle la moto",
+    "url": "https://www.elobservador.com.uy/nacional/malvin-norte-un-policia-abatio-un-delincuente-e-hirio-otro-intento-rapina-n6062547"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Malvín Norte: el delincuente abatido por la Policía tenía 13 años y un profuso prontuario",
+    "url": "https://www.montevideo.com.uy/auc.aspx?980882"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Rapiñero abatido por un policía de particular tenía 13 años; el otro, de 20 años, permanece internado",
+    "url": "https://www.subrayado.com.uy/rapinero-abatido-un-policia-particular-tenia-13-anos-el-otro-20-anos-permanece-internado-n1022560"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-11-04.mp3",
+  "capitulos_json": "2026-11-04.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-11-03",
   "guid": "tapero-2026-11-03",
   "titulo": "Vilar en Canal 5 y soldados en el río Uruguay",

@@ -1,6 +1,130 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-11-05",
+  "guid": "tapero-2026-11-05",
+  "titulo": "Castillo: ¿cómo actuó como ministro? Militares muertos en Fray Bentos",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\n49 a 48: la moción que dijo que las explicaciones del Ministerio no fueron satisfactorias pasó por un voto. El costo total del conflicto portuario quedó sin respuesta oficial. Y un diputado le sugirió a la ministra que pensara en renunciar el mismo día que ella estaba en Fray Bentos con una de las familias.\n\n- Interpelación a Juan Castillo: más de 40 reuniones, convenio de 5 años y la pregunta sobre el costo total que el Ministerio no respondió\n- Tres militares muertos en el río Uruguay: la fiscal abrió actuaciones penales y el diputado Juan Martín Rodríguez sugirió que Sandra Lazo pensara en renunciar\n\nEn la mesa: Marta (jubilada), Emilio Frugoni (primer diputado socialista del Uruguay, recreación con IA) y Aparicio Saravia (caudillo del Partido Nacional, recreación con IA). Conduce Inés.\n\nSi las investigaciones concluyen que hubo negligencia, ¿alcanza con una renuncia o tiene que llegar más adentro del mando?\n\nPersonajes ficticios · Figuras históricas recreadas con IA · Hechos con fuente\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: Caras y Caretas · 5 de noviembre de 2026",
+  "titulo_youtube": "05/11 · Castillo: ¿cómo actuó como ministro? Militares muertos en Fray Bentos | Ta, pero…",
+  "comentario_fijado": "Si las investigaciones concluyen que hubo negligencia en el caso de los militares, ¿alcanza con que renuncie la ministra o tiene que llegar más adentro del mando? ¿Qué decís vos?",
+  "audio": "episodio.mp3",
+  "duracion_s": 399.233855,
+  "bytes": 9583429,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-11-05.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "Castillo no reniega del Partido Comunista en la interpelación: ¿cómo actuó el ministro ante el conflicto portuario?",
+    "inicio": 111.2
+   },
+   {
+    "titulo": "Lazo fue a ver a una familia y previó reunirse con las otras dos y un diputado blanco sugirió que Lazo pensara en renunciar: ¿qué implica el planteo del diputado?",
+    "inicio": 210.8
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 338.0
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "¿Qué pasa si no se cumplen las cláusulas de paz?",
+    "texto_instagram": "¿Qué pasa si el sindicato no cumple las cláusulas de paz en estos cinco años?\nFrugoni, recreado con IA, recreado con IA, defiende que el Estado tenía que mediar; Marta, personaje ficticio, le discute el costo: según cámaras empresariales y la Unión de Exportadores, entre cuatrocientos y quinientos mil dólares por día; Saravia, recreado con IA, pregunta qué pasa si el acuerdo no se respeta.\nMandáselo a quien trabaja en el puerto o le llega al bolsillo lo que entra y sale por ahí.\n#ParoPortuario #InterpelacionCastillo",
+    "texto_tiktok": "Paro portuario: convenio de cinco años, ¿qué pasa si el sindicato no cumple las cláusulas? #ParoPortuario",
+    "texto_shorts": "Paro portuario: ¿el convenio cierra bien o qué pasa si el sindicato no cumple? #Shorts",
+    "medio": "Caras y Caretas"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "¿El paro portuario: cuál fue el costo estimado?",
+    "texto_instagram": "El costo total del paro portuario: el Ministerio no informó la cifra.\nFrugoni, recreado con IA, defiende la mediación como mecanismo del ministerio; Marta, personaje ficticio, dice que ese costo se lo deben a la gente; Saravia, recreado con IA, cita la estimación de las cámaras según la diaria: entre diecisiete y veintidós millones de dólares en cuarenta y cuatro días, sin que el Ministerio informara el costo total.\n¿Con qué postura te quedás?\nMandáselo a quien exporta o importa por el puerto de Montevideo.\n#ParoPortuario #InterpelacionCastillo",
+    "texto_tiktok": "Paro portuario: ¿el costo total del conflicto se sabe o quedó sin respuesta oficial? #ParoPortuario",
+    "texto_shorts": "Paro portuario: ¿el costo total del conflicto se sabe o quedó sin respuesta? #Shorts",
+    "medio": "Caras y Caretas"
+   },
+   {
+    "archivo": "clips/clip_3.mp4",
+    "titulo": "¿Ministra Lazo: qué corresponde mientras se investiga?",
+    "texto_instagram": "La madre del cabo Rocha se enteró de la muerte de su hijo por la expareja.\nMarta, personaje ficticio, pide respuesta para las familias; Frugoni y Saravia, recreados con IA, debaten cuándo corresponde la responsabilidad política.\nTres militares murieron en un ejercicio de Buzos Tácticos en Fray Bentos. El diputado Juan Martín Rodríguez sugirió que la ministra Sandra Lazo tendría que pensar en renunciar.\n¿Qué corresponde hacer mientras continúa la investigación?\nMandáselo a quien tiene un familiar en las Fuerzas Armadas.\n#BuzosTacticos #MilitaresUruguay",
+    "texto_tiktok": "Militares muertos en Fray Bentos: ¿Qué corresponde hacer mientras sigue la investigación? #BuzosTacticos",
+    "texto_shorts": "¿Ministra Lazo: qué corresponde hacer mientras se investiga? #Shorts",
+    "medio": "Subrayado"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "Interpelación: Castillo destacó que acuerdo en el puerto de Montevideo “estableció un horizonte de estabilidad y previsibilidad”",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/11/interpelacion-castillo-destaco-que-acuerdo-en-el-puerto-de-montevideo-establecio-un-horizonte-de-estabilidad-y-previsibilidad/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Castillo: el ministerio “no tiene asignada, ni constitucional ni legalmente, la función de sentenciar en los conflictos”",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/11/castillo-el-ministerio-no-tiene-asignada-ni-constitucional-ni-legalmente-la-funcion-de-sentenciar-en-los-conflictos/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Interpelación a Castillo: “Lo que pasó en el puerto” fue la consecuencia de “una ideología”, afirmó Juri",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/11/interpelacion-a-castillo-lo-que-paso-en-el-puerto-fue-la-consecuencia-de-una-ideologia-afirmo-juri/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Castillo en la interpelación: \"No reniego de ser afiliado al Partido Comunista\"",
+    "url": "https://www.carasycaretas.com.uy/politica/castillo-la-interpelacion-no-reniego-ser-afiliado-al-partido-comunista-n100781"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Castillo defendió postura del MTSS en conflicto portuario: \"Más de 40 reuniones\" y \"servicios mínimos\"",
+    "url": "https://www.carasycaretas.com.uy/politica/castillo-defendio-postura-del-mtss-conflicto-portuario-mas-40-reuniones-y-servicios-minimos-n100763"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "Oposición apuntó a Castillo por afectar credibilidad del país por su filiación comunista; FA defendió su gestión",
+    "url": "https://www.elpais.com.uy/informacion/politica/oposicion-apunto-a-castillo-por-afectar-credibilidad-del-pais-por-su-filiacion-comunista-fa-defendio-su-gestion"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Coalición reclamó respuestas y Castillo replicó: “Hay una suerte de confrontación”",
+    "url": "https://www.montevideo.com.uy/auc.aspx?981081"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Lazo sobre investigación de la muerte de tres buzos en Fray Bentos: “No podemos dar información a la ligera en un caso tan serio”",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/11/lazo-sobre-investigacion-de-la-muerte-de-tres-buzos-en-fray-bentos-no-podemos-dar-informacion-a-la-ligera-en-un-caso-tan-serio/"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "\"Estoy para dar la cara y dar respuestas, las posibles, a las familias\", dice Lazo tras muerte de militares",
+    "url": "https://www.subrayado.com.uy/estoy-dar-la-cara-y-dar-respuestas-las-posibles-las-familias-dice-lazo-muerte-militares-n1022648"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Madre de militar fallecido realizará denuncia por la muerte de su hijo y reclamó justicia; señaló errores en entrenamiento",
+    "url": "https://www.subrayado.com.uy/madre-militar-fallecido-realizara-denuncia-la-muerte-su-hijo-y-reclamo-justicia-senalo-errores-entrenamiento-n1022706"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Hermano de militar que murió en entrenamiento en el río Uruguay pidió justicia: \"Dejó mucho dolor\"",
+    "url": "https://www.subrayado.com.uy/hermano-militar-que-murio-entrenamiento-el-rio-uruguay-pidio-justicia-dejo-mucho-dolor-n1022711"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Diputado blanco sugirió a ministra Lazo “pensar en renunciar” por muerte de buzos",
+    "url": "https://www.montevideo.com.uy/auc.aspx?981088"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-11-05.mp3",
+  "capitulos_json": "2026-11-05.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-11-04",
   "guid": "tapero-2026-11-04",
   "titulo": "Fidel Castro en el Parlamento y policía mata menor de 13 años",

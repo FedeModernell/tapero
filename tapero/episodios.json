@@ -1,6 +1,80 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-11-14",
+  "guid": "tapero-2026-11-14",
+  "titulo": "Adolescentes en el Inisa: ¿justicia o ensañamiento?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nLa Justicia dispuso treinta días de privación de libertad en el Inisa. El INAU lo calificó de «muy triste noticia». ¿Qué pasa el día treinta y uno?\n\n- Tres adolescentes en el Inisa: el fiscal Pablo Rivas pidió la internación cautelar tras la formalización por lesiones y violencia privada contra Valeria Ripoll y su hija; el INAU dijo que la privación debe ser el «último recurso» y cuestionó la resolución judicial.\n- Patentes 2027: el Congreso de Intendentes pasó a cuarto intermedio sin acuerdo antes del plazo legal del domingo 15 de noviembre; el diputado Juan Martín Jorge reclamó una auditoría externa del Sucive para saber en qué se gastó el dinero.\n\nEn la mesa: Inés y Sofía (personajes ficticios), Artigas y Batlle y Ordóñez —recreaciones con IA de figuras históricas.\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: la diaria · 14 de noviembre de 2026",
+  "titulo_youtube": "14/11 · Adolescentes en el Inisa: ¿justicia o ensañamiento? | Ta, pero…",
+  "comentario_fijado": "El INAU admitió problemas estructurales. ¿Con treinta días de internación alcanza, o hay que responder también qué pasa el día treinta y uno?",
+  "audio": "episodio.mp3",
+  "duracion_s": 414.596145,
+  "bytes": 9952069,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-11-14.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "La Justicia dispuso su privación de libertad y el INAU dijo que es una \"muy triste noticia\": ¿la prisión preventiva de adolescentes es justicia o ensañamiento?",
+    "inicio": 111.6
+   },
+   {
+    "titulo": "El domingo vence el plazo y los intendentes no se ponen de acuerdo con las patentes 2027: ¿quién tiene razón?",
+    "inicio": 246.2
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 357.5
+   }
+  ],
+  "clips": [],
+  "fuentes": [
+   {
+    "fuente": "la diaria",
+    "titulo": "Justicia impuso prisión preventiva a adolescentes denunciadas por Ripoll",
+    "url": "https://ladiaria.com.uy/justicia/articulo/2026/11/justicia-impuso-prision-preventiva-a-adolescentes-denunciadas-por-ripoll/"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "\"No sé cómo no renuncia\": Ripoll estalló contra la presidenta del INAU, calificó de \"patético\" el comunicado y exigió trasladar el hogar",
+    "url": "https://www.elobservador.com.uy/nacional/no-se-como-no-renuncia-ripoll-estallo-contra-la-presidenta-del-inau-califico-patetico-el-comunicado-y-exigio-trasladar-el-hogar-n6063718"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "“¿Nos tienen que matar?”: Ripoll criticó a presidente de INAU por “justificar” a menores",
+    "url": "https://www.montevideo.com.uy/auc.aspx?982183"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "“Triste noticia”: Presidenta y vice de INAU contra fallo que sanciona agresoras de Ripoll",
+    "url": "https://www.montevideo.com.uy/auc.aspx?982105"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Presidenta del INAU cuestionó privación de libertad de las adolescentes que agredieron a Valeria Ripoll",
+    "url": "https://www.subrayado.com.uy/presidenta-del-inau-cuestiono-privacion-libertad-las-adolescentes-que-agredieron-valeria-ripoll-n1023427"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "A pocas horas de que venza el plazo legal, el Congreso de Intendentes aún no llega a un acuerdo por el valor de las patentes",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/11/a-pocas-horas-de-que-venza-el-plazo-legal-el-congreso-de-intendentes-aun-no-llega-a-un-acuerdo-por-el-valor-de-las-patentes/"
+   },
+   {
+    "fuente": "El País",
+    "titulo": "Patente 2027: intendentes continúan negociaciones acercándose al plazo límite y bajo la atenta mirada de diputados",
+    "url": "https://www.elpais.com.uy/informacion/politica/patente-2027-intendentes-continuan-negociaciones-acercandose-al-plazo-limite-y-bajo-la-atenta-mirada-de-diputados"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-11-14.mp3",
+  "capitulos_json": "2026-11-14.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-11-05",
   "guid": "tapero-2026-11-05",
   "titulo": "Castillo: ¿cómo actuó como ministro? Militares muertos en Fray Bentos",

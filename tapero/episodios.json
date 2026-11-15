@@ -1,6 +1,90 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-11-15",
+  "guid": "tapero-2026-11-15",
+  "titulo": "Muro del Papa pintado por la UJC: ¿de quién es el espacio público?",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nUn muro del túnel de avenida Italia fue acondicionado para la visita del papa León XIV. La UJC lo pintó. ¿Ese espacio era de todos o del evento?\n\n- La UJC pintó el muro del túnel de Avenida Italia que había sido acondicionado para la visita del papa León XIV. La alcaldesa Matilde Antía publicó un video quejándose de que la pared no duró ni setenta y dos horas. La UJC defendió la pintada y recordó la muerte de Felipe Cabral, Plef, en Punta Gorda en 2019, según la UJC, con la causa archivada.\n- El Partido Independiente propuso en su Convención Nacional analizar la posibilidad de que la Coalición Republicana vaya bajo un lema único en 2029. Pablo Mieres argumenta que así los votos residuales no van al Frente Amplio, aunque admitió que la iniciativa está lejos del consenso.\n\nEn la mesa: Inés, Sofía (economista · personaje ficticio), Emilio Frugoni (recreación con IA · fundador del Partido Socialista) y Carlos Vaz Ferreira (recreación con IA · filósofo). Guion y voces generados con IA · hechos con fuente.\n\nSi ese muro fue acondicionado para la visita del papa León XIV, ¿era de todos o del evento? Contanos abajo.\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: Montevideo Portal · 15 de noviembre de 2026",
+  "titulo_youtube": "15/11 · Muro del Papa pintado por la UJC: ¿de quién es el espacio público? | Ta, pero…",
+  "comentario_fijado": "El muro fue acondicionado para la visita del papa León XIV. ¿Ese espacio era de todos o del evento? ¿Con qué argumento te quedás?",
+  "audio": "episodio.mp3",
+  "duracion_s": 389.950726,
+  "bytes": 9360239,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-11-15.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "La Juventud Comunista pintó un muro preparado para el Papa y Antía dijo que «incomoda»: ¿expresión política legítima o falta de respeto al espacio compartido?",
+    "inicio": 130.9
+   },
+   {
+    "titulo": "Mieres quiere que toda la coalición vaya bajo un solo lema en 2029: ¿unidad que gana o partidos que se disuelven?",
+    "inicio": 229.3
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 346.2
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "¿Pintada o torre: mismo derecho en el muro?",
+    "texto_instagram": "¿Una pintada y una torre pesan lo mismo en el espacio público?\nSofía, personaje ficticio, pregunta si dos usos del espacio tienen el mismo derecho; Frugoni, recreado con IA, señala que la asimetría en la reacción revela quién decide qué vale; Vaz Ferreira, recreado con IA, agrega que cuando una regla solo se aplica a un actor encubre algo más que un principio.\nY queda sin respuesta: ¿existe una norma para ese muro?\n¿Con qué argumento te quedás? Mandáselo a quien decide qué va en los muros de tu barrio.\n#MuroAvenidaItalia",
+    "texto_tiktok": "Pintada en muro del Papa: ¿mismo derecho que una torre en el espacio público? ¿Con qué lado te quedás? #MuroAvenidaItalia",
+    "texto_shorts": "Muro del Papa: ¿pintada igual que torre en el espacio público? #Shorts",
+    "medio": "Montevideo Portal"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "¿Lema único 2029: forma o fondo?",
+    "texto_instagram": "¿Qué va primero en la coalición: el programa o la etiqueta?\nFrugoni, recreado con IA, sostiene que poner el lema antes que el contenido vacía la política; Sofía, personaje ficticio, pregunta quién arranca primero; y Vaz Ferreira, recreado con IA, suma: ¿no será el sistema electoral el que hace perder esos votos de todas formas?\n¿Con qué argumento te quedás? Mandáselo a quien va a votar en 2029.\n#LemaÚnico2029",
+    "texto_tiktok": "Lema único 2029: ¿primero el programa o la etiqueta? ¿Con qué lado te quedás? #LemaÚnico2029",
+    "texto_shorts": "¿Lema único 2029: programa o etiqueta primero? #Shorts",
+    "medio": "Subrayado"
+   },
+   {
+    "archivo": "clips/clip_3.mp4",
+    "titulo": "¿El muro del Papa: de todos o del evento?",
+    "texto_instagram": "¿Puede la alcaldesa decidir qué va en un muro que fue acondicionado para la visita del papa León XIV?\nUn muro del túnel de avenida Italia fue acondicionado para la visita del papa León XIV. La UJC lo pintó. La discusión es quién tiene derecho a decidir qué se pone en ese espacio: Sofía, personaje ficticio, cuestiona que sin regla clara el espacio lo decide quién grita más fuerte; Frugoni, recreado con IA, responde que ese muro es de todos, incluidos los que no profesan esa fe.\n¿Vos con qué postura te quedás: la que pide una regla clara primero, o la que prioriza la expresión política en el espacio público?\n#MuroDelPapa",
+    "texto_tiktok": "Pintada en muro del Papa: ¿quién decide qué va en el espacio público? #MuroDelPapa",
+    "texto_shorts": "¿El muro del Papa: espacio de todos o del evento? #Shorts",
+    "medio": "Montevideo Portal"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "La Juventud Comunista cruzó a Matilde Antía: «El muro pintado incomoda porque rompe el monólogo del mercado»",
+    "url": "https://www.carasycaretas.com.uy/politica/la-juventud-comunista-cruzo-matilde-antia-el-muro-pintado-incomoda-porque-rompe-el-monologo-del-mercado-n101085"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "“Mirada higienista”: juventud del PCU respondió tras polémica con Antía por muro pintado",
+    "url": "https://www.montevideo.com.uy/auc.aspx?982255"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Pablo Mieres se tiene fe: quiere convencer a la coalición de ir bajo un solo lema para evitar el balotaje",
+    "url": "https://www.carasycaretas.com.uy/politica/pablo-mieres-se-tiene-fe-quiere-convencer-la-coalicion-ir-un-solo-lema-evitar-el-balotaje-n101086"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Partido Independiente plantea que Coalición se presente bajo un lema único en las próximas elecciones",
+    "url": "https://www.subrayado.com.uy/partido-independiente-plantea-que-coalicion-se-presente-un-lema-unico-las-proximas-elecciones-n1023525"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-11-15.mp3",
+  "capitulos_json": "2026-11-15.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-11-14",
   "guid": "tapero-2026-11-14",
   "titulo": "Adolescentes en el Inisa: ¿justicia o ensañamiento?",

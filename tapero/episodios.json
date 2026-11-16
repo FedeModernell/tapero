@@ -1,6 +1,87 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-11-16",
+  "guid": "tapero-2026-11-16",
+  "titulo": "INISA: ¿había alternativas? Marset y presuntos sobornos a funcionarios",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nTreinta días de internación para tres chiquilinas de catorce y quince años: el sindicato del INAU dice que había otras salidas. Y la Fiscalía de EEUU presenta documentos con presuntos sobornos de Marset a funcionarios en cuatro países. Dos temas donde la pregunta no cierra fácil.\n\n- INISA: la Justicia dispuso treinta días de internación para tres adolescentes de catorce y quince años imputadas por agredir a Valeria Ripoll. El SUINAU reclamó medidas alternativas al encierro; la presidenta del INAU y su vicepresidente reconocieron problemas estructurales en el sistema. ¿Qué pasa el día treinta y uno?\n- Marset: según LR21, la Fiscalía de Estados Unidos presentó documentos que describen presuntos sobornos que, según la Fiscalía, Marset habría pagado a funcionarios de Uruguay, Paraguay, Bolivia y Venezuela. Queda abierto si la Justicia uruguaya abrirá una causa con ese material.\n\nEn la mesa: Inés (conductora), Marta (jubilada de Paso de la Arena), José Pedro Varela (recreación con IA) y Aparicio Saravia (recreación con IA). Personajes ficticios y recreaciones históricas · Guion y voces de IA · Hechos con fuente.\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: Caras y Caretas · 16 de noviembre de 2026",
+  "titulo_youtube": "16/11 · INISA: ¿había alternativas? Marset y presuntos sobornos a funcionarios | Ta, pero…",
+  "comentario_fijado": "Si, como sostienen el sindicato y varias organizaciones, faltó protección a tiempo, ¿qué respuesta corresponde? Contanos abajo.",
+  "audio": "episodio.mp3",
+  "duracion_s": 406.490408,
+  "bytes": 9757091,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-11-16.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "El sindicato del INAU también cuestionó la prisión de las adolescentes: ¿Qué se discute sobre el sistema y la medida judicial?",
+    "inicio": 137.2
+   },
+   {
+    "titulo": "Fiscalía de EEUU presenta documentos sobre presuntos sobornos de Marset a funcionarios uruguayos: ¿Qué hará la Justicia uruguaya con ese material?",
+    "inicio": 247.8
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 338.3
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "Marset: ¿Uruguay va a investigar?",
+    "texto_instagram": "La Fiscalía de EE.UU. presentó documentos sobre presuntos sobornos de Marset a funcionarios. ¿Y Uruguay?\nSaravia y Varela, recreados con IA, y Marta, personaje ficticio, discuten si la Justicia uruguaya va a abrir una causa o si esos documentos quedan flotando.\nMandáselo a quien siga el caso de Marset.\n¿Vos qué pregunta le hacés a ese material?\n#Marset",
+    "texto_tiktok": "Marset y sobornos: ¿la Justicia uruguaya va a investigar? ¿Qué hacés con esos documentos? #Marset",
+    "texto_shorts": "Marset: ¿Uruguay investiga o los documentos quedan flotando? #Shorts",
+    "medio": "LR21"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "INAU: ¿internación o medidas alternativas?",
+    "texto_instagram": "El sindicato del INAU reclamó que había alternativas al encierro. ¿Las había?\nMarta, personaje ficticio, plantea que proteger a la víctima y atender los problemas estructurales del sistema no se cancelan entre sí; Saravia y Varela, recreados con IA, cruzan si esas alternativas existían de verdad.\nMandáselo a quien trabaje en el sistema de protección o tenga a alguien ahí adentro.\n¿Con qué postura te quedás?\n#INAU #SUINAU",
+    "texto_tiktok": "INAU y la internación: ¿había medidas alternativas? ¿Con qué argumento te quedás? #INAU",
+    "texto_shorts": "INAU: ¿internación necesaria o había alternativas? #Shorts",
+    "medio": "Caras y Caretas"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Privación libertad de adolescentes que agredieron a Ripoll abrió debate sobre el sistema de protección",
+    "url": "https://www.carasycaretas.com.uy/politica/privacion-libertad-adolescentes-que-agredieron-ripoll-abrio-debate-el-sistema-proteccion-n101100"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Sindicato del INAU cuestionó el envío a prisión de las tres adolescentes que agredieron a Valeria Ripoll",
+    "url": "https://www.carasycaretas.com.uy/sociedad/sindicato-del-inau-cuestiono-el-envio-prision-las-tres-adolescentes-que-agredieron-valeria-ripoll-n101092"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Sindicato del INAU cuestionó el envío de tres adolescentes al INISA por la agresión a Ripoll y reclamó \"alternativas\" al encierro",
+    "url": "https://www.elobservador.com.uy/nacional/sindicato-del-inau-cuestiono-el-envio-tres-adolescentes-al-inisa-la-agresion-ripoll-y-reclamo-alternativas-al-encierro-n6063930"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Sinau tras fallo de la Justicia para agresoras de Ripoll: \"La privación de libertad no puede ser la respuesta ante la falta de protección\"",
+    "url": "https://www.subrayado.com.uy/sinau-fallo-la-justicia-agresoras-ripoll-la-privacion-libertad-no-puede-ser-la-respuesta-la-falta-proteccion-n1023543"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Fiscalía de EEUU revela presuntas coimas de Marset en Uruguay: mensajes secretos de Sky ECC lo comprometen",
+    "url": "https://www.lr21.com.uy/comunidad/1500704-fiscalia-de-eeuu-revela-presuntas-coimas-de-marset-en-uruguay-mensajes-secretos-de-sky-ecc-lo-comprometen"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-11-16.mp3",
+  "capitulos_json": "2026-11-16.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-11-15",
   "guid": "tapero-2026-11-15",
   "titulo": "Muro del Papa pintado por la UJC: ¿de quién es el espacio público?",

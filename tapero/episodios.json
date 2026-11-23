@@ -1,6 +1,175 @@
 [
  {
   "podcast_id": "tapero",
+  "fecha": "2026-11-23",
+  "guid": "tapero-2026-11-23",
+  "titulo": "PIT-CNT pierde la representación de los trabajadores en el BPS: 80 mil votos y una denuncia",
+  "descripcion": "Todo esto está hecho con inteligencia artificial: personajes ficticios y figuras de nuestra historia recreadas. Las fuentes, en la descripción.\n\nEl PIT-CNT perdió la representación de los trabajadores en el BPS con más de 80 mil votos de diferencia — y presentó denuncia ante la Corte Electoral. En jubilados, el martes puede cambiar todo.\n\n- BPS: la lista de Lorena Roqueta ganó con 446 mil votos frente a 366 mil del PIT-CNT; en jubilados, casi 2 mil votos de diferencia con más de 6 mil observados sin escrutar. El escrutinio definitivo es el martes 24 de noviembre.\n- Petróleo y clima: la presidenta de ANCAP, Cecilia San Román, dijo ante el Senado que explorar petróleo y liderar la transición energética no se contradicen; esa misma semana, la COP31 en Antalya, Turquía, terminó sin acuerdo y el secretario general de la ONU se declaró profundamente decepcionado.\n\nEn la mesa: Sofía (economista), Washington (productor de Tacuarembó) y Luis Alberto de Herrera (recreación con IA).\n\nSi la exploración del bloque seis encuentra petróleo, ¿quién debería controlarlo?\n\n—\nTa, pero… · La historia discute la noticia. Varias miradas: tu opinión la armás vos.\nFiguras históricas recreadas con IA · Personajes de hoy ficticios · Guion y voces de IA.\nMás en tapero.uy\nFuente: Caras y Caretas · 23 de noviembre de 2026",
+  "titulo_youtube": "23/11 · PIT-CNT pierde la representación de los trabajadores en el BPS: 80 mil votos y una denuncia | Ta, pero…",
+  "comentario_fijado": "Si la exploración del bloque seis encuentra petróleo, ¿quién debería controlarlo? Contanos acá. 👇",
+  "audio": "episodio.mp3",
+  "duracion_s": 427.994785,
+  "bytes": 10273688,
+  "video": "episodio.mp4",
+  "subtitulos": "subtitulos.srt",
+  "transcripcion": "2026-11-23.vtt",
+  "capitulos": [
+   {
+    "titulo": "Apertura",
+    "inicio": 0.0
+   },
+   {
+    "titulo": "El PIT-CNT perdió la representación de los trabajadores en el BPS por primera vez en 34 años: ¿derrota legítima o resultado manchado por las irregularidades?",
+    "inicio": 137.4
+   },
+   {
+    "titulo": "ANCAP dice que explorar petróleo y liderar la transición energética no se contradicen; la COP31 colapsó por exactamente ese debate: ¿Uruguay puede tener los dos?",
+    "inicio": 222.1
+   },
+   {
+    "titulo": "Cierre",
+    "inicio": 375.6
+   }
+  ],
+  "clips": [
+   {
+    "archivo": "clips/clip_1.mp4",
+    "titulo": "ANCAP: ¿empresa extranjera o recurso propio?",
+    "texto_instagram": "Si quien perfora en Uruguay es una petrolera estadounidense, ¿de quién queda siendo el recurso?\nHerrera, recreado con IA, dice que el control no viene solo con la firma del contrato. Sofía, personaje ficticio, pregunta cómo se defiende la soberanía sobre un eventual recurso petrolero.\n¿Con qué argumento te quedás? Mandáselo a alguien que siga el debate del petróleo en Uruguay.\n#ANCAP #petróleo",
+    "texto_tiktok": "Herrera (recreado): quien perforaría sería una petrolera estadounidense y el control no viene solo con el contrato. #ANCAP",
+    "texto_shorts": "ANCAP petróleo: ¿empresa extranjera o soberanía del recurso? #Shorts",
+    "medio": "El Observador"
+   },
+   {
+    "archivo": "clips/clip_2.mp4",
+    "titulo": "BPS jubilados: ¿escala o principio del voto?",
+    "texto_instagram": "¿Cambia el principio del voto porque haya más circuitos, o la escala importa?\nHerrera, recreado con IA, dice que la integridad del voto no cambia con el tamaño de la elección. Sofía, personaje ficticio, dice que nadie debería mezclar el orden de jubilados con el de trabajadores del BPS.\nEl escrutinio definitivo en jubilados, el martes. ¿Con qué argumento te quedás? Mandáselo a alguien que votó en el BPS.\n#BPS #eleccionesBPS",
+    "texto_tiktok": "BPS jubilados: escrutinio definitivo el martes. ¿El principio del voto o la escala importa más? #BPS",
+    "texto_shorts": "BPS jubilados: ¿el principio del voto o la escala de la elección? #Shorts",
+    "medio": "Caras y Caretas"
+   },
+   {
+    "archivo": "clips/clip_3.mp4",
+    "titulo": "BPS jubilados: ¿aceptar el resultado o revisar?",
+    "texto_instagram": "El trabajador eligió. ¿Y en jubilados, donde la diferencia entra en los votos que faltan contar?\nWashington, personaje ficticio, defiende el resultado en trabajadores; Herrera, recreado con IA, cuestiona el margen en jubilados.\n¿Con qué argumento te quedás? Mandáselo a alguien que es jubilado del BPS.\n#BPS",
+    "texto_tiktok": "BPS jubilados: la diferencia cabe en los votos observados. ¿Se acepta el resultado o se revisa? #BPS",
+    "texto_shorts": "BPS jubilados: ¿aceptar el resultado o esperar los votos observados? #Shorts",
+    "medio": "Caras y Caretas"
+   }
+  ],
+  "fuentes": [
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "BPS: por primera vez en 34 años, Pit-Cnt pierde la representación de los trabajadores",
+    "url": "https://www.carasycaretas.com.uy/politica/bps-primera-vez-34-anos-pit-cnt-pierde-la-representacion-los-trabajadores-n101306"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Elecciones del BPS: el PIT-CNT perdió la representación de los trabajadores en el directorio",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/11/elecciones-del-bps-el-pit-cnt-perdio-la-representacion-de-los-trabajadores-en-el-directorio/"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Mal humor y desconcierto en redes por elecciones del BPS: críticas al voto obligatorio y al sistema electoral",
+    "url": "https://www.carasycaretas.com.uy/sociedad/mal-humor-y-desconcierto-redes-elecciones-del-bps-criticas-al-voto-obligatorio-y-al-sistema-electoral-n101302"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "El PIT-CNT denunció irregularidades en las elecciones del BPS: faltaron listas de la central sindical en varios circuitos",
+    "url": "https://www.carasycaretas.com.uy/politica/el-pit-cnt-denuncio-irregularidades-las-elecciones-del-bps-faltaron-listas-la-central-sindical-varios-circuitos-n101300"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Elecciones del BPS: con casi el 100% de los circuitos escrutados, lideran la lista 15 en activos, la 1 en pasivos y la 25 en empresas",
+    "url": "https://www.elobservador.com.uy/nacional/elecciones-del-bps-mas-del-50-los-circuitos-escrutados-lideran-las-listas-15-5-y-25-n6064784"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "\"Graves irregularidades\": PIT-CNT denunció faltante de listas en más de 30 circuitos de las elecciones del BPS",
+    "url": "https://www.elobservador.com.uy/nacional/graves-irregularidades-pit-cnt-denuncio-faltante-listas-mas-30-circuitos-las-elecciones-del-bps-n6064752"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Elecciones de BPS: inédita derrota para el PIT-CNT",
+    "url": "https://www.subrayado.com.uy/elecciones-bps-inedita-derrota-el-pit-cnt-n1024161"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "BPS: votó alrededor del 82% y la Corte destacó \"una de las participaciones mayores\" para este organismo",
+    "url": "https://www.subrayado.com.uy/bps-voto-alrededor-del-82-y-la-corte-destaco-una-las-participaciones-mayores-este-organismo-n1024157"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "Presidente de la Corte Electoral dijo que falta de listas al comienzo fue por \"dificultades logísticas\"",
+    "url": "https://www.subrayado.com.uy/presidente-la-corte-electoral-dijo-que-falta-listas-al-comienzo-fue-dificultades-logisticas-n1024159"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "PIT-CNT y Onajpu denuncian falta de listas en los circuitos al comienzo de la jornada: \"Grave irregularidad\"",
+    "url": "https://www.subrayado.com.uy/pit-cnt-y-onajpu-denuncian-falta-listas-los-circuitos-al-comienzo-la-jornada-grave-irregularidad-n1024134"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Elecciones del BPS: el balance de la presidenta del organismo, el faltante de listas y la solución de la Corte Electoral",
+    "url": "https://www.elobservador.com.uy/nacional/elecciones-del-bps-el-balance-la-presidenta-del-organismo-la-fecha-asuncion-los-directores-electos-y-la-canasta-fin-ano-n6064773"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "Pese a denuncia por falta de listas, BPS dijo que la elección transcurrió con normalidad",
+    "url": "https://www.montevideo.com.uy/auc.aspx?983138"
+   },
+   {
+    "fuente": "Montevideo Portal",
+    "titulo": "“Gravísimo”: Pit-Cnt denunció que hay falta de listas en las elecciones del BPS",
+    "url": "https://www.montevideo.com.uy/auc.aspx?983112"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Elecciones del BPS 2026: dura derrota del PIT-CNT, triunfo de “Hay otro camino” y disputa voto a voto entre jubilados",
+    "url": "https://www.lr21.com.uy/politica/1500886-elecciones-del-bps-2026-dura-derrota-del-pit-cnt-triunfo-de-hay-otro-camino-y-disputa-voto-a-voto-entre-jubilados"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Orsi votó en las elecciones del BPS y llamó a fortalecer las instituciones",
+    "url": "https://www.carasycaretas.com.uy/politica/orsi-voto-las-elecciones-del-bps-y-llamo-fortalecer-las-instituciones-n101303"
+   },
+   {
+    "fuente": "Caras y Caretas",
+    "titulo": "Elecciones del BPS: casi dos millones de personas están habilitadas para votar este domingo",
+    "url": "https://www.carasycaretas.com.uy/sociedad/elecciones-del-bps-casi-dos-millones-personas-estan-habilitadas-votar-este-domingo-n101296"
+   },
+   {
+    "fuente": "El Observador",
+    "titulo": "Presidenta de Ancap: \"No hay ningún conflicto entre producir petróleo y liderar la transición energética\"",
+    "url": "https://www.elobservador.com.uy/economia-y-empresas/presidenta-ancap-no-hay-ningun-conflicto-producir-petroleo-y-liderar-la-transicion-energetica-n6064635"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Ancap ve al modelo noruego como “un ejemplo a seguir” en el manejo de los ingresos petroleros",
+    "url": "https://ladiaria.com.uy/politica/articulo/2026/11/ancap-ve-al-modelo-noruego-como-un-ejemplo-a-seguir-en-el-manejo-de-los-ingresos-petroleros/"
+   },
+   {
+    "fuente": "la diaria",
+    "titulo": "Sin acuerdo sobre el uso de combustibles fósiles, finalizó la COP31 de Turquía",
+    "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/sin-acuerdo-sobre-el-uso-de-combustibles-fosiles-finalizo-la-cop31-de-turquia/"
+   },
+   {
+    "fuente": "Subrayado",
+    "titulo": "COP31 no alcanza un acuerdo y fracasa por discrepancias sobre combustibles fósiles; UE y Panamá no acompañaron",
+    "url": "https://www.subrayado.com.uy/cop31-no-alcanza-un-acuerdo-y-fracasa-discrepancias-combustibles-fosiles-ue-y-panama-no-acompanaron-n1024130"
+   },
+   {
+    "fuente": "LR21",
+    "titulo": "Uruguay superó a Estados Unidos en la proporción de autos eléctricos vendidos",
+    "url": "https://www.lr21.com.uy/economia/1500880-uruguay-supero-a-estados-unidos-en-la-proporcion-de-autos-electricos-vendidos"
+   }
+  ],
+  "tipo": "full",
+  "archivo": "2026-11-23.mp3",
+  "capitulos_json": "2026-11-23.json"
+ },
+ {
+  "podcast_id": "tapero",
   "fecha": "2026-11-17",
   "guid": "tapero-2026-11-17",
   "titulo": "Patente 2027: ¿congelada o subida? Orsi y Venezuela",
